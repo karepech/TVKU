@@ -2120,9 +2120,6 @@ http://ua.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtr
 #EXTINF:-1 cuid="" tvg-chno="" tvg-id="TNT.Sports.3HD.uk" tvg-logo="http://tv.team/images/chIcons/233.png" group-title="Sports",TNT Sport 3 🇬🇧
 http://ua.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtkwT58xCKGmUb76YLA0yX9SnAuOF3AErdGHBsSDLGYSl
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRISport.id" tvg-logo="https://github.com/bimaryu/project/blob/main/TVRISPORT.png?raw=true",TVRI Sport
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JjzVSAG.png" group-title="Sports",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
