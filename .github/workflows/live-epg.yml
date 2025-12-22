@@ -1,33 +1,49 @@
-name: Live Sports Today Tomorrow
+name: Generate Live Match Playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # jalan tiap 10 menit
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install requests
-
-      - name: Generate live playlist
-        run: python generate_live_today_tomorrow.py
-
-      - name: Commit changes
+      - name: Install dependencies
         run: |
-          git config user.name "epg-bot"
-          git config user.email "bot@github.com"
-          git add live_today.m3u live_tomorrow.m3u
-          git commit -m "auto update live today/tomorrow" || echo "no changes"
-          git push
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate live match playlist
+        run: |
+          python generate_live_today_tomorrow.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          # ambil update terbaru supaya tidak conflict
+          git pull origin main --rebase
+
+          # tambahkan file hasil generate
+          git add live_match.m3u unmatched_channels.log
+
+          # commit jika ada perubahan
+          git commit -m "Auto update live match playlist" || echo "No changes to commit"
+
+          # push ke repo
+          git push origin main
