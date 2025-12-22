@@ -5,15 +5,13 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from difflib import get_close_matches
 
-# ===============================
+# ==================================================
 # KONFIGURASI
-# ===============================
+# ==================================================
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 INPUT_M3U = "live_epg_sports.m3u"
 
-OUT_NOW = "live_now.m3u"
-OUT_TODAY = "live_today.m3u"
-OUT_TOMORROW = "live_tomorrow.m3u"
+OUT_FILE = "live_match.m3u"
 LOG_FILE = "unmatched_channels.log"
 
 TZ = timezone(timedelta(hours=7))  # WIB
@@ -21,9 +19,9 @@ NOW = datetime.now(TZ)
 TODAY = NOW.date()
 TOMORROW = TODAY + timedelta(days=1)
 
-# ===============================
-# KEYWORD PERTANDINGAN
-# ===============================
+# ==================================================
+# KEYWORD FILTER (PERTANDINGAN SAJA)
+# ==================================================
 MATCH_KEYWORDS = [
     "VS", " V ", "MATCH", "GAME", "RACE", "FINAL", "SEMI",
     "LEAGUE", "CUP", "CHAMPIONSHIP",
@@ -39,9 +37,9 @@ BLOCK_KEYWORDS = [
     "DOCUMENTARY", "TALK", "SHOW", "NEWS"
 ]
 
-# ===============================
+# ==================================================
 # HELPER
-# ===============================
+# ==================================================
 def parse_time(t):
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S") \
         .replace(tzinfo=timezone.utc) \
@@ -58,9 +56,9 @@ def is_live_match(title):
         return False
     return any(k in t for k in MATCH_KEYWORDS)
 
-# ===============================
-# DOWNLOAD EPG
-# ===============================
+# ==================================================
+# DOWNLOAD & PARSE EPG
+# ==================================================
 print("📡 Download EPG...")
 r = requests.get(EPG_URL, timeout=180)
 try:
@@ -70,9 +68,9 @@ except:
 
 root = ET.fromstring(content)
 
-# ===============================
+# ==================================================
 # BUILD EPG CHANNEL MAP
-# ===============================
+# ==================================================
 epg_channel_map = {}
 epg_keys = []
 
@@ -86,9 +84,9 @@ for ch in root.findall("channel"):
 
 print(f"✅ EPG channels loaded: {len(epg_channel_map)}")
 
-# ===============================
+# ==================================================
 # BUILD LIVE MATCH MAP
-# ===============================
+# ==================================================
 live_now = {}
 live_today = {}
 live_tomorrow = {}
@@ -113,17 +111,14 @@ for p in root.findall("programme"):
 
 print("✅ LIVE MATCH filtered")
 
-# ===============================
-# BACA PLAYLIST + FUZZY tvg-id
-# ===============================
+# ==================================================
+# BACA PLAYLIST + AUTO tvg-id + FUZZY
+# ==================================================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
 
 unmatched = set()
-
-out_now = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
-out_today = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
-out_tomorrow = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
 
 i = 0
 while i < len(lines):
@@ -131,6 +126,7 @@ while i < len(lines):
         extinf = lines[i]
         url = lines[i + 1] if i + 1 < len(lines) else ""
 
+        # ambil nama channel
         m = re.search(r",([^,]+)$", extinf)
         ch_name = m.group(1) if m else ""
         ch_key = norm(ch_name)
@@ -140,6 +136,7 @@ while i < len(lines):
         if m_id:
             tvg_id = m_id.group(1)
 
+        # exact match
         if not tvg_id and ch_key in epg_channel_map:
             tvg_id = epg_channel_map[ch_key]
             extinf = extinf.replace(
@@ -147,6 +144,7 @@ while i < len(lines):
                 f'#EXTINF:-1 tvg-id="{tvg_id}"'
             )
 
+        # fuzzy match
         if not tvg_id:
             matches = get_close_matches(ch_key, epg_keys, n=1, cutoff=0.75)
             if matches:
@@ -158,40 +156,59 @@ while i < len(lines):
 
         if not tvg_id:
             unmatched.add(ch_name)
-        else:
-            for title in live_now.get(tvg_id, []):
-                out_now.append(
-                    re.sub(r",.*$", f",🔴 LIVE • {title}", extinf)
-                )
-                out_now.append(url)
+            i += 2
+            continue
 
-            for start, title in live_today.get(tvg_id, []):
-                out_today.append(
-                    re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", extinf)
-                )
-                out_today.append(url)
+        # ===============================
+        # KATEGORI DINAMIS
+        # ===============================
+        for title in live_now.get(tvg_id, []):
+            new_ext = re.sub(
+                r'group-title="[^"]*"',
+                'group-title="LIVE SEKARANG"',
+                extinf
+            )
+            output.append(
+                re.sub(r",.*$", f",🔴 LIVE • {title}", new_ext)
+            )
+            output.append(url)
 
-            for start, title in live_tomorrow.get(tvg_id, []):
-                out_tomorrow.append(
-                    re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", extinf)
-                )
-                out_tomorrow.append(url)
-    i += 1
+        for start, title in live_today.get(tvg_id, []):
+            new_ext = re.sub(
+                r'group-title="[^"]*"',
+                'group-title="TANGGAL SEKARANG"',
+                extinf
+            )
+            output.append(
+                re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
+            )
+            output.append(url)
 
-# ===============================
-# SIMPAN FILE
-# ===============================
-for fname, data in [
-    (OUT_NOW, out_now),
-    (OUT_TODAY, out_today),
-    (OUT_TOMORROW, out_tomorrow),
-]:
-    with open(fname, "w", encoding="utf-8") as f:
-        f.write("\n".join(data) + "\n")
+        for start, title in live_tomorrow.get(tvg_id, []):
+            new_ext = re.sub(
+                r'group-title="[^"]*"',
+                'group-title="TANGGAL BESOK"',
+                extinf
+            )
+            output.append(
+                re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
+            )
+            output.append(url)
+
+    i += 2
+
+# ==================================================
+# SIMPAN OUTPUT
+# ==================================================
+with open(OUT_FILE, "w", encoding="utf-8") as f:
+    f.write("\n".join(output) + "\n")
 
 with open(LOG_FILE, "w", encoding="utf-8") as f:
     f.write("❌ UNMATCHED CHANNELS\n")
     for ch in sorted(unmatched):
         f.write(f"- {ch}\n")
 
-print("🎉 DONE: LIVE MATCH ONLY")
+print("🎉 SELESAI")
+print("File dibuat:")
+print(" - live_match.m3u")
+print(" - unmatched_channels.log")
