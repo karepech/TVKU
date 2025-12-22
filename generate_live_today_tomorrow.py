@@ -14,7 +14,8 @@ INPUT_M3U = "live_epg_sports.m3u"
 OUT_FILE = "live_match.m3u"
 LOG_FILE = "unmatched_channels.log"
 
-TZ = timezone(timedelta(hours=7))  # WIB
+# WIB
+TZ = timezone(timedelta(hours=7))
 NOW = datetime.now(TZ)
 TODAY = NOW.date()
 TOMORROW = TODAY + timedelta(days=1)
@@ -23,7 +24,7 @@ LIVE_TOLERANCE_BEFORE = timedelta(minutes=15)
 LIVE_TOLERANCE_AFTER = timedelta(minutes=15)
 
 # ==================================================
-# FILTER PERTANDINGAN
+# KEYWORD PERTANDINGAN
 # ==================================================
 MATCH_KEYWORDS = [
     "VS", " V ", "MATCH", "GAME", "RACE", "FINAL", "SEMI",
@@ -44,9 +45,11 @@ BLOCK_KEYWORDS = [
 # HELPER
 # ==================================================
 def parse_time(t):
-    return datetime.strptime(t[:14], "%Y%m%d%H%M%S") \
-        .replace(tzinfo=timezone.utc) \
+    return (
+        datetime.strptime(t[:14], "%Y%m%d%H%M%S")
+        .replace(tzinfo=timezone.utc)
         .astimezone(TZ)
+    )
 
 def norm(text):
     text = text.lower()
@@ -64,7 +67,7 @@ def is_valid_epg_id(tvg_id):
 
 def get_stream_block(lines, start_index):
     """
-    Ambil 1 BLOK STREAM UTUH:
+    Ambil BLOK STREAM UTUH:
     #EXTVLCOPT / #KODIPROP / URL
     """
     block = []
@@ -83,7 +86,7 @@ def get_stream_block(lines, start_index):
 # ==================================================
 # DOWNLOAD & PARSE EPG
 # ==================================================
-print("📡 Download EPG...")
+print("📡 Download EPG epg.pw ...")
 r = requests.get(EPG_URL, timeout=180)
 try:
     content = gzip.decompress(r.content)
@@ -93,7 +96,7 @@ except:
 root = ET.fromstring(content)
 
 # ==================================================
-# BUILD MAP CHANNEL EPG
+# MAP CHANNEL EPG
 # ==================================================
 epg_channel_map = {}
 epg_keys = []
@@ -106,7 +109,7 @@ for ch in root.findall("channel"):
         epg_channel_map[key] = cid
         epg_keys.append(key)
 
-print(f"✅ EPG channels loaded: {len(epg_channel_map)}")
+print(f"✅ Channel EPG: {len(epg_channel_map)}")
 
 # ==================================================
 # AMBIL EVENT PERTANDINGAN
@@ -121,7 +124,7 @@ for p in root.findall("programme"):
     if is_live_match(title):
         events.append((cid, start, stop, title))
 
-print(f"✅ Match events: {len(events)}")
+print(f"✅ Event pertandingan: {len(events)}")
 
 # ==================================================
 # PROSES PLAYLIST
@@ -144,12 +147,12 @@ while i < len(lines):
         i += 1
         continue
 
-    # ambil nama channel
+    # Nama channel
     m = re.search(r",([^,]+)$", extinf)
     ch_name = m.group(1).strip() if m else ""
     ch_key = norm(ch_name)
 
-    # ambil tvg-id
+    # tvg-id
     tvg_id = None
     m_id = re.search(r'tvg-id="([^"]*)"', extinf)
     if m_id and is_valid_epg_id(m_id.group(1)):
@@ -168,7 +171,6 @@ while i < len(lines):
         i += 1
         continue
 
-    # paksa sisipkan tvg-id
     if 'tvg-id=' not in extinf:
         extinf = re.sub(
             r'#EXTINF:[^ ]+',
@@ -181,6 +183,8 @@ while i < len(lines):
         if cid != tvg_id:
             continue
 
+        jam = start.strftime("%H:%M")  # WIB
+
         # 🔴 LIVE SEKARANG
         if (start - LIVE_TOLERANCE_BEFORE) <= NOW <= (stop + LIVE_TOLERANCE_AFTER):
             new_ext = re.sub(
@@ -189,7 +193,7 @@ while i < len(lines):
                 extinf
             )
             output.append(
-                re.sub(r",.*$", f",🔴 LIVE • {title}", new_ext)
+                re.sub(r",.*$", f",🔴 LIVE {jam} WIB • {title}", new_ext)
             )
             output.extend(stream_block)
 
@@ -201,7 +205,7 @@ while i < len(lines):
                 extinf
             )
             output.append(
-                re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
+                re.sub(r",.*$", f",{jam} WIB • {title}", new_ext)
             )
             output.extend(stream_block)
 
@@ -213,7 +217,7 @@ while i < len(lines):
                 extinf
             )
             output.append(
-                re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
+                re.sub(r",.*$", f",{jam} WIB • {title}", new_ext)
             )
             output.extend(stream_block)
 
