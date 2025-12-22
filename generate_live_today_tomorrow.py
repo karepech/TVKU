@@ -2,7 +2,9 @@ import requests, gzip, re, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from difflib import get_close_matches
 
-# ================= CONFIG =================
+# ==================================================
+# CONFIG
+# ==================================================
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 INPUT_M3U = "live_epg_sports.m3u"
 OUT_FILE = "live_match.m3u"
@@ -19,7 +21,9 @@ BULAN_ID = {
 def tanggal_id(dt):
     return f"{dt.day} {BULAN_ID[dt.month]} {dt.year}"
 
-# ================= HELPERS =================
+# ==================================================
+# HELPERS
+# ==================================================
 def parse_time(t):
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S") \
         .replace(tzinfo=timezone.utc) \
@@ -31,12 +35,6 @@ def norm(text):
     return re.sub(r'[^a-z0-9]', '', text)
 
 def base_channel_name(name):
-    """
-    Ambil nama dasar channel (buang angka & kata tambahan)
-    contoh:
-    beIN Sports 1 ID -> beinsports
-    Astro SuperSport 2 -> astrosupersport
-    """
     n = name.lower()
     n = re.sub(r'\b(one|two|three|four|five|main|event)\b', '', n)
     n = re.sub(r'\b\d+\b', '', n)
@@ -44,19 +42,38 @@ def base_channel_name(name):
     return re.sub(r'[^a-z0-9]', '', n)
 
 def is_primary_channel(name):
-    """
-    Channel utama:
-    - ada angka 1
-    - atau kata main / one
-    """
     n = name.lower()
     return (" 1" in n) or ("one" in n) or ("main" in n)
 
+# MODE 3: pertandingan + race + final
 def is_match(title):
     t = title.upper()
-    if any(x in t for x in ["HIGHLIGHT","REPLAY","ANALYSIS","STUDIO","SHOW"]):
+
+    # buang non-pertandingan
+    if any(x in t for x in [
+        "HIGHLIGHT","REPLAY","ANALYSIS","STUDIO",
+        "PRE MATCH","POST MATCH","MAGAZINE",
+        "SHOW","TALK","REVIEW"
+    ]):
         return False
-    return (" VS " in t) or (" V " in t) or (" - " in t)
+
+    # pertandingan tim
+    if " VS " in t or " V " in t or " - " in t:
+        return True
+
+    # race / motorsport
+    if any(x in t for x in [
+        "RACE","GRAND PRIX","MOTOGP","FORMULA","F1"
+    ]):
+        return True
+
+    # final
+    if any(x in t for x in [
+        "FINAL","SEMI FINAL","QUARTER FINAL"
+    ]):
+        return True
+
+    return False
 
 def get_stream_block(lines, i):
     block = []
@@ -70,7 +87,9 @@ def get_stream_block(lines, i):
         j += 1
     return block
 
-# ================= LOAD EPG =================
+# ==================================================
+# LOAD EPG
+# ==================================================
 r = requests.get(EPG_URL, timeout=180)
 try:
     root = ET.fromstring(gzip.decompress(r.content))
@@ -79,8 +98,7 @@ except:
 
 epg_channels = {}
 for ch in root.findall("channel"):
-    name = ch.findtext("display-name","")
-    epg_channels[norm(name)] = ch.attrib["id"]
+    epg_channels[norm(ch.findtext("display-name",""))] = ch.attrib["id"]
 
 epg_events = []
 for p in root.findall("programme"):
@@ -94,7 +112,9 @@ for p in root.findall("programme"):
         title
     ))
 
-# ================= READ PLAYLIST =================
+# ==================================================
+# READ PLAYLIST
+# ==================================================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
 
@@ -135,32 +155,31 @@ while i < len(lines):
     })
     i += 1
 
-# ================= BUILD EVENTS =================
+# ==================================================
+# BUILD EVENTS (GLOBAL SMART MODE)
+# ==================================================
 collected = []
 
 for ch in channels:
     for cid, start, stop, title in epg_events:
 
-        # channel cocok normal
+        # cocok langsung atau satu family nama
         same_channel = cid == ch["tvg_id"]
-
-        # channel family (nama dasar sama)
         same_family = base_channel_name(cid) == ch["base"]
 
         if not (same_channel or same_family):
             continue
 
-        # event sudah lewat → buang
+        # event lewat → buang
         if NOW > stop:
             continue
 
         is_live = start <= NOW <= stop
 
-        # ===== GLOBAL SMART MODE =====
         if is_live:
             group = f"LIVE NOW {tanggal_id(NOW)}"
         else:
-            # NEXT LIVE → hanya channel utama
+            # NEXT LIVE hanya channel utama
             if not ch["primary"]:
                 continue
             group = f"NEXT LIVE {tanggal_id(start)}"
@@ -173,25 +192,32 @@ for ch in channels:
             "block": ch["block"]
         })
 
-# ================= SORT (KUNCI BENAR) =================
+# ==================================================
+# SORT (KUNCI BENAR)
+# ==================================================
 collected.sort(key=lambda x: x["start"])
 
-# ================= OUTPUT =================
+# ==================================================
+# OUTPUT (AMAN TANPA REGEX TITLE)
+# ==================================================
 output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
 
 for e in collected:
     jam = e["start"].strftime("%H:%M WIB")
+
     new_ext = re.sub(
         r'group-title="[^"]*"',
         f'group-title="{e["group"]}"',
         e["extinf"]
     )
-    output.append(
-        re.sub(r",.*$", f",{jam} • {e['title']}", new_ext)
-    )
+
+    # FIX REGEX ERROR: TIDAK pakai re.sub untuk title
+    new_ext = new_ext.split(",", 1)[0] + f",{jam} • {e['title']}"
+
+    output.append(new_ext)
     output.extend(e["block"])
 
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output))
 
-print("SELESAI ✅ (GLOBAL SMART MODE AKTIF)")
+print("SELESAI ✅ (FULL FIXED VERSION)")
