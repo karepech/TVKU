@@ -7,6 +7,7 @@ from datetime import datetime, timedelta, timezone
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 M3U_FILE = "live_epg_sports.m3u"
 
+OUT_NOW = "live_now.m3u"
 OUT_TODAY = "live_today.m3u"
 OUT_TOMORROW = "live_tomorrow.m3u"
 
@@ -20,8 +21,8 @@ def parse_time(t):
         .replace(tzinfo=timezone.utc) \
         .astimezone(TZ)
 
-print("Download EPG...")
-r = requests.get(EPG_URL, timeout=120)
+print("📡 Download EPG...")
+r = requests.get(EPG_URL, timeout=180)
 try:
     content = gzip.decompress(r.content)
 except:
@@ -29,33 +30,42 @@ except:
 
 root = ET.fromstring(content)
 
-# ===============================
-# Ambil EPG Today & Tomorrow
-# ===============================
-epg_map = {}
+live_now = {}
+live_today = {}
+live_tomorrow = {}
 
+# ===============================
+# FILTER LIVE ONLY
+# ===============================
 for p in root.findall("programme"):
     cid = p.attrib.get("channel")
     start = parse_time(p.attrib["start"])
+    stop = parse_time(p.attrib["stop"])
+    title = p.findtext("title", "LIVE EVENT")
 
-    if start.date() in (TODAY, TOMORROW):
-        title = p.findtext("title", "LIVE EVENT")
-        epg_map.setdefault(cid, []).append({
-            "title": title,
-            "start": start,
-            "date": start.date()
-        })
+    # 🔴 LIVE SEKARANG
+    if start <= NOW <= stop:
+        live_now.setdefault(cid, []).append(title)
 
-print(f"EPG event ditemukan: {sum(len(v) for v in epg_map.values())}")
+    # 📅 LIVE HARI INI (YANG AKAN DATANG)
+    if NOW < start and start.date() == TODAY:
+        live_today.setdefault(cid, []).append((start, title))
+
+    # 📆 LIVE BESOK
+    if start.date() == TOMORROW:
+        live_tomorrow.setdefault(cid, []).append((start, title))
+
+print("✅ EPG filtered: LIVE ONLY")
 
 # ===============================
-# Baca playlist
+# BACA PLAYLIST
 # ===============================
 with open(M3U_FILE, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
 
-today_out = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
-tomorrow_out = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+out_now = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+out_today = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+out_tomorrow = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
 
 i = 0
 while i < len(lines):
@@ -66,26 +76,35 @@ while i < len(lines):
         m = re.search(r'tvg-id="([^"]+)"', extinf)
         if m:
             tvg_id = m.group(1)
-            if tvg_id in epg_map:
-                for ev in epg_map[tvg_id]:
-                    label = f'{ev["start"].strftime("%H:%M")} • {ev["title"]}'
-                    new_ext = re.sub(r",.*$", f",{label}", extinf)
 
-                    if ev["date"] == TODAY:
-                        today_out.append(new_ext)
-                        today_out.append(url)
-                    elif ev["date"] == TOMORROW:
-                        tomorrow_out.append(new_ext)
-                        tomorrow_out.append(url)
+            for title in live_now.get(tvg_id, []):
+                out_now.append(
+                    re.sub(r",.*$", f",🔴 LIVE • {title}", extinf)
+                )
+                out_now.append(url)
+
+            for start, title in live_today.get(tvg_id, []):
+                out_today.append(
+                    re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", extinf)
+                )
+                out_today.append(url)
+
+            for start, title in live_tomorrow.get(tvg_id, []):
+                out_tomorrow.append(
+                    re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", extinf)
+                )
+                out_tomorrow.append(url)
     i += 1
 
 # ===============================
-# Simpan hasil
+# SIMPAN FILE
 # ===============================
-with open(OUT_TODAY, "w", encoding="utf-8") as f:
-    f.write("\n".join(today_out) + "\n")
+for fname, data in [
+    (OUT_NOW, out_now),
+    (OUT_TODAY, out_today),
+    (OUT_TOMORROW, out_tomorrow),
+]:
+    with open(fname, "w", encoding="utf-8") as f:
+        f.write("\n".join(data) + "\n")
 
-with open(OUT_TOMORROW, "w", encoding="utf-8") as f:
-    f.write("\n".join(tomorrow_out) + "\n")
-
-print("✅ Sukses: live_today.m3u & live_tomorrow.m3u dibuat")
+print("🎉 SUCCESS: live_now.m3u | live_today.m3u | live_tomorrow.m3u")
