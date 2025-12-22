@@ -5,27 +5,20 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from difflib import get_close_matches
 
-# ==================================================
-# KONFIGURASI
-# ==================================================
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 INPUT_M3U = "live_epg_sports.m3u"
 
 OUT_FILE = "live_match.m3u"
 LOG_FILE = "unmatched_channels.log"
 
-# WIB
-TZ = timezone(timedelta(hours=7))
+TZ = timezone(timedelta(hours=7))  # WIB
 NOW = datetime.now(TZ)
 TODAY = NOW.date()
 TOMORROW = TODAY + timedelta(days=1)
 
 LIVE_TOLERANCE_BEFORE = timedelta(minutes=15)
-LIVE_TOLERANCE_AFTER = timedelta(minutes=15)
+LIVE_TOLERANCE_AFTER = timedelta(minutes=10)
 
-# ==================================================
-# KEYWORD PERTANDINGAN
-# ==================================================
 MATCH_KEYWORDS = [
     "VS", " V ", "MATCH", "GAME", "RACE", "FINAL", "SEMI",
     "LEAGUE", "CUP", "CHAMPIONSHIP",
@@ -41,18 +34,15 @@ BLOCK_KEYWORDS = [
     "DOCUMENTARY", "TALK", "SHOW", "NEWS"
 ]
 
-# ==================================================
-# HELPER
-# ==================================================
 def parse_time(t):
-    return (
-        datetime.strptime(t[:14], "%Y%m%d%H%M%S")
-        .replace(tzinfo=timezone.utc)
-        .astimezone(TZ)
-    )
+    return datetime.strptime(t[:14], "%Y%m%d%H%M%S").replace(
+        tzinfo=timezone.utc).astimezone(TZ)
 
 def norm(text):
     text = text.lower()
+    text = text.replace("beinsports", "bein sports")
+    text = text.replace("bein sport", "bein sports")
+    text = re.sub(r'\b(id|uk|us|fr|de|it|es|asia|indo)\b', '', text)
     text = re.sub(r'\b(hd|fhd|uhd|4k|live|channel)\b', '', text)
     return re.sub(r'[^a-z0-9]', '', text)
 
@@ -79,10 +69,7 @@ def get_stream_block(lines, start_index):
         j += 1
     return block
 
-# ==================================================
-# DOWNLOAD & PARSE EPG
-# ==================================================
-print("📡 Download EPG...")
+# ================= EPG =================
 r = requests.get(EPG_URL, timeout=180)
 try:
     content = gzip.decompress(r.content)
@@ -91,9 +78,6 @@ except:
 
 root = ET.fromstring(content)
 
-# ==================================================
-# MAP CHANNEL EPG
-# ==================================================
 epg_channel_map = {}
 epg_keys = []
 
@@ -105,22 +89,16 @@ for ch in root.findall("channel"):
         epg_channel_map[key] = cid
         epg_keys.append(key)
 
-# ==================================================
-# AMBIL EVENT PERTANDINGAN
-# ==================================================
 epg_events = []
 for p in root.findall("programme"):
     cid = p.attrib.get("channel")
     start = parse_time(p.attrib["start"])
     stop = parse_time(p.attrib["stop"])
     title = p.findtext("title", "")
-
     if is_live_match(title):
         epg_events.append((cid, start, stop, title))
 
-# ==================================================
-# BACA PLAYLIST
-# ==================================================
+# ================= PLAYLIST =================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
 
@@ -152,7 +130,7 @@ while i < len(lines):
         tvg_id = epg_channel_map[ch_key]
 
     if not tvg_id:
-        matches = get_close_matches(ch_key, epg_keys, n=1, cutoff=0.75)
+        matches = get_close_matches(ch_key, epg_keys, n=1, cutoff=0.6)
         if matches:
             tvg_id = epg_channel_map[matches[0]]
 
@@ -165,16 +143,18 @@ while i < len(lines):
         extinf = re.sub(
             r'#EXTINF:[^ ]+',
             lambda m: f'{m.group(0)} tvg-id="{tvg_id}"',
-            extinf,
-            count=1
+            extinf, 1
         )
 
     for cid, start, stop, title in epg_events:
         if cid != tvg_id:
             continue
 
-        # tentukan status
-        if (start - LIVE_TOLERANCE_BEFORE) <= NOW <= (stop + LIVE_TOLERANCE_AFTER):
+        # BUANG JIKA SUDAH LEWAT
+        if NOW > (stop + LIVE_TOLERANCE_AFTER):
+            continue
+
+        if (start - LIVE_TOLERANCE_BEFORE) <= NOW <= stop:
             status = "LIVE SEKARANG"
         elif NOW < start and start.date() == TODAY:
             status = "TANGGAL SEKARANG"
@@ -193,14 +173,9 @@ while i < len(lines):
 
     i += 1
 
-# ==================================================
-# URUTKAN BERDASARKAN JAM
-# ==================================================
 collected.sort(key=lambda x: x["time"])
 
-# ==================================================
-# TULIS OUTPUT
-# ==================================================
+# ================= OUTPUT =================
 output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
 
 for item in collected:
@@ -222,9 +197,6 @@ for item in collected:
 
     output.extend(item["stream"])
 
-# ==================================================
-# SIMPAN FILE
-# ==================================================
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
 
@@ -233,4 +205,4 @@ with open(LOG_FILE, "w", encoding="utf-8") as f:
     for ch in sorted(unmatched):
         f.write(f"- {ch}\n")
 
-print("🎉 SELESAI (URUT JAM WIB)")
+print("SELESAI ✅")
