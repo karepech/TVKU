@@ -23,7 +23,7 @@ LIVE_TOLERANCE_BEFORE = timedelta(minutes=15)
 LIVE_TOLERANCE_AFTER = timedelta(minutes=15)
 
 # ==================================================
-# FILTER LIVE PERTANDINGAN
+# FILTER PERTANDINGAN
 # ==================================================
 MATCH_KEYWORDS = [
     "VS", " V ", "MATCH", "GAME", "RACE", "FINAL", "SEMI",
@@ -62,10 +62,20 @@ def is_live_match(title):
 def is_valid_epg_id(tvg_id):
     return tvg_id and not tvg_id.isdigit()
 
+def find_stream_url(lines, start_index):
+    """Cari URL pertama setelah EXTINF yang bukan komentar"""
+    j = start_index + 1
+    while j < len(lines):
+        line = lines[j].strip()
+        if line and not line.startswith("#"):
+            return line
+        j += 1
+    return None
+
 # ==================================================
 # DOWNLOAD & PARSE EPG
 # ==================================================
-print("📡 Download EPG epg.pw...")
+print("📡 Download EPG...")
 r = requests.get(EPG_URL, timeout=180)
 try:
     content = gzip.decompress(r.content)
@@ -75,7 +85,7 @@ except:
 root = ET.fromstring(content)
 
 # ==================================================
-# BUILD EPG CHANNEL MAP
+# BUILD MAP CHANNEL EPG
 # ==================================================
 epg_channel_map = {}
 epg_keys = []
@@ -88,28 +98,25 @@ for ch in root.findall("channel"):
         epg_channel_map[key] = cid
         epg_keys.append(key)
 
-print(f"✅ EPG channels loaded: {len(epg_channel_map)}")
+print(f"✅ EPG channels: {len(epg_channel_map)}")
 
 # ==================================================
-# BUILD EVENT MAP
+# AMBIL SEMUA EVENT PERTANDINGAN
 # ==================================================
 events = []
-
 for p in root.findall("programme"):
     cid = p.attrib.get("channel")
     start = parse_time(p.attrib["start"])
     stop = parse_time(p.attrib["stop"])
     title = p.findtext("title", "")
 
-    if not is_live_match(title):
-        continue
+    if is_live_match(title):
+        events.append((cid, start, stop, title))
 
-    events.append((cid, start, stop, title))
-
-print(f"✅ Event pertandingan: {len(events)}")
+print(f"✅ Live events loaded: {len(events)}")
 
 # ==================================================
-# BACA PLAYLIST & PROSES
+# BACA PLAYLIST & GENERATE OUTPUT
 # ==================================================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
@@ -124,8 +131,12 @@ while i < len(lines):
         continue
 
     extinf = lines[i]
-    url = lines[i + 1] if i + 1 < len(lines) else ""
+    url = find_stream_url(lines, i)
+    if not url:
+        i += 1
+        continue
 
+    # ambil nama channel
     m = re.search(r",([^,]+)$", extinf)
     ch_name = m.group(1).strip() if m else ""
     ch_key = norm(ch_name)
@@ -145,9 +156,10 @@ while i < len(lines):
 
     if not tvg_id:
         unmatched.add(ch_name)
-        i += 2
+        i += 1
         continue
 
+    # paksa sisipkan tvg-id
     if 'tvg-id=' not in extinf:
         extinf = re.sub(
             r'#EXTINF:[^ ]+',
@@ -160,7 +172,7 @@ while i < len(lines):
         if cid != tvg_id:
             continue
 
-        # 🔴 LIVE SEKARANG (pakai toleransi)
+        # 🔴 LIVE SEKARANG
         if (start - LIVE_TOLERANCE_BEFORE) <= NOW <= (stop + LIVE_TOLERANCE_AFTER):
             new_ext = re.sub(
                 r'group-title="[^"]*"',
@@ -172,7 +184,7 @@ while i < len(lines):
             )
             output.append(url)
 
-        # 📅 TANGGAL SEKARANG (belum live)
+        # 📅 TANGGAL SEKARANG
         elif NOW < start and start.date() == TODAY:
             new_ext = re.sub(
                 r'group-title="[^"]*"',
@@ -196,10 +208,10 @@ while i < len(lines):
             )
             output.append(url)
 
-    i += 2
+    i += 1
 
 # ==================================================
-# SIMPAN OUTPUT
+# SIMPAN FILE
 # ==================================================
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
