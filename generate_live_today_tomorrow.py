@@ -1,109 +1,96 @@
-import requests
-import gzip
-import re
-import xml.etree.ElementTree as ET
+import requests, gzip, re, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from difflib import get_close_matches
 
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 INPUT_M3U = "live_epg_sports.m3u"
-
 OUT_FILE = "live_match.m3u"
-LOG_FILE = "unmatched_channels.log"
 
+# ================= TIME =================
 TZ = timezone(timedelta(hours=7))  # WIB
 NOW = datetime.now(TZ)
-TODAY = NOW.date()
-TOMORROW = TODAY + timedelta(days=1)
 
-LIVE_TOLERANCE_BEFORE = timedelta(minutes=15)
-LIVE_TOLERANCE_AFTER = timedelta(minutes=10)
+BULAN_ID = {
+    1:"JANUARI",2:"FEBRUARI",3:"MARET",4:"APRIL",
+    5:"MEI",6:"JUNI",7:"JULI",8:"AGUSTUS",
+    9:"SEPTEMBER",10:"OKTOBER",11:"NOVEMBER",12:"DESEMBER"
+}
 
-MATCH_KEYWORDS = [
-    "VS", " V ", "MATCH", "GAME", "RACE", "FINAL", "SEMI",
-    "LEAGUE", "CUP", "CHAMPIONSHIP",
-    "FOOTBALL", "SOCCER", "BASKET", "NBA",
-    "BADMINTON", "TENNIS", "ATP", "WTA",
-    "MOTOGP", "FORMULA", "F1",
-    "BOXING", "UFC", "MMA", "FIGHT"
-]
+def tanggal_id(dt):
+    return f"{dt.day} {BULAN_ID[dt.month]} {dt.year}"
 
-BLOCK_KEYWORDS = [
-    "HIGHLIGHT", "REPLAY", "PREVIEW", "REVIEW",
-    "STUDIO", "ANALYSIS", "MAGAZINE",
-    "DOCUMENTARY", "TALK", "SHOW", "NEWS"
-]
-
+# ================= HELPER =================
 def parse_time(t):
-    return datetime.strptime(t[:14], "%Y%m%d%H%M%S").replace(
-        tzinfo=timezone.utc).astimezone(TZ)
+    return datetime.strptime(t[:14], "%Y%m%d%H%M%S") \
+        .replace(tzinfo=timezone.utc) \
+        .astimezone(TZ)
 
 def norm(text):
     text = text.lower()
     text = text.replace("beinsports", "bein sports")
-    text = text.replace("bein sport", "bein sports")
-    text = re.sub(r'\b(id|uk|us|fr|de|it|es|asia|indo)\b', '', text)
-    text = re.sub(r'\b(hd|fhd|uhd|4k|live|channel)\b', '', text)
+    text = re.sub(r'\b(id|hd|fhd|uhd|4k|asia|indo)\b', '', text)
     return re.sub(r'[^a-z0-9]', '', text)
 
-def is_live_match(title):
+def is_match(title):
     t = title.upper()
-    if any(b in t for b in BLOCK_KEYWORDS):
+    if any(x in t for x in ["HIGHLIGHT","REPLAY","ANALYSIS","STUDIO"]):
         return False
-    return any(k in t for k in MATCH_KEYWORDS)
+    return (" VS " in t) or (" V " in t) or (" - " in t)
 
-def is_valid_epg_id(tvg_id):
-    return tvg_id and not tvg_id.isdigit()
+def detect_sport_order(channel, title):
+    t = (channel + " " + title).lower()
+    if any(x in t for x in ["football","soccer"," vs "," - "]):
+        return 1  # Soccer
+    if "badminton" in t:
+        return 2
+    if any(x in t for x in ["voli","volleyball"]):
+        return 3
+    if any(x in t for x in ["basket","nba"]):
+        return 4
+    if any(x in t for x in ["motogp","formula","f1"]):
+        return 5
+    return 9  # lainnya
 
-def get_stream_block(lines, start_index):
+def get_stream_block(lines, i):
     block = []
-    j = start_index + 1
+    j = i + 1
     while j < len(lines):
-        line = lines[j].strip()
-        if line.startswith("#EXTINF"):
+        if lines[j].startswith("#EXTINF"):
             break
-        if line:
-            block.append(line)
-            if not line.startswith("#"):
-                break
+        block.append(lines[j])
+        if not lines[j].startswith("#"):
+            break
         j += 1
     return block
 
-# ================= EPG =================
+# ================= LOAD EPG =================
 r = requests.get(EPG_URL, timeout=180)
 try:
-    content = gzip.decompress(r.content)
+    root = ET.fromstring(gzip.decompress(r.content))
 except:
-    content = r.content
+    root = ET.fromstring(r.content)
 
-root = ET.fromstring(content)
-
-epg_channel_map = {}
-epg_keys = []
-
+epg_channels = {}
 for ch in root.findall("channel"):
-    cid = ch.attrib.get("id")
-    name = ch.findtext("display-name", "")
-    if cid and name:
-        key = norm(name)
-        epg_channel_map[key] = cid
-        epg_keys.append(key)
+    epg_channels[norm(ch.findtext("display-name",""))] = ch.attrib["id"]
 
 epg_events = []
 for p in root.findall("programme"):
-    cid = p.attrib.get("channel")
-    start = parse_time(p.attrib["start"])
-    stop = parse_time(p.attrib["stop"])
-    title = p.findtext("title", "")
-    if is_live_match(title):
-        epg_events.append((cid, start, stop, title))
+    title = p.findtext("title","")
+    if not is_match(title):
+        continue
+    epg_events.append((
+        p.attrib["channel"],
+        parse_time(p.attrib["start"]),
+        parse_time(p.attrib["stop"]),
+        title
+    ))
 
-# ================= PLAYLIST =================
+# ================= PROCESS PLAYLIST =================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
 
 collected = []
-unmatched = set()
 
 i = 0
 while i < len(lines):
@@ -112,97 +99,69 @@ while i < len(lines):
         continue
 
     extinf = lines[i]
-    stream_block = get_stream_block(lines, i)
-    if not stream_block:
+    block = get_stream_block(lines, i)
+
+    m = re.search(r",(.+)$", extinf)
+    if not m:
         i += 1
         continue
 
-    m = re.search(r",([^,]+)$", extinf)
-    ch_name = m.group(1).strip() if m else ""
-    ch_key = norm(ch_name)
-
-    tvg_id = None
-    m_id = re.search(r'tvg-id="([^"]*)"', extinf)
-    if m_id and is_valid_epg_id(m_id.group(1)):
-        tvg_id = m_id.group(1)
-
-    if not tvg_id and ch_key in epg_channel_map:
-        tvg_id = epg_channel_map[ch_key]
+    channel_name = m.group(1).strip()
+    key = norm(channel_name)
+    tvg_id = epg_channels.get(key)
 
     if not tvg_id:
-        matches = get_close_matches(ch_key, epg_keys, n=1, cutoff=0.6)
+        matches = get_close_matches(key, epg_channels.keys(), n=1, cutoff=0.6)
         if matches:
-            tvg_id = epg_channel_map[matches[0]]
-
-    if not tvg_id:
-        unmatched.add(ch_name)
-        i += 1
-        continue
-
-    if 'tvg-id=' not in extinf:
-        extinf = re.sub(
-            r'#EXTINF:[^ ]+',
-            lambda m: f'{m.group(0)} tvg-id="{tvg_id}"',
-            extinf, 1
-        )
+            tvg_id = epg_channels[matches[0]]
+        else:
+            i += 1
+            continue
 
     for cid, start, stop, title in epg_events:
         if cid != tvg_id:
             continue
 
-        # BUANG JIKA SUDAH LEWAT
-        if NOW > (stop + LIVE_TOLERANCE_AFTER):
-            continue
-
-        if (start - LIVE_TOLERANCE_BEFORE) <= NOW <= stop:
-            status = "LIVE SEKARANG"
-        elif NOW < start and start.date() == TODAY:
-            status = "TANGGAL SEKARANG"
-        elif start.date() == TOMORROW:
-            status = "TANGGAL BESOK"
+        if start <= NOW <= stop:
+            group = f"LIVE NOW {tanggal_id(NOW)}"
+        elif start > NOW:
+            group = f"NEXT LIVE {tanggal_id(start)}"
         else:
             continue
 
         collected.append({
             "time": start,
-            "status": status,
+            "sport_order": detect_sport_order(channel_name, title),
+            "group": group,
             "extinf": extinf,
             "title": title,
-            "stream": stream_block
+            "block": block
         })
 
     i += 1
 
-collected.sort(key=lambda x: x["time"])
+# ================= SORT =================
+# 1. group (LIVE dulu otomatis karena waktunya <= NOW)
+# 2. sport order (soccer, badminton, voli, dst)
+# 3. jam
+collected.sort(key=lambda x: (x["group"], x["sport_order"], x["time"]))
 
 # ================= OUTPUT =================
 output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
 
-for item in collected:
-    jam = item["time"].strftime("%H:%M")
+for e in collected:
+    jam = e["time"].strftime("%H:%M WIB")
     new_ext = re.sub(
         r'group-title="[^"]*"',
-        f'group-title="{item["status"]}"',
-        item["extinf"]
+        f'group-title="{e["group"]}"',
+        e["extinf"]
     )
-
-    if item["status"] == "LIVE SEKARANG":
-        output.append(
-            re.sub(r",.*$", f",🔴 LIVE {jam} WIB • {item['title']}", new_ext)
-        )
-    else:
-        output.append(
-            re.sub(r",.*$", f",{jam} WIB • {item['title']}", new_ext)
-        )
-
-    output.extend(item["stream"])
+    output.append(
+        re.sub(r",.*$", f",{jam} • {e['title']}", new_ext)
+    )
+    output.extend(e["block"])
 
 with open(OUT_FILE, "w", encoding="utf-8") as f:
-    f.write("\n".join(output) + "\n")
+    f.write("\n".join(output))
 
-with open(LOG_FILE, "w", encoding="utf-8") as f:
-    f.write("❌ UNMATCHED CHANNELS\n")
-    for ch in sorted(unmatched):
-        f.write(f"- {ch}\n")
-
-print("SELESAI ✅")
+print("SELESAI ✅ (Urut sport tanpa title)")
