@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # PENTING untuk git pull --rebase
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -36,14 +38,14 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          # ambil update terbaru supaya tidak conflict
-          git pull origin main --rebase
-
-          # tambahkan file hasil generate
+          # Tambahkan file hasil generate
           git add live_match.m3u unmatched_channels.log
 
-          # commit jika ada perubahan
+          # Commit dulu supaya tidak ada unstaged changes
           git commit -m "Auto update live match playlist" || echo "No changes to commit"
 
-          # push ke repo
+          # Sinkron dengan remote (AMAN karena sudah commit)
+          git pull origin main --rebase
+
+          # Push ke repo
           git push origin main
