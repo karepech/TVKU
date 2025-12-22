@@ -62,15 +62,23 @@ def is_live_match(title):
 def is_valid_epg_id(tvg_id):
     return tvg_id and not tvg_id.isdigit()
 
-def find_stream_url(lines, start_index):
-    """Cari URL pertama setelah EXTINF yang bukan komentar"""
+def get_stream_block(lines, start_index):
+    """
+    Ambil 1 BLOK STREAM UTUH:
+    #EXTVLCOPT / #KODIPROP / URL
+    """
+    block = []
     j = start_index + 1
     while j < len(lines):
         line = lines[j].strip()
-        if line and not line.startswith("#"):
-            return line
+        if line.startswith("#EXTINF"):
+            break
+        if line:
+            block.append(line)
+            if not line.startswith("#"):
+                break
         j += 1
-    return None
+    return block
 
 # ==================================================
 # DOWNLOAD & PARSE EPG
@@ -98,10 +106,10 @@ for ch in root.findall("channel"):
         epg_channel_map[key] = cid
         epg_keys.append(key)
 
-print(f"✅ EPG channels: {len(epg_channel_map)}")
+print(f"✅ EPG channels loaded: {len(epg_channel_map)}")
 
 # ==================================================
-# AMBIL SEMUA EVENT PERTANDINGAN
+# AMBIL EVENT PERTANDINGAN
 # ==================================================
 events = []
 for p in root.findall("programme"):
@@ -113,10 +121,10 @@ for p in root.findall("programme"):
     if is_live_match(title):
         events.append((cid, start, stop, title))
 
-print(f"✅ Live events loaded: {len(events)}")
+print(f"✅ Match events: {len(events)}")
 
 # ==================================================
-# BACA PLAYLIST & GENERATE OUTPUT
+# PROSES PLAYLIST
 # ==================================================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
@@ -131,8 +139,8 @@ while i < len(lines):
         continue
 
     extinf = lines[i]
-    url = find_stream_url(lines, i)
-    if not url:
+    stream_block = get_stream_block(lines, i)
+    if not stream_block:
         i += 1
         continue
 
@@ -141,6 +149,7 @@ while i < len(lines):
     ch_name = m.group(1).strip() if m else ""
     ch_key = norm(ch_name)
 
+    # ambil tvg-id
     tvg_id = None
     m_id = re.search(r'tvg-id="([^"]*)"', extinf)
     if m_id and is_valid_epg_id(m_id.group(1)):
@@ -182,7 +191,7 @@ while i < len(lines):
             output.append(
                 re.sub(r",.*$", f",🔴 LIVE • {title}", new_ext)
             )
-            output.append(url)
+            output.extend(stream_block)
 
         # 📅 TANGGAL SEKARANG
         elif NOW < start and start.date() == TODAY:
@@ -194,7 +203,7 @@ while i < len(lines):
             output.append(
                 re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
             )
-            output.append(url)
+            output.extend(stream_block)
 
         # 📆 TANGGAL BESOK
         elif start.date() == TOMORROW:
@@ -206,7 +215,7 @@ while i < len(lines):
             output.append(
                 re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
             )
-            output.append(url)
+            output.extend(stream_block)
 
     i += 1
 
