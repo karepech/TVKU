@@ -2,11 +2,11 @@ import requests, gzip, re, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from difflib import get_close_matches
 
+# ================= CONFIG =================
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 INPUT_M3U = "live_epg_sports.m3u"
 OUT_FILE = "live_match.m3u"
 
-# ================= TIME =================
 TZ = timezone(timedelta(hours=7))  # WIB
 NOW = datetime.now(TZ)
 
@@ -19,7 +19,7 @@ BULAN_ID = {
 def tanggal_id(dt):
     return f"{dt.day} {BULAN_ID[dt.month]} {dt.year}"
 
-# ================= HELPER =================
+# ================= HELPERS =================
 def parse_time(t):
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S") \
         .replace(tzinfo=timezone.utc) \
@@ -27,29 +27,36 @@ def parse_time(t):
 
 def norm(text):
     text = text.lower()
-    text = text.replace("beinsports", "bein sports")
-    text = re.sub(r'\b(id|hd|fhd|uhd|4k|asia|indo)\b', '', text)
+    text = re.sub(r'\b(id|hd|fhd|uhd|4k|asia|indo|channel)\b', '', text)
     return re.sub(r'[^a-z0-9]', '', text)
+
+def base_channel_name(name):
+    """
+    Ambil nama dasar channel (buang angka & kata tambahan)
+    contoh:
+    beIN Sports 1 ID -> beinsports
+    Astro SuperSport 2 -> astrosupersport
+    """
+    n = name.lower()
+    n = re.sub(r'\b(one|two|three|four|five|main|event)\b', '', n)
+    n = re.sub(r'\b\d+\b', '', n)
+    n = re.sub(r'\b(id|hd|fhd|uhd|4k|asia|indo)\b', '', n)
+    return re.sub(r'[^a-z0-9]', '', n)
+
+def is_primary_channel(name):
+    """
+    Channel utama:
+    - ada angka 1
+    - atau kata main / one
+    """
+    n = name.lower()
+    return (" 1" in n) or ("one" in n) or ("main" in n)
 
 def is_match(title):
     t = title.upper()
-    if any(x in t for x in ["HIGHLIGHT","REPLAY","ANALYSIS","STUDIO"]):
+    if any(x in t for x in ["HIGHLIGHT","REPLAY","ANALYSIS","STUDIO","SHOW"]):
         return False
     return (" VS " in t) or (" V " in t) or (" - " in t)
-
-def detect_sport_order(channel, title):
-    t = (channel + " " + title).lower()
-    if any(x in t for x in ["football","soccer"," vs "," - "]):
-        return 1  # Soccer
-    if "badminton" in t:
-        return 2
-    if any(x in t for x in ["voli","volleyball"]):
-        return 3
-    if any(x in t for x in ["basket","nba"]):
-        return 4
-    if any(x in t for x in ["motogp","formula","f1"]):
-        return 5
-    return 9  # lainnya
 
 def get_stream_block(lines, i):
     block = []
@@ -72,7 +79,8 @@ except:
 
 epg_channels = {}
 for ch in root.findall("channel"):
-    epg_channels[norm(ch.findtext("display-name",""))] = ch.attrib["id"]
+    name = ch.findtext("display-name","")
+    epg_channels[norm(name)] = ch.attrib["id"]
 
 epg_events = []
 for p in root.findall("programme"):
@@ -86,12 +94,11 @@ for p in root.findall("programme"):
         title
     ))
 
-# ================= PROCESS PLAYLIST =================
+# ================= READ PLAYLIST =================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
 
-collected = []
-
+channels = []
 i = 0
 while i < len(lines):
     if not lines[i].startswith("#EXTINF"):
@@ -106,10 +113,10 @@ while i < len(lines):
         i += 1
         continue
 
-    channel_name = m.group(1).strip()
-    key = norm(channel_name)
-    tvg_id = epg_channels.get(key)
+    name = m.group(1).strip()
+    key = norm(name)
 
+    tvg_id = epg_channels.get(key)
     if not tvg_id:
         matches = get_close_matches(key, epg_channels.keys(), n=1, cutoff=0.6)
         if matches:
@@ -118,39 +125,62 @@ while i < len(lines):
             i += 1
             continue
 
-    for cid, start, stop, title in epg_events:
-        if cid != tvg_id:
-            continue
-
-        if start <= NOW <= stop:
-            group = f"LIVE NOW {tanggal_id(NOW)}"
-        elif start > NOW:
-            group = f"NEXT LIVE {tanggal_id(start)}"
-        else:
-            continue
-
-        collected.append({
-            "time": start,
-            "sport_order": detect_sport_order(channel_name, title),
-            "group": group,
-            "extinf": extinf,
-            "title": title,
-            "block": block
-        })
-
+    channels.append({
+        "name": name,
+        "base": base_channel_name(name),
+        "primary": is_primary_channel(name),
+        "tvg_id": tvg_id,
+        "extinf": extinf,
+        "block": block
+    })
     i += 1
 
-# ================= SORT =================
-# 1. group (LIVE dulu otomatis karena waktunya <= NOW)
-# 2. sport order (soccer, badminton, voli, dst)
-# 3. jam
-collected.sort(key=lambda x: (x["group"], x["sport_order"], x["time"]))
+# ================= BUILD EVENTS =================
+collected = []
+
+for ch in channels:
+    for cid, start, stop, title in epg_events:
+
+        # channel cocok normal
+        same_channel = cid == ch["tvg_id"]
+
+        # channel family (nama dasar sama)
+        same_family = base_channel_name(cid) == ch["base"]
+
+        if not (same_channel or same_family):
+            continue
+
+        # event sudah lewat → buang
+        if NOW > stop:
+            continue
+
+        is_live = start <= NOW <= stop
+
+        # ===== GLOBAL SMART MODE =====
+        if is_live:
+            group = f"LIVE NOW {tanggal_id(NOW)}"
+        else:
+            # NEXT LIVE → hanya channel utama
+            if not ch["primary"]:
+                continue
+            group = f"NEXT LIVE {tanggal_id(start)}"
+
+        collected.append({
+            "start": start,
+            "group": group,
+            "extinf": ch["extinf"],
+            "title": title,
+            "block": ch["block"]
+        })
+
+# ================= SORT (KUNCI BENAR) =================
+collected.sort(key=lambda x: x["start"])
 
 # ================= OUTPUT =================
 output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
 
 for e in collected:
-    jam = e["time"].strftime("%H:%M WIB")
+    jam = e["start"].strftime("%H:%M WIB")
     new_ext = re.sub(
         r'group-title="[^"]*"',
         f'group-title="{e["group"]}"',
@@ -164,4 +194,4 @@ for e in collected:
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output))
 
-print("SELESAI ✅ (Urut sport tanpa title)")
+print("SELESAI ✅ (GLOBAL SMART MODE AKTIF)")
