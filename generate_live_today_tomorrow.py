@@ -20,7 +20,7 @@ TODAY = NOW.date()
 TOMORROW = TODAY + timedelta(days=1)
 
 # ==================================================
-# KEYWORD FILTER (PERTANDINGAN SAJA)
+# FILTER LIVE PERTANDINGAN
 # ==================================================
 MATCH_KEYWORDS = [
     "VS", " V ", "MATCH", "GAME", "RACE", "FINAL", "SEMI",
@@ -56,10 +56,14 @@ def is_live_match(title):
         return False
     return any(k in t for k in MATCH_KEYWORDS)
 
+def is_valid_epg_id(tvg_id):
+    # epg.pw ID TIDAK PERNAH angka murni
+    return tvg_id and not tvg_id.isdigit()
+
 # ==================================================
 # DOWNLOAD & PARSE EPG
 # ==================================================
-print("📡 Download EPG...")
+print("📡 Download EPG epg.pw ...")
 r = requests.get(EPG_URL, timeout=180)
 try:
     content = gzip.decompress(r.content)
@@ -117,83 +121,90 @@ print("✅ LIVE MATCH filtered")
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
 
-unmatched = set()
 output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+unmatched = set()
 
 i = 0
 while i < len(lines):
-    if lines[i].startswith("#EXTINF"):
-        extinf = lines[i]
-        url = lines[i + 1] if i + 1 < len(lines) else ""
+    line = lines[i]
 
-        # ambil nama channel
-        m = re.search(r",([^,]+)$", extinf)
-        ch_name = m.group(1) if m else ""
-        ch_key = norm(ch_name)
+    if not line.startswith("#EXTINF"):
+        i += 1
+        continue
 
-        tvg_id = None
-        m_id = re.search(r'tvg-id="([^"]+)"', extinf)
-        if m_id:
-            tvg_id = m_id.group(1)
+    extinf = line
+    url = lines[i + 1] if i + 1 < len(lines) else ""
 
-        # exact match
-        if not tvg_id and ch_key in epg_channel_map:
-            tvg_id = epg_channel_map[ch_key]
-            extinf = extinf.replace(
-                "#EXTINF:-1",
-                f'#EXTINF:-1 tvg-id="{tvg_id}"'
-            )
+    # Ambil nama channel
+    m = re.search(r",([^,]+)$", extinf)
+    ch_name = m.group(1).strip() if m else ""
+    ch_key = norm(ch_name)
 
-        # fuzzy match
-        if not tvg_id:
-            matches = get_close_matches(ch_key, epg_keys, n=1, cutoff=0.75)
-            if matches:
-                tvg_id = epg_channel_map[matches[0]]
-                extinf = extinf.replace(
-                    "#EXTINF:-1",
-                    f'#EXTINF:-1 tvg-id="{tvg_id}"'
-                )
+    # Ambil tvg-id lama (JANGAN percaya angka)
+    tvg_id = None
+    m_id = re.search(r'tvg-id="([^"]*)"', extinf)
+    if m_id and is_valid_epg_id(m_id.group(1)):
+        tvg_id = m_id.group(1)
 
-        if not tvg_id:
-            unmatched.add(ch_name)
-            i += 2
-            continue
+    # Exact match
+    if not tvg_id and ch_key in epg_channel_map:
+        tvg_id = epg_channel_map[ch_key]
 
-        # ===============================
-        # KATEGORI DINAMIS
-        # ===============================
-        for title in live_now.get(tvg_id, []):
-            new_ext = re.sub(
-                r'group-title="[^"]*"',
-                'group-title="LIVE SEKARANG"',
-                extinf
-            )
-            output.append(
-                re.sub(r",.*$", f",🔴 LIVE • {title}", new_ext)
-            )
-            output.append(url)
+    # Fuzzy match
+    if not tvg_id:
+        matches = get_close_matches(ch_key, epg_keys, n=1, cutoff=0.75)
+        if matches:
+            tvg_id = epg_channel_map[matches[0]]
 
-        for start, title in live_today.get(tvg_id, []):
-            new_ext = re.sub(
-                r'group-title="[^"]*"',
-                'group-title="TANGGAL SEKARANG"',
-                extinf
-            )
-            output.append(
-                re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
-            )
-            output.append(url)
+    if not tvg_id:
+        unmatched.add(ch_name)
+        i += 2
+        continue
 
-        for start, title in live_tomorrow.get(tvg_id, []):
-            new_ext = re.sub(
-                r'group-title="[^"]*"',
-                'group-title="TANGGAL BESOK"',
-                extinf
-            )
-            output.append(
-                re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
-            )
-            output.append(url)
+    # Paksa sisipkan tvg-id (format EXTINF apapun)
+    if 'tvg-id=' not in extinf:
+        extinf = re.sub(
+            r'#EXTINF:[^ ]+',
+            lambda m: f'{m.group(0)} tvg-id="{tvg_id}"',
+            extinf,
+            count=1
+        )
+
+    # ===============================
+    # KATEGORI DINAMIS
+    # ===============================
+    for title in live_now.get(tvg_id, []):
+        new_ext = re.sub(
+            r'group-title="[^"]*"',
+            'group-title="LIVE SEKARANG"',
+            extinf
+        )
+        output.append(
+            re.sub(r",.*$", f",🔴 LIVE • {title}", new_ext)
+        )
+        output.append(url)
+
+    for start, title in live_today.get(tvg_id, []):
+        new_ext = re.sub(
+            r'group-title="[^"]*"',
+            'group-title="TANGGAL SEKARANG"',
+            extinf
+        )
+        output.append(
+            re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
+        )
+        output.append(url)
+
+    for start, title in live_tomorrow.get(tvg_id, []):
+        new_ext = re.sub(
+            r'group-title="[^"]*"',
+            'group-title="TANGGAL BESOK"',
+            extinf
+        )
+        output.append(
+            re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
+        )
+        output.append(url)
 
     i += 2
 
@@ -209,6 +220,6 @@ with open(LOG_FILE, "w", encoding="utf-8") as f:
         f.write(f"- {ch}\n")
 
 print("🎉 SELESAI")
-print("File dibuat:")
+print("Output:")
 print(" - live_match.m3u")
 print(" - unmatched_channels.log")
