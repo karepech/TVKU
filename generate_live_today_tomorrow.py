@@ -19,6 +19,9 @@ NOW = datetime.now(TZ)
 TODAY = NOW.date()
 TOMORROW = TODAY + timedelta(days=1)
 
+LIVE_TOLERANCE_BEFORE = timedelta(minutes=15)
+LIVE_TOLERANCE_AFTER = timedelta(minutes=15)
+
 # ==================================================
 # FILTER LIVE PERTANDINGAN
 # ==================================================
@@ -57,13 +60,12 @@ def is_live_match(title):
     return any(k in t for k in MATCH_KEYWORDS)
 
 def is_valid_epg_id(tvg_id):
-    # epg.pw ID TIDAK PERNAH angka murni
     return tvg_id and not tvg_id.isdigit()
 
 # ==================================================
 # DOWNLOAD & PARSE EPG
 # ==================================================
-print("📡 Download EPG epg.pw ...")
+print("📡 Download EPG epg.pw...")
 r = requests.get(EPG_URL, timeout=180)
 try:
     content = gzip.decompress(r.content)
@@ -89,11 +91,9 @@ for ch in root.findall("channel"):
 print(f"✅ EPG channels loaded: {len(epg_channel_map)}")
 
 # ==================================================
-# BUILD LIVE MATCH MAP
+# BUILD EVENT MAP
 # ==================================================
-live_now = {}
-live_today = {}
-live_tomorrow = {}
+events = []
 
 for p in root.findall("programme"):
     cid = p.attrib.get("channel")
@@ -104,19 +104,12 @@ for p in root.findall("programme"):
     if not is_live_match(title):
         continue
 
-    if start <= NOW <= stop:
-        live_now.setdefault(cid, []).append(title)
+    events.append((cid, start, stop, title))
 
-    if NOW < start and start.date() == TODAY:
-        live_today.setdefault(cid, []).append((start, title))
-
-    if start.date() == TOMORROW:
-        live_tomorrow.setdefault(cid, []).append((start, title))
-
-print("✅ LIVE MATCH filtered")
+print(f"✅ Event pertandingan: {len(events)}")
 
 # ==================================================
-# BACA PLAYLIST + AUTO tvg-id + FUZZY
+# BACA PLAYLIST & PROSES
 # ==================================================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
@@ -126,31 +119,25 @@ unmatched = set()
 
 i = 0
 while i < len(lines):
-    line = lines[i]
-
-    if not line.startswith("#EXTINF"):
+    if not lines[i].startswith("#EXTINF"):
         i += 1
         continue
 
-    extinf = line
+    extinf = lines[i]
     url = lines[i + 1] if i + 1 < len(lines) else ""
 
-    # Ambil nama channel
     m = re.search(r",([^,]+)$", extinf)
     ch_name = m.group(1).strip() if m else ""
     ch_key = norm(ch_name)
 
-    # Ambil tvg-id lama (JANGAN percaya angka)
     tvg_id = None
     m_id = re.search(r'tvg-id="([^"]*)"', extinf)
     if m_id and is_valid_epg_id(m_id.group(1)):
         tvg_id = m_id.group(1)
 
-    # Exact match
     if not tvg_id and ch_key in epg_channel_map:
         tvg_id = epg_channel_map[ch_key]
 
-    # Fuzzy match
     if not tvg_id:
         matches = get_close_matches(ch_key, epg_keys, n=1, cutoff=0.75)
         if matches:
@@ -161,7 +148,6 @@ while i < len(lines):
         i += 2
         continue
 
-    # Paksa sisipkan tvg-id (format EXTINF apapun)
     if 'tvg-id=' not in extinf:
         extinf = re.sub(
             r'#EXTINF:[^ ]+',
@@ -170,41 +156,45 @@ while i < len(lines):
             count=1
         )
 
-    # ===============================
-    # KATEGORI DINAMIS
-    # ===============================
-    for title in live_now.get(tvg_id, []):
-        new_ext = re.sub(
-            r'group-title="[^"]*"',
-            'group-title="LIVE SEKARANG"',
-            extinf
-        )
-        output.append(
-            re.sub(r",.*$", f",🔴 LIVE • {title}", new_ext)
-        )
-        output.append(url)
+    for cid, start, stop, title in events:
+        if cid != tvg_id:
+            continue
 
-    for start, title in live_today.get(tvg_id, []):
-        new_ext = re.sub(
-            r'group-title="[^"]*"',
-            'group-title="TANGGAL SEKARANG"',
-            extinf
-        )
-        output.append(
-            re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
-        )
-        output.append(url)
+        # 🔴 LIVE SEKARANG (pakai toleransi)
+        if (start - LIVE_TOLERANCE_BEFORE) <= NOW <= (stop + LIVE_TOLERANCE_AFTER):
+            new_ext = re.sub(
+                r'group-title="[^"]*"',
+                'group-title="LIVE SEKARANG"',
+                extinf
+            )
+            output.append(
+                re.sub(r",.*$", f",🔴 LIVE • {title}", new_ext)
+            )
+            output.append(url)
 
-    for start, title in live_tomorrow.get(tvg_id, []):
-        new_ext = re.sub(
-            r'group-title="[^"]*"',
-            'group-title="TANGGAL BESOK"',
-            extinf
-        )
-        output.append(
-            re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
-        )
-        output.append(url)
+        # 📅 TANGGAL SEKARANG (belum live)
+        elif NOW < start and start.date() == TODAY:
+            new_ext = re.sub(
+                r'group-title="[^"]*"',
+                'group-title="TANGGAL SEKARANG"',
+                extinf
+            )
+            output.append(
+                re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
+            )
+            output.append(url)
+
+        # 📆 TANGGAL BESOK
+        elif start.date() == TOMORROW:
+            new_ext = re.sub(
+                r'group-title="[^"]*"',
+                'group-title="TANGGAL BESOK"',
+                extinf
+            )
+            output.append(
+                re.sub(r",.*$", f",{start.strftime('%H:%M')} • {title}", new_ext)
+            )
+            output.append(url)
 
     i += 2
 
