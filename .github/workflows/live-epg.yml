@@ -1,0 +1,33 @@
+name: Live Sports Today Tomorrow
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Generate live playlist
+        run: python generate_live_today_tomorrow.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "epg-bot"
+          git config user.email "bot@github.com"
+          git add live_today.m3u live_tomorrow.m3u
+          git commit -m "auto update live today/tomorrow" || echo "no changes"
+          git push
