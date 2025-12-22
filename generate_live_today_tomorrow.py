@@ -66,10 +66,6 @@ def is_valid_epg_id(tvg_id):
     return tvg_id and not tvg_id.isdigit()
 
 def get_stream_block(lines, start_index):
-    """
-    Ambil BLOK STREAM UTUH:
-    #EXTVLCOPT / #KODIPROP / URL
-    """
     block = []
     j = start_index + 1
     while j < len(lines):
@@ -86,7 +82,7 @@ def get_stream_block(lines, start_index):
 # ==================================================
 # DOWNLOAD & PARSE EPG
 # ==================================================
-print("📡 Download EPG epg.pw ...")
+print("📡 Download EPG...")
 r = requests.get(EPG_URL, timeout=180)
 try:
     content = gzip.decompress(r.content)
@@ -109,12 +105,10 @@ for ch in root.findall("channel"):
         epg_channel_map[key] = cid
         epg_keys.append(key)
 
-print(f"✅ Channel EPG: {len(epg_channel_map)}")
-
 # ==================================================
 # AMBIL EVENT PERTANDINGAN
 # ==================================================
-events = []
+epg_events = []
 for p in root.findall("programme"):
     cid = p.attrib.get("channel")
     start = parse_time(p.attrib["start"])
@@ -122,17 +116,15 @@ for p in root.findall("programme"):
     title = p.findtext("title", "")
 
     if is_live_match(title):
-        events.append((cid, start, stop, title))
-
-print(f"✅ Event pertandingan: {len(events)}")
+        epg_events.append((cid, start, stop, title))
 
 # ==================================================
-# PROSES PLAYLIST
+# BACA PLAYLIST
 # ==================================================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
     lines = f.read().splitlines()
 
-output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+collected = []
 unmatched = set()
 
 i = 0
@@ -147,12 +139,10 @@ while i < len(lines):
         i += 1
         continue
 
-    # Nama channel
     m = re.search(r",([^,]+)$", extinf)
     ch_name = m.group(1).strip() if m else ""
     ch_key = norm(ch_name)
 
-    # tvg-id
     tvg_id = None
     m_id = re.search(r'tvg-id="([^"]*)"', extinf)
     if m_id and is_valid_epg_id(m_id.group(1)):
@@ -179,49 +169,58 @@ while i < len(lines):
             count=1
         )
 
-    for cid, start, stop, title in events:
+    for cid, start, stop, title in epg_events:
         if cid != tvg_id:
             continue
 
-        jam = start.strftime("%H:%M")  # WIB
-
-        # 🔴 LIVE SEKARANG
+        # tentukan status
         if (start - LIVE_TOLERANCE_BEFORE) <= NOW <= (stop + LIVE_TOLERANCE_AFTER):
-            new_ext = re.sub(
-                r'group-title="[^"]*"',
-                'group-title="LIVE SEKARANG"',
-                extinf
-            )
-            output.append(
-                re.sub(r",.*$", f",🔴 LIVE {jam} WIB • {title}", new_ext)
-            )
-            output.extend(stream_block)
-
-        # 📅 TANGGAL SEKARANG
+            status = "LIVE SEKARANG"
         elif NOW < start and start.date() == TODAY:
-            new_ext = re.sub(
-                r'group-title="[^"]*"',
-                'group-title="TANGGAL SEKARANG"',
-                extinf
-            )
-            output.append(
-                re.sub(r",.*$", f",{jam} WIB • {title}", new_ext)
-            )
-            output.extend(stream_block)
-
-        # 📆 TANGGAL BESOK
+            status = "TANGGAL SEKARANG"
         elif start.date() == TOMORROW:
-            new_ext = re.sub(
-                r'group-title="[^"]*"',
-                'group-title="TANGGAL BESOK"',
-                extinf
-            )
-            output.append(
-                re.sub(r",.*$", f",{jam} WIB • {title}", new_ext)
-            )
-            output.extend(stream_block)
+            status = "TANGGAL BESOK"
+        else:
+            continue
+
+        collected.append({
+            "time": start,
+            "status": status,
+            "extinf": extinf,
+            "title": title,
+            "stream": stream_block
+        })
 
     i += 1
+
+# ==================================================
+# URUTKAN BERDASARKAN JAM
+# ==================================================
+collected.sort(key=lambda x: x["time"])
+
+# ==================================================
+# TULIS OUTPUT
+# ==================================================
+output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+
+for item in collected:
+    jam = item["time"].strftime("%H:%M")
+    new_ext = re.sub(
+        r'group-title="[^"]*"',
+        f'group-title="{item["status"]}"',
+        item["extinf"]
+    )
+
+    if item["status"] == "LIVE SEKARANG":
+        output.append(
+            re.sub(r",.*$", f",🔴 LIVE {jam} WIB • {item['title']}", new_ext)
+        )
+    else:
+        output.append(
+            re.sub(r",.*$", f",{jam} WIB • {item['title']}", new_ext)
+        )
+
+    output.extend(item["stream"])
 
 # ==================================================
 # SIMPAN FILE
@@ -234,7 +233,4 @@ with open(LOG_FILE, "w", encoding="utf-8") as f:
     for ch in sorted(unmatched):
         f.write(f"- {ch}\n")
 
-print("🎉 SELESAI")
-print("Output:")
-print(" - live_match.m3u")
-print(" - unmatched_channels.log")
+print("🎉 SELESAI (URUT JAM WIB)")
