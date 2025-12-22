@@ -789,22 +789,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",21:30 WIB • LALIGA: Girona v Atletico Madrid
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 23 DESEMBER 2025",22:00 WIB • VT - DIII Football Championship: John Carroll x North Central
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS3_HD)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 23 DESEMBER 2025",22:00 WIB • VT - DIII Football Championship: John Carroll x North Central
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe 
-#https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • India v South Africa - 5th T20
 #https://bit.ly/428RaFW
 
@@ -823,19 +807,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • Sky Intro - Sky TV made Simple
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • 2022-23司諾克賽季 世界錦標賽 16強 SEL vs WIL 副桌
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • 2022-23司諾克賽季 世界錦標賽 16強 SEL vs WIL 副桌(普)
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • 2025美國網球公開賽四強SIN vs ALI(普)
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • 2022-23司諾克賽季 世界錦標賽 16強 WIL vs HIG 副桌(普)
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • 2024-25司諾克賽季 國際錦標賽 4強 XIA vs WAK(普)
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • Scottish Open 2025 – Finals(2)
@@ -857,9 +829,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • 2025美國網球公開賽四強SIN vs ALI
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • VT - DIII Football Championship: John Carroll x North Central
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:00 WIB • Radio - Canal M, Radio de Vues et Voix
@@ -886,19 +855,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • Sky Intro - Sky TV made Simple
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • 2022-23司諾克賽季 世界錦標賽 16強 SEL vs WIL 副桌
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • 2022-23司諾克賽季 世界錦標賽 16強 SEL vs WIL 副桌(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • 2025美國網球公開賽四強SIN vs ALI(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • 2022-23司諾克賽季 世界錦標賽 16強 WIL vs HIG 副桌(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • 2024-25司諾克賽季 國際錦標賽 4強 XIA vs WAK(普)
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • Scottish Open 2025 – Finals(2)
@@ -922,43 +879,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • 2025美國網球公開賽四強SIN vs ALI
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • VT - DIII Football Championship: John Carroll x North Central
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • Radio - Canal M, Radio de Vues et Voix
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:00 WIB • SAMBUNG SIAR - WAIfm KUCHING
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 23 DESEMBER 2025",22:00 WIB • VT - DIII Football Championship: John Carroll x North Central
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
 #https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:15 WIB • 2025 MotoGP Of Thailand
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:15 WIB • 2025 MotoGP Of Thailand
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:15 WIB • 2025 MotoGP Of Thailand
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:15 WIB • 2025 MotoGP Of Thailand
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
-#https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
 #https://bit.ly/DonzTelevisionNewAttention
@@ -972,9 +900,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:30 WIB • Bellator MMA: Bellator 276: Phil Davis vs Julios Anglickas
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:30 WIB • 2025瑞士男網賽 8強  KYM vs CAZ(普)
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:30 WIB • The Greatest Leg - 2023 Final
 #https://bit.ly/428RaFW
 
@@ -985,9 +910,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:30 WIB • Bellator MMA: Bellator 276: Phil Davis vs Julios Anglickas
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:30 WIB • 2025瑞士男網賽 8強  KYM vs CAZ(普)
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:30 WIB • The Greatest Leg - 2023 Final
@@ -1041,72 +963,17 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:45 WIB • Auxerre vs Lille – French Ligue 1 2025/26 Week 16
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:50 WIB • (D) Dutch: Feyenoord vs Twente
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",22:50 WIB • (D) Dutch: Feyenoord vs Twente
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:50 WIB • (D) Dutch: Feyenoord vs Twente
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",22:50 WIB • (D) Dutch: Feyenoord vs Twente
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs0mviQGLBWG-BA_Phb3dXT9A8TBtcXKNC6Itc1RVGGRqqHEMkbXu3wcm7NTQr7g7RHkzidpQ4XcV3581U-_KCue5NoujLCxuVMeimBRyTTvRjkmsIceU0Owik8rUU2ZFTrUB_xsrw77ogCFicBJFx6KT2I6Zv2rKU3W1XoRkajzum4gGBnU8oxqS3yMYf/s700/FIFA%20CLUB.png",23:00 WIB • 企業排球聯賽 義力營造 vs 臺北鯨華(12/20/25)(普)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
-#https://dl.dropboxusercontent.com/s/1wyhaajw9g8b4if/Event5.m3u8?st=ul7n5w5a&dl=0|Referer=https://streamk.co.kr/
-
-#EXTINF:-1 tvg-id="171957" group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWzpPk6bkHb1dFXkRZY5qFk9BKeRoNePRm4k44Xx7p6wnsk5AywWUE_XZn1ckoH9J9sa1VPUnVwkObEXODwdeL-gDilgEZRrFSmZx1hkI80IxrsPkQsZ_6gvd6U93TFSOmz0vQmj0YJb556DTSz4rrCEHUZTlaXCPVwDWNeETEXgjCvIPu74jxQHBbpAae/s700/SOCCER%20CHANNEL.png",23:00 WIB • Bundesliga 2025/26: VFB Vs TSG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 23 DESEMBER 2025",23:00 WIB • 企業排球聯賽 義力營造 vs 臺北鯨華(12/20/25)(普)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/vGvysi9.jpg",23:00 WIB • Bundesliga 2025/26: VFB Vs TSG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • 企業排球聯賽 雲林美津濃 vs 桃園臺產(12/14/25)(普)
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • 企業排球聯賽 義力營造 vs 臺北鯨華(12/20/25)(普)
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • 2025日本職棒 羅德 vs 火腿 (7/9/25)(普)
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • 静岡 F1 第3日(ナイター)
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • Bundesliga 2025/26: VFB Vs TSG
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • Bundesliga 2025/26: VFB Vs TSG
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • MOVIE - VIDUTHALAI 2 (V/UA)
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • LaLiga 25/26: Girona v A Madrid
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:00 WIB • 2025亞洲冬盟 台灣海洋隊 vs 台灣山林隊 (11/16/25)(普)
 #https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • 企業排球聯賽 雲林美津濃 vs 桃園臺產(12/14/25)(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • 企業排球聯賽 義力營造 vs 臺北鯨華(12/20/25)(普)
-#https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • 2025日本職棒 羅德 vs 火腿 (7/9/25)(普)
 #https://bit.ly/DonzTelevisionNewAttention
@@ -1114,47 +981,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • 静岡 F1 第3日(ナイター)
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • Bundesliga 2025/26: VFB Vs TSG
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • Bundesliga 2025/26: VFB Vs TSG
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • MOVIE - VIDUTHALAI 2 (V/UA)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • LaLiga 25/26: Girona v A Madrid
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:00 WIB • 2025亞洲冬盟 台灣海洋隊 vs 台灣山林隊 (11/16/25)(普)
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4J4IwKs.jpg" group-title="LIVE NOW 23 DESEMBER 2025",23:00 WIB • 企業排球聯賽 義力營造 vs 臺北鯨華(12/20/25)(普)
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-#https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9YiKTeR.jpg" group-title="LIVE NOW 23 DESEMBER 2025",23:00 WIB • 企業排球聯賽 義力營造 vs 臺北鯨華(12/20/25)(普)
-#http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
-#rtmp://f13h.mine.nu/sat/tv731
-#https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NDUvbW9uby5tM3U4.m3u8
-  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 23 DESEMBER 2025",23:00 WIB • 企業排球聯賽 義力營造 vs 臺北鯨華(12/20/25)(普)
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 23 DESEMBER 2025",23:00 WIB • 2025日本職棒 羅德 vs 火腿 (7/9/25)(普)
 http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 23 DESEMBER 2025",23:00 WIB • Bundesliga 2025/26: VFB Vs TSG
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 23 DESEMBER 2025",23:00 WIB • Bundesliga 2025/26: VFB Vs TSG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DAZN_2.png" ,23:00 WIB • 企業排球聯賽 義力營造 vs 臺北鯨華(12/20/25)(普)
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DAZN_3.png" ,23:00 WIB • 2025日本職棒 羅德 vs 火腿 (7/9/25)(普)
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="LIVE NOW 23 DESEMBER 2025",23:00 WIB • 静岡 F1 第3日(ナイター)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
@@ -1176,52 +1010,16 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b23
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:13 WIB • LIVE: M9 ST v BH
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:30 WIB • Cleveland Orchestra, Franz Welser-Möst, Simon Keenlyside - Mahler
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:30 WIB • America's Got Talent S20 - Eps. 12
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:30 WIB • ATP Tour 1000 2025: Paris Day 2 Alcaraz v Norrie
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:30 WIB • VT - Villarreal x Barcelona
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:30 WIB • 2025蒙特婁女網賽16強GAU vs MBO(普)
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:30 WIB • 2025蒙特婁女網賽16強GAU vs MBO(普)
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:30 WIB • 2025蒙特婁女網賽16強GAU vs MBO
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:30 WIB • Cleveland Orchestra, Franz Welser-Möst, Simon Keenlyside - Mahler
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:30 WIB • America's Got Talent S20 - Eps. 12
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:30 WIB • ATP Tour 1000 2025: Paris Day 2 Alcaraz v Norrie
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:30 WIB • VT - Villarreal x Barcelona
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:30 WIB • 2025蒙特婁女網賽16強GAU vs MBO(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:30 WIB • 2025蒙特婁女網賽16強GAU vs MBO(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:30 WIB • 2025蒙特婁女網賽16強GAU vs MBO
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:35 WIB • Band Of Sisters - Eps. 50
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",23:35 WIB • Band Of Sisters - Eps. 50
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",23:39 WIB • Womens U-19 UEFA Euro Qualifier 2025/26 Full Match: Germany - Spain
@@ -1317,15 +1115,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Tennis: Next Gen ATP Finals
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Law \u0026 Order Special Victims Unit S12 E11 - Pop
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • CITIES - S01, EP.01 - LONDON
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • American Ninja Warrior: National Finals: Part 6
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • LaLiga 2025/26: VIL Vs BAR
 #https://bit.ly/428RaFW
 
@@ -1335,22 +1124,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • LaLiga 2025/26: Villarreal vs Barcelona
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Final Destiny
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Final Destiny
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Final Destiny
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • 20 Years On - 2005's Best Sellers
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • 2025-26 TPBL台灣職業籃球大聯盟G19 台北台新戰神 vs 桃園台啤永豐雲豹(普)
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Ulrich Wetzel - Das Strafgericht
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • 2025-26 TPBL台灣職業籃球大聯盟G20 高雄全家海神 vs 新北國王(普)
@@ -1359,199 +1136,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • 2025WTA年終賽第二天DAB/ROU vs AND/SHN(普)
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • 2025辛辛那提大師賽 4強 SIN vs ATM(普)
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Serie A 25/26: Sassuolo v Torino
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Programming - College Info
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Turn back time with Crepe Erase - 10th Anniversary Special Event!
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • WOW - Women Of Wrestling
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Revelation of Hope Seminar - Taj Pacleb
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Revelation of Hope Seminar - Taj Pacleb
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Revelation of Hope Seminar - Taj Pacleb
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Grace Notes
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Serie A 25/26: Sassuolo v Torino
@@ -1560,13 +1145,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Longines FEI Jumping WC (WEL) - Leg 6 - London
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Start - Up
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • 爆米花聯盟 預賽第1 VS G2勝 冠軍戰 12/22(普)
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • UFC 321 HL: Aspinall v Gane
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:00 WIB • Liga 2: PSL Vs BFC
@@ -1602,15 +1181,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Tennis: Next Gen ATP Finals
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Law \u0026 Order Special Victims Unit S12 E11 - Pop
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • CITIES - S01, EP.01 - LONDON
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • American Ninja Warrior: National Finals: Part 6
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • LaLiga 2025/26: VIL Vs BAR
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -1620,22 +1190,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • LaLiga 2025/26: Villarreal vs Barcelona
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Final Destiny
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Final Destiny
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Final Destiny
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • 20 Years On - 2005's Best Sellers
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • 2025-26 TPBL台灣職業籃球大聯盟G19 台北台新戰神 vs 桃園台啤永豐雲豹(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Ulrich Wetzel - Das Strafgericht
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • 2025-26 TPBL台灣職業籃球大聯盟G20 高雄全家海神 vs 新北國王(普)
@@ -1644,199 +1202,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • 2025WTA年終賽第二天DAB/ROU vs AND/SHN(普)
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • 2025辛辛那提大師賽 4強 SIN vs ATM(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Serie A 25/26: Sassuolo v Torino
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Programming - College Info
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Turn back time with Crepe Erase - 10th Anniversary Special Event!
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • WOW - Women Of Wrestling
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Revelation of Hope Seminar - Taj Pacleb
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Revelation of Hope Seminar - Taj Pacleb
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Winter Solutions - Snow Joe - All On Sale
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Revelation of Hope Seminar - Taj Pacleb
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Grace Notes
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Serie A 25/26: Sassuolo v Torino
@@ -1845,13 +1211,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Longines FEI Jumping WC (WEL) - Leg 6 - London
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Start - Up
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • 爆米花聯盟 預賽第1 VS G2勝 冠軍戰 12/22(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • UFC 321 HL: Aspinall v Gane
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:00 WIB • Liga 2: PSL Vs BFC
@@ -1924,12 +1284,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",00:00 WIB • NFL 2025/26 Jacksonville Jaguars vs Denver Broncos
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:05 WIB • Crikey! It's The Irwins S3 - Eps. 6
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:05 WIB • Crikey! It's The Irwins S3 - Eps. 6
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:10 WIB • BBL 25/26: SYT v BRH
 #https://bit.ly/428RaFW
 
@@ -1941,36 +1295,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:10 WIB • BBL 25/26: SYT v BRH
 #https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:15 WIB • Docfilm -Mongolia - Valley Of The Bears 
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:15 WIB • Kumis - Eps. 198
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:15 WIB • Mongolia - Valley of the Bears - Part 1
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:15 WIB • NOTV Television - Late Night Entertainment in New Orleans
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:15 WIB • Docfilm -Mongolia - Valley Of The Bears 
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:15 WIB • Kumis - Eps. 198
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:15 WIB • Mongolia - Valley of the Bears - Part 1
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:15 WIB • NOTV Television - Late Night Entertainment in New Orleans
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:20 WIB • A Mona Lisa Obsession S1 - Eps.1
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:20 WIB • Say Yes To The Dress Lancashire S2 - Eps. 18
-#https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:20 WIB • PL: Man City vs West Ham
 #https://bit.ly/428RaFW
@@ -1981,12 +1305,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:20 WIB • SAMBUNG LAGU - SANDAKANfm
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:20 WIB • A Mona Lisa Obsession S1 - Eps.1
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:20 WIB • Say Yes To The Dress Lancashire S2 - Eps. 18
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:20 WIB • PL: Man City vs West Ham
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -1996,142 +1314,40 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:20 WIB • SAMBUNG LAGU - SANDAKANfm
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:25 WIB • Star Trail - Jackson Wang Special
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:25 WIB • Finale Part 1
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:25 WIB • Star Trail - Jackson Wang Special
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:25 WIB • Finale Part 1
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • F1內線通:Lando Norris
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Kingdom Season 6 - Eps.10
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Fading Flavors S1 - Eps.4
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • VT - NFL: Los Angeles Chargers x Dallas Cowboys
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • F1內線通:Lando NorrisS26(25)(普)
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Double Take - A Yaqeen Podcast
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Anthony Williams' Urban Nutcracker - Beyond the Stage
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Transform by Grace
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Inogen Portable Oxygen - No More Tanks!
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Inogen Portable Oxygen - No More Tanks!
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Trackside 1 - AUS
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Finale Performance
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Monsters Vs Aliens: Mutant Pumpkin...
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Match Hls 25/26: MW17: Tottenham Vs Liverpool
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • 爆米花聯盟 預賽第1 VS G2勝 冠軍戰 12/22(普)
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Match Hls 25/26: MW17: Tottenham Vs Liverpool
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • The Art of Negotiation - Eps. 1
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • Bocah Petualang - Eps. 1866
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:30 WIB • 英超 阿斯頓維拉 VS 曼聯 第17輪(普)
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • F1內線通:Lando Norris
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Kingdom Season 6 - Eps.10
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Fading Flavors S1 - Eps.4
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • VT - NFL: Los Angeles Chargers x Dallas Cowboys
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • F1內線通:Lando NorrisS26(25)(普)
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Double Take - A Yaqeen Podcast
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Anthony Williams' Urban Nutcracker - Beyond the Stage
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Transform by Grace
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Inogen Portable Oxygen - No More Tanks!
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Inogen Portable Oxygen - No More Tanks!
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Trackside 1 - AUS
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Finale Performance
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Monsters Vs Aliens: Mutant Pumpkin...
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Match Hls 25/26: MW17: Tottenham Vs Liverpool
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • 爆米花聯盟 預賽第1 VS G2勝 冠軍戰 12/22(普)
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Match Hls 25/26: MW17: Tottenham Vs Liverpool
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • The Art of Negotiation - Eps. 1
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • Bocah Petualang - Eps. 1866
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:30 WIB • 英超 阿斯頓維拉 VS 曼聯 第17輪(普)
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:32 WIB • Witness - St. Louis Superman
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:32 WIB • Witness - St. Louis Superman
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:32 WIB • Witness - St. Louis Superman
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:32 WIB • Witness - St. Louis Superman
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:33 WIB • Endeavour - The Young Inspector Morse
@@ -2197,55 +1413,433 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:45 WIB • The Ordinary Glory - Eps. 37
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:45 WIB • The Tribe - Eine Welt ohne Erwachsene
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:45 WIB • Netball Champs HL '25: U21 Final
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:45 WIB • The Ordinary Glory - Eps. 37
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:45 WIB • The Tribe - Eine Welt ohne Erwachsene
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:45 WIB • Netball Champs HL '25: U21 Final
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:47 WIB • Gatha Shiv Parivar Ki - Ganesh Kartikeya 第1季第89集 -Gatha Shiv Parivar Ki 
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:47 WIB • Gatha Shiv Parivar Ki - Ganesh Kartikeya 第1季第89集 -Gatha Shiv Parivar Ki 
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:50 WIB • Noël Baroque dans un monastère Bénédictin - L'abbaye de Seitenstetten en Autriche
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:50 WIB • AFCON HL '25 MOR v COM
-#https://bit.ly/428RaFW
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:50 WIB • Noël Baroque dans un monastère Bénédictin - L'abbaye de Seitenstetten en Autriche
 #https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:50 WIB • AFCON HL '25 MOR v COM
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:55 WIB • Peppa Pig - Eps.217
-#https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:55 WIB • Monteverdi : Vespro della Beata Vergine - Orkester Nord, Martin Wåhlberg
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:55 WIB • Peppa Pig - Eps.217
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:55 WIB • Monteverdi : Vespro della Beata Vergine - Orkester Nord, Martin Wåhlberg
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:55 WIB • Mr. Bean - Die Cartoon-Serie
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",00:58 WIB • Journal radio - 06h00
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:55 WIB • Mr. Bean - Die Cartoon-Serie
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",00:58 WIB • Journal radio - 06h00
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 23 DESEMBER 2025",01:00 WIB • VT - Wolverhampton x Brentford
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS3_HD)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 23 DESEMBER 2025",01:00 WIB • VT - Wolverhampton x Brentford
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe 
+#https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2025 FORMULA 1　第13戦 ベルギー 決勝（再）
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Married With Children S5 E10 - One Down, Two to Go
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • HAIKYU!! The Movie - The End and the Beginning-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • ABC National News - Episode 356
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2025 FORMULA 1 第13戦 ベルギー 決勝（再）
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • LOOK - S01, EP.01
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Our Last Crusade Or The Rise Of A New World Season 2 - Eps.5
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Trisha's Southern Kitchen S17 - Eps.11
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • HAIKYU!! The Movie - The End and the Beginning
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2024歐洲公開賽 第2天(4) HOH vs LIN(台灣)
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2025蒙特婁女網賽16強TAU vs SWI(普)
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2024歐洲公開賽 第2天(4) HOH vs LIN(台灣)(普)
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2025中華企業射箭聯賽 季後挑戰賽  新濠建設 vs 新北凱撒 G2  (10/11/25)(普)
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Barbara Salesch - Das Strafgericht
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2025蒙特婁女網賽16強RYB vs YAS(普)
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2024歐洲公開賽 第2天(5) FIL vs ALE(普)
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 ROB vs DOT(普)
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Winter Solutions - Snow Joe - All On Sale
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Programming - College Info
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Veredicto final
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Winter Solutions - Snow Joe - All On Sale
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Veredicto final
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Veredicto final
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Veredicto final
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Veredicto final
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • WCJB TV20 News - Morning Edition at 5AM
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Winter Solutions - Snow Joe - All On Sale
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Veredicto final
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 69 News at Sunrise - 5:00am
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • EZ WELL Massage System - Relax, Restore, Rejuvenate -Full-Body Relief!
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 69 News at Sunrise - 5:00am
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Winter Solutions - Snow Joe - All On Sale
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Trackside 1 - AUS
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • ERE: FC Utrecht vs PSV
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Hipster Tour - South America
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Match Hls 25/26: MW17: Man City Vs West Ham
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • EFL: Swansea vs Wrexham
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Isitha - The Enemy
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Brewer Lee 2 - Eps. 1
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • UFC 322 HL: Maddalena v Makhachev
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Zambia Untamed S1 - Eps. 3
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • LaLiga 25/26: Elche v Rayo
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Match Hls 25/26: MW17: Man City Vs West Ham
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Plentis Kentus - Eps. 11
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • VT - Wolverhampton x Brentford
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • 2025蒙特婁女網賽16強TAU vs SWI
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • EFL: Swansea vs Wrexham
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:00 WIB • Local - Cooking
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2025 FORMULA 1　第13戦 ベルギー 決勝（再）
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Married With Children S5 E10 - One Down, Two to Go
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • HAIKYU!! The Movie - The End and the Beginning-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • ABC National News - Episode 356
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2025 FORMULA 1 第13戦 ベルギー 決勝（再）
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • LOOK - S01, EP.01
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Our Last Crusade Or The Rise Of A New World Season 2 - Eps.5
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Trisha's Southern Kitchen S17 - Eps.11
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • HAIKYU!! The Movie - The End and the Beginning
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2024歐洲公開賽 第2天(4) HOH vs LIN(台灣)
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2025蒙特婁女網賽16強TAU vs SWI(普)
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2024歐洲公開賽 第2天(4) HOH vs LIN(台灣)(普)
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2025中華企業射箭聯賽 季後挑戰賽  新濠建設 vs 新北凱撒 G2  (10/11/25)(普)
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Barbara Salesch - Das Strafgericht
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2025蒙特婁女網賽16強RYB vs YAS(普)
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2024歐洲公開賽 第2天(5) FIL vs ALE(普)
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2024-25司諾克賽季 北愛爾蘭公開賽 第一輪 ROB vs DOT(普)
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Winter Solutions - Snow Joe - All On Sale
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Programming - College Info
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Veredicto final
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Winter Solutions - Snow Joe - All On Sale
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Veredicto final
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Veredicto final
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Veredicto final
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Veredicto final
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • WCJB TV20 News - Morning Edition at 5AM
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Winter Solutions - Snow Joe - All On Sale
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Veredicto final
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 69 News at Sunrise - 5:00am
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • EZ WELL Massage System - Relax, Restore, Rejuvenate -Full-Body Relief!
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 69 News at Sunrise - 5:00am
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Winter Solutions - Snow Joe - All On Sale
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Trackside 1 - AUS
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • ERE: FC Utrecht vs PSV
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Hipster Tour - South America
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Match Hls 25/26: MW17: Man City Vs West Ham
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • EFL: Swansea vs Wrexham
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Isitha - The Enemy
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Brewer Lee 2 - Eps. 1
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • UFC 322 HL: Maddalena v Makhachev
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Zambia Untamed S1 - Eps. 3
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • LaLiga 25/26: Elche v Rayo
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Match Hls 25/26: MW17: Man City Vs West Ham
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Plentis Kentus - Eps. 11
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • VT - Wolverhampton x Brentford
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • 2025蒙特婁女網賽16強TAU vs SWI
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • EFL: Swansea vs Wrexham
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:00 WIB • Local - Cooking
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 23 DESEMBER 2025",01:00 WIB • VT - Wolverhampton x Brentford
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:02 WIB • Inogen Portable Oxygen - No More Tanks!
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:02 WIB • Inogen Portable Oxygen - No More Tanks!
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:05 WIB • Grand Prix d'Abu Dhabi
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:05 WIB • Grand Prix d'Abu Dhabi
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:10 WIB • Vodacom URC 25/26: BEN v ZEB
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:10 WIB • Vodacom URC 25/26: BEN v ZEB
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • Iron Ball - Eps.6
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • Jangan Nonton Sendirian - Eps. 14
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • Peppa Pig - Eps.220
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • NOTV Television - Late Night Entertainment in New Orleans
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • Gold Rush S15 - Eps.7
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • House On Wheels: Beyond the Ocean - Eps.9
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • Family Dinner S3 - Eps. 13
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • Netball Champs HL '25: Deaf Final
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • 2025 MotoGP Of Thailand
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • 2025 MotoGP Of Thailand
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • Iron Ball - Eps.6
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • Jangan Nonton Sendirian - Eps. 14
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • Peppa Pig - Eps.220
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • NOTV Television - Late Night Entertainment in New Orleans
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • Gold Rush S15 - Eps.7
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • House On Wheels: Beyond the Ocean - Eps.9
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • Family Dinner S3 - Eps. 13
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • Netball Champs HL '25: Deaf Final
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • 2025 MotoGP Of Thailand
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • 2025 MotoGP Of Thailand
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:15 WIB • 2025 MotoGP Rd1 PT GP of Thailand
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:16 WIB • Murder by Medic - Tödliche Behandlung
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:16 WIB • Murder by Medic - Tödliche Behandlung
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/nX0APzB.png",01:17 WIB • Finale Part 2
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE NOW 23 DESEMBER 2025" tvg-logo="https://i.imgur.com/XsmEoBz.png",01:17 WIB • Finale Part 2
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE 23 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",01:50 WIB • LFCTV 2025/26: TOT Vs LIV
