@@ -1,4 +1,4 @@
-import requests, gzip, re, xml.etree.ElementTree as ET
+import requests, re, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from difflib import get_close_matches
 
@@ -10,13 +10,15 @@ OUT_FILE = "live_match.m3u"
 TZ = timezone(timedelta(hours=7))  # WIB
 NOW = datetime.now(TZ)
 
-MAX_LIVE_MATCH_HOURS = 5   # ⚽ toleran extra time
-MAX_LIVE_RACE_HOURS  = 4   # 🏁 race
+# ⏱️ LIVE muncul lebih awal
+LIVE_EARLY_MINUTES = 30
 
-# 🔥 CHANNEL PRIORITAS (tidak boleh gugur saat LIVE)
-PRIORITY_CHANNELS = [
-    "bein", "beinsports"
-]
+# toleransi durasi
+MAX_LIVE_MATCH_HOURS = 5   # ⚽
+MAX_LIVE_RACE_HOURS  = 4   # 🏁
+
+# 🔥 channel prioritas (tidak boleh gugur)
+PRIORITY_CHANNELS = ["bein", "beinsports"]
 
 BULAN_ID = {
     1:"JANUARI",2:"FEBRUARI",3:"MARET",4:"APRIL",
@@ -29,19 +31,19 @@ REPLAY_KEYWORDS = [
     "REPEAT","DELAYED","TAPE DELAY","(R)","HIGHLIGHTS"
 ]
 
-# ❌ program non-pertandingan (dibuang dari NEXT LIVE)
 NON_MATCH_KEYWORDS = [
     "NETBUSTERS","FINAL WORD","EXTRA TIME","GENERATION",
     "MAGAZINE","STUDIO","SHOW","ANALYSIS",
-    "PREVIEW","REVIEW","COUNTDOWN","HUB"
+    "PREVIEW","REVIEW","COUNTDOWN","HUB",
+    "GOALS OF THE SEASON","FANZONE","WELCOME TO"
 ]
 
 # ================= UTIL =================
 def tanggal_id(dt):
     return f"{dt.day} {BULAN_ID[dt.month]} {dt.year}"
 
-# ⏰ EPG SUDAH WIB → TIDAK ADA KONVERSI UTC
 def parse_time(t):
+    # EPG sudah WIB
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S").replace(tzinfo=TZ)
 
 def norm(text):
@@ -68,7 +70,7 @@ def is_priority_channel(name):
     return any(p in n for p in PRIORITY_CHANNELS)
 
 def normalize_tvg_id(name, tvg_id):
-    # 🔥 satukan family beIN
+    # satukan family beIN
     if is_bein(name):
         return "beinsports"
     return tvg_id
@@ -77,7 +79,7 @@ def is_race(title):
     t = title.upper()
     return any(x in t for x in ["RACE","GRAND PRIX","MOTOGP","FORMULA","F1"])
 
-# ================= MATCH FILTER =================
+# ================= MATCH FILTER (KETAT) =================
 def is_match(title):
     t = title.upper()
 
@@ -90,10 +92,15 @@ def is_match(title):
     if is_race(title):
         return True
 
-    if any(x in t for x in ["FINAL","SEMI FINAL","QUARTER FINAL"]):
+    # final tanpa VS → buang
+    if any(x in t for x in ["FINAL","SEMI FINAL","QUARTER FINAL"]) and " VS " not in t:
+        return False
+
+    # ⚠️ MATCH HARUS ADA VS / V
+    if " VS " in t or " V " in t:
         return True
 
-    return (" VS " in t) or (" V " in t) or (" - " in t)
+    return False
 
 # ================= STREAM BLOCK =================
 def get_stream_block(lines, i):
@@ -113,7 +120,7 @@ def get_stream_block(lines, i):
 
     return block if found_url else []
 
-# ================= LOAD EPG (WIB) =================
+# ================= LOAD EPG =================
 r = requests.get(EPG_URL, timeout=180)
 root = ET.fromstring(r.content)
 
@@ -130,7 +137,6 @@ for p in root.findall("programme"):
     epg_events.append((
         p.attrib["channel"],
         parse_time(p.attrib["start"]),
-        parse_time(p.attrib["stop"]),
         title
     ))
 
@@ -178,7 +184,7 @@ while i < len(lines):
 collected = []
 
 for ch in channels:
-    for cid, start, stop, title in epg_events:
+    for cid, start, title in epg_events:
 
         same_channel = cid == ch["tvg_id"]
         same_family = base_channel_name(cid) == ch["base"]
@@ -189,12 +195,14 @@ for ch in channels:
 
         max_hours = MAX_LIVE_RACE_HOURS if is_race(title) else MAX_LIVE_MATCH_HOURS
 
-        # ⛔ jangan gugurkan channel prioritas
-        if NOW > start + timedelta(hours=max_hours):
-            if not is_priority_channel(ch["name"]):
-                continue
+        live_start = start - timedelta(minutes=LIVE_EARLY_MINUTES)
+        live_end   = start + timedelta(hours=max_hours)
 
-        is_live = NOW >= start and NOW <= (start + timedelta(hours=max_hours))
+        # gugur hanya jika bukan prioritas
+        if NOW > live_end and not is_priority_channel(ch["name"]):
+            continue
+
+        is_live = NOW >= live_start and NOW <= live_end
 
         if is_live:
             group = f"LIVE NOW {tanggal_id(NOW)}"
@@ -234,4 +242,4 @@ for e in collected:
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
 
-print("SELESAI ✅ EPG WIB aktif | PRIORITAS beIN | LIVE & NEXT LIVE rapi")
+print("SELESAI ✅ LIVE 30 MENIT LEBIH AWAL | PRIORITAS AKTIF | EPG WIB")
