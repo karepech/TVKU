@@ -5,14 +5,15 @@ import re
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
+import sys
 
-# ================= CONFIG =================
-INPUT_M3U  = "live_channels.m3u"
+# ===================== CONFIG (NAMA LAMA) =====================
+INPUT_M3U  = "live_epg_sports.m3u"
 OUTPUT_M3U = "live_match.m3u"
 
 EPG_URL = "https://raw.githubusercontent.com/karepech/Epgku/main/epg_wib_sports.xml"
 
-NOW = datetime.now()
+NOW = datetime.now()  # WIB (EPG sudah WIB)
 
 LIVE_EARLY = timedelta(minutes=30)
 SOCCER_DURATION = timedelta(hours=5)
@@ -25,22 +26,29 @@ BLOCK_KEYWORDS = [
 
 RACE_KEYWORDS = ["f1", "formula", "motogp", "nascar", "race"]
 
-# ================= HELPER =================
-def norm(s: str) -> str:
-    return re.sub(r"[^a-z0-9]", "", s.lower())
+# ===================== VALIDASI FILE =====================
+try:
+    open(INPUT_M3U, "r", encoding="utf-8", errors="ignore").close()
+except FileNotFoundError:
+    print(f"❌ ERROR: File {INPUT_M3U} tidak ditemukan")
+    sys.exit(1)
 
-def is_blocked(title: str) -> bool:
+# ===================== HELPER =====================
+def norm(txt):
+    return re.sub(r"[^a-z0-9]", "", txt.lower())
+
+def blocked(title):
     t = title.lower()
     return any(k in t for k in BLOCK_KEYWORDS)
 
-def is_race(title: str) -> bool:
+def is_race(title):
     t = title.lower()
     return any(k in t for k in RACE_KEYWORDS)
 
-def parse_time(t: str) -> datetime:
+def parse_epg_time(t):
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S")
 
-# ================= LOAD CHANNELS =================
+# ===================== LOAD CHANNELS =====================
 channels = []
 
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
@@ -51,13 +59,13 @@ while i < len(lines):
     if lines[i].startswith("#EXTINF"):
         extinf = lines[i]
         url = lines[i+1] if i+1 < len(lines) else ""
-        name = extinf.split(",")[-1].strip()
+        name = extinf.split(",", 1)[-1].strip()
 
         channels.append({
             "extinf": extinf,
+            "url": url,
             "name": name,
             "key": norm(name),
-            "url": url,
             "live": None,
             "next": None
         })
@@ -65,9 +73,9 @@ while i < len(lines):
     else:
         i += 1
 
-# ================= LOAD EPG =================
-xml_data = requests.get(EPG_URL, timeout=30).content
-root = ET.fromstring(xml_data)
+# ===================== LOAD EPG =====================
+xml = requests.get(EPG_URL, timeout=30).content
+root = ET.fromstring(xml)
 
 for p in root.findall("programme"):
     title_el = p.find("title")
@@ -75,10 +83,10 @@ for p in root.findall("programme"):
         continue
 
     title = title_el.text.strip()
-    if is_blocked(title):
+    if blocked(title):
         continue
 
-    start = parse_time(p.attrib["start"])
+    start = parse_epg_time(p.attrib["start"])
     channel_id = norm(p.attrib.get("channel", ""))
 
     duration = RACE_DURATION if is_race(title) else SOCCER_DURATION
@@ -93,7 +101,7 @@ for p in root.findall("programme"):
                 if not ch["next"] or start < ch["next"][1]:
                     ch["next"] = (title, start)
 
-# ================= WRITE OUTPUT =================
+# ===================== WRITE OUTPUT =====================
 today_label = NOW.strftime("%d %B %Y").upper()
 
 with open(OUTPUT_M3U, "w", encoding="utf-8") as out:
@@ -104,23 +112,23 @@ with open(OUTPUT_M3U, "w", encoding="utf-8") as out:
 
         if ch["live"]:
             title, start = ch["live"]
-            new_name = f'🔴 LIVE • {ch["name"]} • {title} • {start.strftime("%H:%M WIB")}'
             group = f'group-title="LIVE NOW {today_label}"'
+            name = f'🔴 LIVE • {start.strftime("%H:%M WIB")} • {title}'
 
         elif ch["next"]:
             title, start = ch["next"]
-            new_name = f'{start.strftime("%d %B %Y").upper()} • {start.strftime("%H:%M WIB")} • {title}'
             group = 'group-title="NEXT LIVE"'
+            name = f'{start.strftime("%d %B %Y").upper()} • {start.strftime("%H:%M WIB")} • {title}'
 
         else:
-            new_name = ch["name"]
-            group = ""
+            group = ''
+            name = ch["name"]
 
-        extinf_new = re.sub(r'group-title="[^"]*"', "", base).strip()
+        ext = re.sub(r'group-title="[^"]*"', '', base).strip()
         if group:
-            extinf_new += f' {group}'
+            ext += f' {group}'
 
-        out.write(f"{extinf_new},{new_name}\n")
+        out.write(f"{ext},{name}\n")
         out.write(ch["url"] + "\n\n")
 
-print("OK - generate_live_today_tomorrow.py selesai")
+print("✅ generate_live_today_tomorrow.py selesai (nama lama dipakai semua)")
