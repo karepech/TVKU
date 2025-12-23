@@ -19,6 +19,12 @@ BULAN_ID = {
     9:"SEPTEMBER",10:"OKTOBER",11:"NOVEMBER",12:"DESEMBER"
 }
 
+REPLAY_KEYWORDS = [
+    "REPLAY","RERUN","RE-AIR","RE AIR","ENCORE",
+    "REPEAT","DELAYED","TAPE DELAY","(R)",
+    "HIGHLIGHTS"
+]
+
 def tanggal_id(dt):
     return f"{dt.day} {BULAN_ID[dt.month]} {dt.year}"
 
@@ -48,21 +54,33 @@ def is_race(title):
     t = title.upper()
     return any(x in t for x in ["RACE","GRAND PRIX","MOTOGP","FORMULA","F1"])
 
+# ================= MATCH FILTER =================
 def is_match(title):
     t = title.upper()
+
+    # ❌ buang siaran ulang
+    if any(x in t for x in REPLAY_KEYWORDS):
+        return False
+
+    # ❌ buang program non-pertandingan
     if any(x in t for x in [
-        "HIGHLIGHT","REPLAY","ANALYSIS","STUDIO",
-        "PRE MATCH","POST MATCH","MAGAZINE",
-        "SHOW","TALK","REVIEW"
+        "ANALYSIS","STUDIO","PRE MATCH","POST MATCH",
+        "MAGAZINE","SHOW","TALK","REVIEW"
     ]):
         return False
+
+    # 🏁 race
     if is_race(title):
         return True
+
+    # 🏆 final
     if any(x in t for x in ["FINAL","SEMI FINAL","QUARTER FINAL"]):
         return True
+
+    # ⚽ match
     return (" VS " in t) or (" V " in t) or (" - " in t)
 
-# ===== STREAM BLOCK FIX =====
+# ================= STREAM BLOCK FIX =================
 def get_stream_block(lines, i):
     block = []
     j = i + 1
@@ -75,6 +93,7 @@ def get_stream_block(lines, i):
 
         block.append(lines[j])
 
+        # URL asli
         if line and not line.startswith("#"):
             found_url = True
             break
@@ -153,7 +172,10 @@ for ch in channels:
         if not (cid == ch["tvg_id"] or base_channel_name(cid) == ch["base"]):
             continue
 
+        # batas live per jenis
         max_hours = MAX_LIVE_RACE_HOURS if is_race(title) else MAX_LIVE_MATCH_HOURS
+
+        # event terlalu lama → buang
         if NOW > start + timedelta(hours=max_hours):
             continue
 
@@ -179,9 +201,9 @@ for ch in channels:
 # ================= SORT =================
 collected.sort(key=lambda x: x["start"])
 
-# ================= OUTPUT (FIX FORMAT) =================
-output_lines = []
-output_lines.append('#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"')
+# ================= OUTPUT =================
+output = []
+output.append('#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"')
 
 for e in collected:
     ext = re.sub(
@@ -191,13 +213,11 @@ for e in collected:
     )
     ext = ext.split(",", 1)[0] + f",{e['label']}"
 
-    output_lines.append(ext)
-
+    output.append(ext)
     for line in e["block"]:
-        output_lines.append(line)
+        output.append(line)
 
-# 🔑 ini kunci: JOIN PAKAI NEWLINE
 with open(OUT_FILE, "w", encoding="utf-8") as f:
-    f.write("\n".join(output_lines) + "\n")
+    f.write("\n".join(output) + "\n")
 
-print("SELESAI ✅ FORMAT M3U SUDAH VALID")
+print("SELESAI ✅ FINAL SCRIPT (ANTI REPLAY, LIVE TERBATAS)")
