@@ -3,7 +3,7 @@ from datetime import datetime, timedelta, timezone
 from difflib import get_close_matches
 
 # ================= CONFIG =================
-EPG_URL = "https://epg.pw/xmltv/epg.xml"
+EPG_URL = "https://raw.githubusercontent.com/karepech/Epgku/refs/heads/main/epg_wib_sports.xml"
 INPUT_M3U = "live_epg_sports.m3u"
 OUT_FILE = "live_match.m3u"
 
@@ -11,9 +11,9 @@ TZ = timezone(timedelta(hours=7))  # WIB
 NOW = datetime.now(TZ)
 
 MAX_LIVE_MATCH_HOURS = 5   # ⚽ toleran extra time
-MAX_LIVE_RACE_HOURS  = 5   # 🏁 race
+MAX_LIVE_RACE_HOURS  = 4   # 🏁 race
 
-# 🔥 PRIORITAS CHANNEL (TIDAK BOLEH GUGUR)
+# 🔥 CHANNEL PRIORITAS (tidak boleh gugur saat LIVE)
 PRIORITY_CHANNELS = [
     "bein", "beinsports"
 ]
@@ -29,6 +29,7 @@ REPLAY_KEYWORDS = [
     "REPEAT","DELAYED","TAPE DELAY","(R)","HIGHLIGHTS"
 ]
 
+# ❌ program non-pertandingan (dibuang dari NEXT LIVE)
 NON_MATCH_KEYWORDS = [
     "NETBUSTERS","FINAL WORD","EXTRA TIME","GENERATION",
     "MAGAZINE","STUDIO","SHOW","ANALYSIS",
@@ -39,10 +40,9 @@ NON_MATCH_KEYWORDS = [
 def tanggal_id(dt):
     return f"{dt.day} {BULAN_ID[dt.month]} {dt.year}"
 
+# ⏰ EPG SUDAH WIB → TIDAK ADA KONVERSI UTC
 def parse_time(t):
-    return datetime.strptime(t[:14], "%Y%m%d%H%M%S") \
-        .replace(tzinfo=timezone.utc) \
-        .astimezone(TZ)
+    return datetime.strptime(t[:14], "%Y%m%d%H%M%S").replace(tzinfo=TZ)
 
 def norm(text):
     text = text.lower()
@@ -68,6 +68,7 @@ def is_priority_channel(name):
     return any(p in n for p in PRIORITY_CHANNELS)
 
 def normalize_tvg_id(name, tvg_id):
+    # 🔥 satukan family beIN
     if is_bein(name):
         return "beinsports"
     return tvg_id
@@ -112,12 +113,9 @@ def get_stream_block(lines, i):
 
     return block if found_url else []
 
-# ================= LOAD EPG =================
+# ================= LOAD EPG (WIB) =================
 r = requests.get(EPG_URL, timeout=180)
-try:
-    root = ET.fromstring(gzip.decompress(r.content))
-except:
-    root = ET.fromstring(r.content)
+root = ET.fromstring(r.content)
 
 epg_channels = {
     norm(ch.findtext("display-name","")): ch.attrib["id"]
@@ -191,7 +189,7 @@ for ch in channels:
 
         max_hours = MAX_LIVE_RACE_HOURS if is_race(title) else MAX_LIVE_MATCH_HOURS
 
-        # ⛔ Jangan gugurkan channel prioritas
+        # ⛔ jangan gugurkan channel prioritas
         if NOW > start + timedelta(hours=max_hours):
             if not is_priority_channel(ch["name"]):
                 continue
@@ -219,7 +217,7 @@ for ch in channels:
 collected.sort(key=lambda x: x["start"])
 
 # ================= OUTPUT =================
-output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+output = ['#EXTM3U url-tvg="{}"'.format(EPG_URL)]
 
 for e in collected:
     ext = re.sub(
@@ -236,4 +234,4 @@ for e in collected:
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
 
-print("SELESAI ✅ PRIORITAS beIN AKTIF | LIVE AMAN | NEXT LIVE BERSIH")
+print("SELESAI ✅ EPG WIB aktif | PRIORITAS beIN | LIVE & NEXT LIVE rapi")
