@@ -10,6 +10,9 @@ OUT_FILE = "live_match.m3u"
 TZ = timezone(timedelta(hours=7))  # WIB
 NOW = datetime.now(TZ)
 
+MAX_LIVE_MATCH_HOURS = 3   # ⚽ bola
+MAX_LIVE_RACE_HOURS  = 4   # 🏁 race
+
 BULAN_ID = {
     1:"JANUARI",2:"FEBRUARI",3:"MARET",4:"APRIL",
     5:"MEI",6:"JUNI",7:"JULI",8:"AGUSTUS",
@@ -41,9 +44,16 @@ def is_primary_channel(name):
     n = name.lower()
     return (" 1" in n) or ("one" in n) or ("main" in n)
 
-# MODE 3
+# ===== MODE 3 DETECTION =====
+def is_race(title):
+    t = title.upper()
+    return any(x in t for x in [
+        "RACE","GRAND PRIX","MOTOGP","FORMULA","F1"
+    ])
+
 def is_match(title):
     t = title.upper()
+
     if any(x in t for x in [
         "HIGHLIGHT","REPLAY","ANALYSIS","STUDIO",
         "PRE MATCH","POST MATCH","MAGAZINE",
@@ -51,17 +61,17 @@ def is_match(title):
     ]):
         return False
 
-    if " VS " in t or " V " in t or " - " in t:
+    if is_race(title):
         return True
 
-    if any(x in t for x in ["RACE","GRAND PRIX","MOTOGP","FORMULA","F1"]):
+    if any(x in t for x in [
+        "FINAL","SEMI FINAL","QUARTER FINAL"
+    ]):
         return True
 
-    if any(x in t for x in ["FINAL","SEMI FINAL","QUARTER FINAL"]):
-        return True
+    return (" VS " in t) or (" V " in t) or (" - " in t)
 
-    return False
-
+# ===== STREAM BLOCK FIX =====
 def get_stream_block(lines, i):
     block = []
     j = i + 1
@@ -147,10 +157,14 @@ collected = []
 for ch in channels:
     for cid, start, stop, title in epg_events:
 
-        if NOW > stop:
+        if not (cid == ch["tvg_id"] or base_channel_name(cid) == ch["base"]):
             continue
 
-        if not (cid == ch["tvg_id"] or base_channel_name(cid) == ch["base"]):
+        # tentukan batas live
+        max_hours = MAX_LIVE_RACE_HOURS if is_race(title) else MAX_LIVE_MATCH_HOURS
+
+        # event terlalu lama → buang
+        if NOW > start + timedelta(hours=max_hours):
             continue
 
         is_live = start <= NOW <= stop
@@ -158,7 +172,6 @@ for ch in channels:
         if is_live:
             group = f"LIVE NOW {tanggal_id(NOW)}"
             label = f"{start.strftime('%H:%M WIB')} • {title}"
-
         else:
             if not ch["primary"]:
                 continue
@@ -192,4 +205,4 @@ for e in collected:
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output))
 
-print("SELESAI ✅ NEXT LIVE satu title + live lewat otomatis hilang")
+print("SELESAI ✅ LIVE batas bola 3 jam, race 4 jam (WIB)")
