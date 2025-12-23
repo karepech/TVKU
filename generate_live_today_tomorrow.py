@@ -21,8 +21,14 @@ BULAN_ID = {
 
 REPLAY_KEYWORDS = [
     "REPLAY","RERUN","RE-AIR","RE AIR","ENCORE",
-    "REPEAT","DELAYED","TAPE DELAY","(R)",
-    "HIGHLIGHTS"
+    "REPEAT","DELAYED","TAPE DELAY","(R)","HIGHLIGHTS"
+]
+
+# ❌ program NON pertandingan (dibuang dari NEXT LIVE)
+NON_MATCH_KEYWORDS = [
+    "NETBUSTERS","FINAL WORD","EXTRA TIME","GENERATION",
+    "MAGAZINE","STUDIO","SHOW","ANALYSIS",
+    "PREVIEW","REVIEW","COUNTDOWN","HUB"
 ]
 
 # ================= UTIL =================
@@ -54,7 +60,7 @@ def is_bein(text):
     return "bein" in text.lower()
 
 def normalize_tvg_id(name, tvg_id):
-    # ⭐ FIX UTAMA HYBRID: paksa semua beIN ke satu keluarga
+    # ⭐ HYBRID FIX: semua beIN pakai satu keluarga
     if is_bein(name):
         return "beinsports"
     return tvg_id
@@ -70,10 +76,7 @@ def is_match(title):
     if any(x in t for x in REPLAY_KEYWORDS):
         return False
 
-    if any(x in t for x in [
-        "ANALYSIS","STUDIO","PRE MATCH","POST MATCH",
-        "MAGAZINE","SHOW","TALK","REVIEW"
-    ]):
+    if any(x in t for x in NON_MATCH_KEYWORDS):
         return False
 
     if is_race(title):
@@ -224,4 +227,4 @@ for e in collected:
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
 
-print("SELESAI ✅ HYBRID MODE + beIN FAMILY AKTIF")
+print("SELESAI ✅ NEXT LIVE bersih (match-only) + beIN FAMILY")
