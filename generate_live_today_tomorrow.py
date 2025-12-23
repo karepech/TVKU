@@ -25,10 +25,10 @@ REPLAY_KEYWORDS = [
     "HIGHLIGHTS"
 ]
 
+# ================= UTIL =================
 def tanggal_id(dt):
     return f"{dt.day} {BULAN_ID[dt.month]} {dt.year}"
 
-# ================= HELPERS =================
 def parse_time(t):
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S") \
         .replace(tzinfo=timezone.utc) \
@@ -50,6 +50,15 @@ def is_primary_channel(name):
     n = name.lower()
     return (" 1" in n) or ("one" in n) or ("main" in n)
 
+def is_bein(text):
+    return "bein" in text.lower()
+
+def normalize_tvg_id(name, tvg_id):
+    # ⭐ FIX UTAMA HYBRID: paksa semua beIN ke satu keluarga
+    if is_bein(name):
+        return "beinsports"
+    return tvg_id
+
 def is_race(title):
     t = title.upper()
     return any(x in t for x in ["RACE","GRAND PRIX","MOTOGP","FORMULA","F1"])
@@ -58,29 +67,24 @@ def is_race(title):
 def is_match(title):
     t = title.upper()
 
-    # ❌ buang siaran ulang
     if any(x in t for x in REPLAY_KEYWORDS):
         return False
 
-    # ❌ buang program non-pertandingan
     if any(x in t for x in [
         "ANALYSIS","STUDIO","PRE MATCH","POST MATCH",
         "MAGAZINE","SHOW","TALK","REVIEW"
     ]):
         return False
 
-    # 🏁 race
     if is_race(title):
         return True
 
-    # 🏆 final
     if any(x in t for x in ["FINAL","SEMI FINAL","QUARTER FINAL"]):
         return True
 
-    # ⚽ match
     return (" VS " in t) or (" V " in t) or (" - " in t)
 
-# ================= STREAM BLOCK FIX =================
+# ================= STREAM BLOCK =================
 def get_stream_block(lines, i):
     block = []
     j = i + 1
@@ -92,8 +96,6 @@ def get_stream_block(lines, i):
             break
 
         block.append(lines[j])
-
-        # URL asli
         if line and not line.startswith("#"):
             found_url = True
             break
@@ -153,6 +155,8 @@ while i < len(lines):
             continue
         tvg_id = epg_channels[m[0]]
 
+    tvg_id = normalize_tvg_id(name, tvg_id)
+
     channels.append({
         "name": name,
         "base": base_channel_name(name),
@@ -169,13 +173,14 @@ collected = []
 for ch in channels:
     for cid, start, stop, title in epg_events:
 
-        if not (cid == ch["tvg_id"] or base_channel_name(cid) == ch["base"]):
+        same_channel = cid == ch["tvg_id"]
+        same_family = base_channel_name(cid) == ch["base"]
+        bein_family = is_bein(cid) and is_bein(ch["name"])
+
+        if not (same_channel or same_family or bein_family):
             continue
 
-        # batas live per jenis
         max_hours = MAX_LIVE_RACE_HOURS if is_race(title) else MAX_LIVE_MATCH_HOURS
-
-        # event terlalu lama → buang
         if NOW > start + timedelta(hours=max_hours):
             continue
 
@@ -202,8 +207,7 @@ for ch in channels:
 collected.sort(key=lambda x: x["start"])
 
 # ================= OUTPUT =================
-output = []
-output.append('#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"')
+output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
 
 for e in collected:
     ext = re.sub(
@@ -220,4 +224,4 @@ for e in collected:
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
 
-print("SELESAI ✅ FINAL SCRIPT (ANTI REPLAY, LIVE TERBATAS)")
+print("SELESAI ✅ HYBRID MODE + beIN FAMILY AKTIF")
