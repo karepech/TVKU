@@ -44,31 +44,22 @@ def is_primary_channel(name):
     n = name.lower()
     return (" 1" in n) or ("one" in n) or ("main" in n)
 
-# ===== MODE 3 DETECTION =====
 def is_race(title):
     t = title.upper()
-    return any(x in t for x in [
-        "RACE","GRAND PRIX","MOTOGP","FORMULA","F1"
-    ])
+    return any(x in t for x in ["RACE","GRAND PRIX","MOTOGP","FORMULA","F1"])
 
 def is_match(title):
     t = title.upper()
-
     if any(x in t for x in [
         "HIGHLIGHT","REPLAY","ANALYSIS","STUDIO",
         "PRE MATCH","POST MATCH","MAGAZINE",
         "SHOW","TALK","REVIEW"
     ]):
         return False
-
     if is_race(title):
         return True
-
-    if any(x in t for x in [
-        "FINAL","SEMI FINAL","QUARTER FINAL"
-    ]):
+    if any(x in t for x in ["FINAL","SEMI FINAL","QUARTER FINAL"]):
         return True
-
     return (" VS " in t) or (" V " in t) or (" - " in t)
 
 # ===== STREAM BLOCK FIX =====
@@ -81,7 +72,9 @@ def get_stream_block(lines, i):
         line = lines[j].strip()
         if line.startswith("#EXTINF"):
             break
+
         block.append(lines[j])
+
         if line and not line.startswith("#"):
             found_url = True
             break
@@ -160,10 +153,7 @@ for ch in channels:
         if not (cid == ch["tvg_id"] or base_channel_name(cid) == ch["base"]):
             continue
 
-        # tentukan batas live
         max_hours = MAX_LIVE_RACE_HOURS if is_race(title) else MAX_LIVE_MATCH_HOURS
-
-        # event terlalu lama → buang
         if NOW > start + timedelta(hours=max_hours):
             continue
 
@@ -189,8 +179,9 @@ for ch in channels:
 # ================= SORT =================
 collected.sort(key=lambda x: x["start"])
 
-# ================= OUTPUT =================
-output = ['#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"']
+# ================= OUTPUT (FIX FORMAT) =================
+output_lines = []
+output_lines.append('#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"')
 
 for e in collected:
     ext = re.sub(
@@ -199,10 +190,14 @@ for e in collected:
         e["extinf"]
     )
     ext = ext.split(",", 1)[0] + f",{e['label']}"
-    output.append(ext)
-    output.extend(e["block"])
 
+    output_lines.append(ext)
+
+    for line in e["block"]:
+        output_lines.append(line)
+
+# 🔑 ini kunci: JOIN PAKAI NEWLINE
 with open(OUT_FILE, "w", encoding="utf-8") as f:
-    f.write("\n".join(output))
+    f.write("\n".join(output_lines) + "\n")
 
-print("SELESAI ✅ LIVE batas bola 3 jam, race 4 jam (WIB)")
+print("SELESAI ✅ FORMAT M3U SUDAH VALID")
