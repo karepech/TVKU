@@ -10,8 +10,13 @@ OUT_FILE = "live_match.m3u"
 TZ = timezone(timedelta(hours=7))  # WIB
 NOW = datetime.now(TZ)
 
-MAX_LIVE_MATCH_HOURS = 3   # ⚽ bola
-MAX_LIVE_RACE_HOURS  = 4   # 🏁 race
+MAX_LIVE_MATCH_HOURS = 5   # ⚽ toleran extra time
+MAX_LIVE_RACE_HOURS  = 5   # 🏁 race
+
+# 🔥 PRIORITAS CHANNEL (TIDAK BOLEH GUGUR)
+PRIORITY_CHANNELS = [
+    "bein", "beinsports"
+]
 
 BULAN_ID = {
     1:"JANUARI",2:"FEBRUARI",3:"MARET",4:"APRIL",
@@ -24,7 +29,6 @@ REPLAY_KEYWORDS = [
     "REPEAT","DELAYED","TAPE DELAY","(R)","HIGHLIGHTS"
 ]
 
-# ❌ program NON pertandingan (dibuang dari NEXT LIVE)
 NON_MATCH_KEYWORDS = [
     "NETBUSTERS","FINAL WORD","EXTRA TIME","GENERATION",
     "MAGAZINE","STUDIO","SHOW","ANALYSIS",
@@ -59,8 +63,11 @@ def is_primary_channel(name):
 def is_bein(text):
     return "bein" in text.lower()
 
+def is_priority_channel(name):
+    n = name.lower()
+    return any(p in n for p in PRIORITY_CHANNELS)
+
 def normalize_tvg_id(name, tvg_id):
-    # ⭐ HYBRID FIX: semua beIN pakai satu keluarga
     if is_bein(name):
         return "beinsports"
     return tvg_id
@@ -97,7 +104,6 @@ def get_stream_block(lines, i):
         line = lines[j].strip()
         if line.startswith("#EXTINF"):
             break
-
         block.append(lines[j])
         if line and not line.startswith("#"):
             found_url = True
@@ -184,10 +190,13 @@ for ch in channels:
             continue
 
         max_hours = MAX_LIVE_RACE_HOURS if is_race(title) else MAX_LIVE_MATCH_HOURS
-        if NOW > start + timedelta(hours=max_hours):
-            continue
 
-        is_live = start <= NOW <= stop
+        # ⛔ Jangan gugurkan channel prioritas
+        if NOW > start + timedelta(hours=max_hours):
+            if not is_priority_channel(ch["name"]):
+                continue
+
+        is_live = NOW >= start and NOW <= (start + timedelta(hours=max_hours))
 
         if is_live:
             group = f"LIVE NOW {tanggal_id(NOW)}"
@@ -227,4 +236,4 @@ for e in collected:
 with open(OUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
 
-print("SELESAI ✅ NEXT LIVE bersih (match-only) + beIN FAMILY")
+print("SELESAI ✅ PRIORITAS beIN AKTIF | LIVE AMAN | NEXT LIVE BERSIH")
