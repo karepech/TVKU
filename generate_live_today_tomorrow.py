@@ -1,61 +1,97 @@
 import requests, gzip, re, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
+from difflib import get_close_matches
 
 # ================= CONFIG =================
-EPG_URL = "https://raw.githubusercontent.com/karepech/Epgku/refs/heads/main/epg_wib_sports.xml"
+EPG_URL = "https://raw.githubusercontent.com/karepech/Epgku/main/epg_wib_sports.xml"
 INPUT_M3U = "live_epg_sports.m3u"
-OUT_M3U = "live_match.m3u"
+OUT_FILE = "live_match.m3u"
 
 TZ = timezone(timedelta(hours=7))  # WIB
 NOW = datetime.now(TZ)
 
-LIVE_PRE_MIN = 5  # tampil LIVE 5 menit sebelum kick-off
+LIVE_EARLY_MINUTES = 5   # ⏱ LIVE aktif 5 menit sebelum kick-off
+MAX_LIVE_MATCH_HOURS = 5
+MAX_LIVE_RACE_HOURS  = 4
+
+PRIORITY_CHANNELS = ["bein", "beinsports"]
+
+BULAN_ID = {
+    1:"JANUARI",2:"FEBRUARI",3:"MARET",4:"APRIL",
+    5:"MEI",6:"JUNI",7:"JULI",8:"AGUSTUS",
+    9:"SEPTEMBER",10:"OKTOBER",11:"NOVEMBER",12:"DESEMBER"
+}
 
 REPLAY_KEYWORDS = [
-    "REPLAY","RERUN","RE-AIR","REPEAT","HIGHLIGHT",
-    "MAGAZINE","SHOW","STUDIO","ANALYSIS","PREVIEW","REVIEW"
+    "REPLAY","RERUN","RE-AIR","RE AIR","ENCORE",
+    "REPEAT","DELAYED","TAPE DELAY","(R)","HIGHLIGHTS"
+]
+
+NON_MATCH_KEYWORDS = [
+    "MAGAZINE","STUDIO","SHOW","ANALYSIS",
+    "PREVIEW","REVIEW","COUNTDOWN"
 ]
 
 # ================= UTIL =================
-def norm(t):
-    return re.sub(r"[^a-z0-9]", "", t.lower())
-
-def is_replay(title):
-    t = title.upper()
-    return any(x in t for x in REPLAY_KEYWORDS)
-
 def tanggal_id(dt):
-    bulan = [
-        "JANUARI","FEBRUARI","MARET","APRIL","MEI","JUNI",
-        "JULI","AGUSTUS","SEPTEMBER","OKTOBER","NOVEMBER","DESEMBER"
-    ]
-    return f"{dt.day} {bulan[dt.month-1]} {dt.year}"
+    return f"{dt.day} {BULAN_ID[dt.month]} {dt.year}"
+
+def parse_time(t):
+    return datetime.strptime(t[:14], "%Y%m%d%H%M%S") \
+        .replace(tzinfo=timezone.utc) \
+        .astimezone(TZ)
+
+def norm(t):
+    return re.sub(r'[^a-z0-9]', '', t.lower())
+
+def base_channel_name(n):
+    n = re.sub(r'\b(one|two|three|four|five|main|event|\d+)\b', '', n.lower())
+    return norm(n)
+
+def is_primary(name):
+    n = name.lower()
+    return " 1" in n or "one" in n or "main" in n
+
+def is_bein(t):
+    return "bein" in t.lower()
+
+def is_priority(name):
+    return any(p in name.lower() for p in PRIORITY_CHANNELS)
+
+def is_race(title):
+    t = title.upper()
+    return any(x in t for x in ["RACE","GRAND PRIX","MOTOGP","FORMULA","F1"])
+
+def is_match(title):
+    t = title.upper()
+    if any(x in t for x in REPLAY_KEYWORDS): return False
+    if any(x in t for x in NON_MATCH_KEYWORDS): return False
+    if is_race(title): return True
+    return (" VS " in t) or (" V " in t) or (" - " in t)
 
 # ================= LOAD EPG =================
-r = requests.get(EPG_URL, timeout=120)
+r = requests.get(EPG_URL, timeout=180)
 try:
     root = ET.fromstring(gzip.decompress(r.content))
 except:
     root = ET.fromstring(r.content)
 
+epg_channels = {
+    norm(ch.findtext("display-name","")): ch.attrib["id"]
+    for ch in root.findall("channel")
+}
+
 epg_events = []
 for p in root.findall("programme"):
-    title = p.findtext("title","").strip()
-    if not title or is_replay(title):
+    title = p.findtext("title","")
+    if not is_match(title):
         continue
-
-    start = datetime.strptime(p.attrib["start"][:14], "%Y%m%d%H%M%S") \
-        .replace(tzinfo=timezone.utc).astimezone(TZ)
-
-    stop = datetime.strptime(p.attrib["stop"][:14], "%Y%m%d%H%M%S") \
-        .replace(tzinfo=timezone.utc).astimezone(TZ)
-
-    epg_events.append({
-        "channel": norm(p.attrib["channel"]),
-        "title": title,
-        "start": start,
-        "stop": stop
-    })
+    epg_events.append((
+        p.attrib["channel"],
+        parse_time(p.attrib["start"]),
+        parse_time(p.attrib["stop"]),
+        title
+    ))
 
 # ================= READ M3U =================
 with open(INPUT_M3U, encoding="utf-8", errors="ignore") as f:
@@ -69,74 +105,72 @@ while i < len(lines):
         continue
 
     extinf = lines[i]
-    name = extinf.split(",",1)[1].strip()
-    url = lines[i+1].strip()
+    url = lines[i+1] if i+1 < len(lines) else ""
+    name = re.search(r",(.+)$", extinf).group(1).strip()
+    key = norm(name)
+
+    tvg_id = epg_channels.get(key)
+    if not tvg_id:
+        m = get_close_matches(key, epg_channels.keys(), n=1, cutoff=0.6)
+        if not m:
+            i += 2
+            continue
+        tvg_id = epg_channels[m[0]]
+
+    if is_bein(name):
+        tvg_id = "beinsports"
 
     channels.append({
         "name": name,
-        "key": norm(name),
+        "base": base_channel_name(name),
+        "primary": is_primary(name),
+        "tvg_id": tvg_id,
         "extinf": extinf,
         "url": url
     })
     i += 2
 
-# ================= BUILD OUTPUT =================
-output = [f'#EXTM3U url-tvg="{EPG_URL}"']
+# ================= BUILD =================
+items = []
 
 for ch in channels:
+    for cid, start, stop, title in epg_events:
 
-    # cocokkan channel dengan EPG
-    matches = [
-        ev for ev in epg_events
-        if ev["channel"] in ch["key"] or ch["key"] in ev["channel"]
-    ]
+        if not (cid == ch["tvg_id"] or
+                base_channel_name(cid) == ch["base"] or
+                (is_bein(cid) and is_bein(ch["name"]))):
+            continue
 
-    if not matches:
-        continue  # ❌ tanpa EPG = tidak ditampilkan
+        max_hours = MAX_LIVE_RACE_HOURS if is_race(title) else MAX_LIVE_MATCH_HOURS
 
-    live_ev = None
-    next_ev = None
+        live_start = start - timedelta(minutes=LIVE_EARLY_MINUTES)
+        live_end   = start + timedelta(hours=max_hours)
 
-    for ev in sorted(matches, key=lambda x: x["start"]):
-        live_start = ev["start"] - timedelta(minutes=LIVE_PRE_MIN)
+        if NOW > live_end and not is_priority(ch["name"]):
+            continue
 
-        if live_start <= NOW <= ev["stop"]:
-            live_ev = ev
-            break
+        if live_start <= NOW <= live_end:
+            group = f"LIVE NOW {tanggal_id(NOW)}"
+            label = f"{start.strftime('%H:%M WIB')} • {title}"
+        else:
+            if not ch["primary"]:
+                continue
+            group = "NEXT LIVE"
+            label = f"{tanggal_id(start)} • {start.strftime('%H:%M WIB')} • {title}"
 
-        if NOW < live_start and next_ev is None:
-            next_ev = ev
+        items.append((start, group, label, ch))
 
-    if live_ev:
-        new_name = (
-            f"{ch['name']} | LIVE • "
-            f"{live_ev['start'].strftime('%H:%M WIB')} • {live_ev['title']}"
-        )
-        group = f"LIVE NOW {tanggal_id(NOW)}"
+# ================= OUTPUT =================
+items.sort(key=lambda x: x[0])
 
-    elif next_ev:
-        new_name = (
-            f"{ch['name']} | NEXT • "
-            f"{tanggal_id(next_ev['start'])} • "
-            f"{next_ev['start'].strftime('%H:%M WIB')} • {next_ev['title']}"
-        )
-        group = "NEXT LIVE"
+out = ['#EXTM3U']
+for _, group, label, ch in items:
+    ext = re.sub(r'group-title="[^"]*"', f'group-title="{group}"', ch["extinf"])
+    ext = ext.split(",",1)[0] + f",{label}"
+    out.append(ext)
+    out.append(ch["url"])
 
-    else:
-        continue
+with open(OUT_FILE, "w", encoding="utf-8") as f:
+    f.write("\n".join(out))
 
-    ext = re.sub(
-        r'group-title="[^"]*"',
-        f'group-title="{group}"',
-        ch["extinf"]
-    )
-    ext = ext.split(",",1)[0] + "," + new_name
-
-    output.append(ext)
-    output.append(ch["url"])
-
-# ================= SAVE =================
-with open(OUT_M3U, "w", encoding="utf-8") as f:
-    f.write("\n".join(output) + "\n")
-
-print("✅ MODE SATU KESATUAN PER CHANNEL | EPG ONLY | STABIL")
+print("✅ SELESAI | LIVE H-5 MENIT | WIB AKURAT | beIN PRIORITAS")
