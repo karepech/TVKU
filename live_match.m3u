@@ -112,10 +112,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 25 DESEMBER 2025",04:00 WIB • VT - ESPN Knockout: Jose Salas x Landile Ngxege
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 25 DESEMBER 2025",04:25 WIB • F1 Academy: Singapore Airlines Singapore Grand Prix 2025 – Corrida 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
 #EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 25 DESEMBER 2025",04:30 WIB • Netball Super League '25: Forest v Dragons
 http://b1g.uk/200/230/709252
 #EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 25 DESEMBER 2025",04:30 WIB • Netball Super League '25: Forest v Dragons
@@ -213,12 +209,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 25 DESEMBER 2025" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",05:00 WIB • The Emirates FA Cup 2025/26 R2: Brackley Town vs Burton Albion
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="LIVE NOW 25 DESEMBER 2025",05:15 WIB • 4x4 - Das Allrad Magazin
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="LIVE NOW 25 DESEMBER 2025",05:15 WIB • 4x4 - Das Allrad Magazin
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 25 DESEMBER 2025",05:30 WIB • V-League World - Số 09-25
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib5DC97NE2rggHu2LuaZeWCnADTXTWokA9xZc3ia4-CWeTDR2EjueX4EzWSoJHXR4N0BIsewh4dIruSGbr51M8oflaaNaSJKrxju-eUd5zZGt1pCexGYWOl-ujJfUCYmEm8q5CwsRatvmWG2llTQ4kax06avut8mDN9uKIx00QXiAo-TBBFCreseKW00uj/s700/DIGI%20SPORT%204.png" group-title="LIVE NOW 25 DESEMBER 2025",05:30 WIB • Patinaj Artistic: ISU Grand Prix – Saskatoon (CAN) Women (Free Skating)
@@ -234,36 +224,38 @@ https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
 https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 25 DESEMBER 2025",05:30 WIB • The Premier League's Greatest Games. 2011: West Ham United v Manchester United
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 25 DESEMBER 2025",05:30 WIB • VT - Brasileirão: Palmeiras x Cruzeiro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",25 DESEMBER 2025 • 05:45 WIB • Premier League Archive. Best Of Wenger: Chelsea V Arsenal 2011 (3-5)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 25 DESEMBER 2025",05:45 WIB • Las Vegas Grand Prix 2025 – Corrida 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 25 DESEMBER 2025",05:45 WIB • Premier League Archive. Best Of Wenger: Chelsea V Arsenal 2011 (3-5)
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",25 DESEMBER 2025 • 05:48 WIB • AFCON 2025: ALG Vs SDN (L)
+#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 25 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",05:48 WIB • AFCON 2025: ALG Vs SDN (L)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="NEXT LIVE",25 DESEMBER 2025 • 05:48 WIB • AFCON 2025: ALG Vs SDN (L)
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 25 DESEMBER 2025",05:48 WIB • AFCON 2025: ALG Vs SDN (L)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",25 DESEMBER 2025 • 05:48 WIB • AFCON 2025: ALG Vs SDN (L)
+#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 25 DESEMBER 2025" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",05:48 WIB • AFCON 2025: ALG Vs SDN (L)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="NEXT LIVE",25 DESEMBER 2025 • 05:48 WIB • AFCON 2025: ALG Vs SDN (L)
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 25 DESEMBER 2025",05:48 WIB • AFCON 2025: ALG Vs SDN (L)
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="NEXT LIVE",25 DESEMBER 2025 • 05:48 WIB • AFCON 2025: ALG Vs SDN (L)
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 25 DESEMBER 2025",05:48 WIB • AFCON 2025: ALG Vs SDN (L)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
