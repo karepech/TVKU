@@ -209,10 +209,6 @@ https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/ma
 http://line.extraott-iptv.com:88/2755789541/1300714776/153701
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://i.imgur.com/u8Sn4SU.jpg" group-title="LIVE NOW 25 DESEMBER 2025",23:30 WIB • Round 4: 4 Hours of Spa-Francorchamps, Race; European Le Mans Racing Series
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Son2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ta779D.jpg" group-title="LIVE NOW 25 DESEMBER 2025",23:30 WIB • ATP500 HL '25: Barcelona Open Final
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QrqS4N5.jpg" group-title="LIVE NOW 25 DESEMBER 2025",23:30 WIB • ATP500 HL '25: Barcelona Open Final
-http://49.0.64.96:8007/TENNIS 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="LIVE NOW 25 DESEMBER 2025",23:30 WIB • 3rd Test, Day 4: Australia v England; Test Cricket
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 25 DESEMBER 2025",23:30 WIB • VT - NBB: Minas x Flamengo
@@ -221,8 +217,10 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 http://tvmate.icu:8080/69NpyV/884735/53717
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 25 DESEMBER 2025",23:32 WIB • LIVE 澳洲職棒 伯斯熱火 vs 阿德雷德巨人 (12/26/25)(普)
 http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ta779D.jpg" group-title="NEXT LIVE",25 DESEMBER 2025 • 23:45 WIB • ATP500 HL '25: BMW Open Final
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ta779D.jpg" group-title="LIVE NOW 25 DESEMBER 2025",23:45 WIB • ATP500 HL '25: BMW Open Final
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QrqS4N5.jpg" group-title="LIVE NOW 25 DESEMBER 2025",23:45 WIB • ATP500 HL '25: BMW Open Final
+http://49.0.64.96:8007/TENNIS 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",26 DESEMBER 2025 • 00:00 WIB • Women's NRL. Grand Final
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ta779D.jpg" group-title="NEXT LIVE",26 DESEMBER 2025 • 00:00 WIB • ATP500 HL '25: Hamburg Open Final
