@@ -43,34 +43,6 @@ http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 26 DESEMBER 2025",16:30 WIB • VT - Palmeiras x Flamengo
 http://46.151.196.223:14444/
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 26 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",16:50 WIB • LaLiga 2025/26: ATH Vs ESP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 26 DESEMBER 2025",16:50 WIB • LaLiga 2025/26: ATH Vs ESP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 26 DESEMBER 2025" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",16:50 WIB • LaLiga 2025/26: ATH Vs ESP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 26 DESEMBER 2025",16:50 WIB • LaLiga 2025/26: ATH Vs ESP
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 26 DESEMBER 2025",16:50 WIB • LaLiga 2025/26: ATH Vs ESP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-id="49" group-title="LIVE NOW 26 DESEMBER 2025"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv6eVg2V5BAszgP8yOJfh_CnL2zI5DWoq7S-e_DgW4GIWrJIME5hFUbCjNMdaUttFnFSS_33SrghpDfCAwL5LP_FnLZ6VS0FimIh1nJUFikotSW_QihyphenhyphenvAVvU3_iUG14IYh3ocO7RODgkcAtVs1uU3yLhoxEBptM0GCp8Dcwk37-NpLuRZ6AlMmAtmIer/s700/OMAN%20SPORT.png",17:00 WIB • ATP Tour Italian Open - Chung Kết Carlos Alcaraz Vs Jannik Sinner Phát Lại
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE NOW 26 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-d__vqTMM8XzLvVICM2UWE67nzyRtq1VikPIMRwgqWdHAwMKOpt2_sTah4JjmC8XZ66I-VjNky8WMtHkh3_MGTWysr26gWfSJZ8EaPUk0V0HpEdT4R3PkMRFnaA-qrBG_kGzxdtRZ7BbRkVzDXtHeT6CR2Tg0WUh7VpSO5Ri5y5LM4tanYUBzCtsx39W-/s700/UNIFI%20SPORTS.png",17:00 WIB • ATP Tour Italian Open - Chung Kết Carlos Alcaraz Vs Jannik Sinner Phát Lại
@@ -256,28 +228,30 @@ http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 26 DESEMBER 2025" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",18:30 WIB • World Tour Finals SF Session 2
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",26 DESEMBER 2025 • 18:40 WIB • LFCTV 2025/26: TOT Vs LIV
+#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 26 DESEMBER 2025",18:34 WIB • Golden Trail World Series 2025 Race Recaps - Episode 9 Ledro Sky Trentino Eng
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 26 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",18:40 WIB • LFCTV 2025/26: TOT Vs LIV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="NEXT LIVE",26 DESEMBER 2025 • 18:40 WIB • LFCTV 2025/26: TOT Vs LIV
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 26 DESEMBER 2025",18:40 WIB • LFCTV 2025/26: TOT Vs LIV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",26 DESEMBER 2025 • 18:40 WIB • LFCTV 2025/26: TOT Vs LIV
+#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 26 DESEMBER 2025" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",18:40 WIB • LFCTV 2025/26: TOT Vs LIV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="NEXT LIVE",26 DESEMBER 2025 • 18:40 WIB • LFCTV 2025/26: TOT Vs LIV
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 26 DESEMBER 2025",18:40 WIB • LFCTV 2025/26: TOT Vs LIV
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="NEXT LIVE",26 DESEMBER 2025 • 18:40 WIB • LFCTV 2025/26: TOT Vs LIV
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 26 DESEMBER 2025",18:40 WIB • LFCTV 2025/26: TOT Vs LIV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
