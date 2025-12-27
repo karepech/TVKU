@@ -1,56 +1,52 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 27 DESEMBER 2025",07:00 WIB • Nhân tài Đại Việt - P2 Tập 39, 40
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 28 DESEMBER 2025",07:00 WIB • Nhân tài Đại Việt - P2 Tập 39, 40
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
-#EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",07:00 WIB • Nhân tài Đại Việt - P2 Tập 39, 40
+#EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",07:00 WIB • Nhân tài Đại Việt - P2 Tập 39, 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyoxrBby1Ra-6h8Jh08FboUyoejAFytXnelh9rq128mWoGY9JnP3t6__6lhfXG94UIYSIKx78H8oYbqbNuJ9dipee6RrK_YfrZ0_WZsM1mzeH6tluUUelLsX7ctPe9j8M0_YuV5A1IlmH-fbzXKWGXb6tqAg2dk0RzsMd7cBzZsSg1RxyAHv7s1QW9zTOV/s700/TEN%20SPORTS%20HD.png" group-title="LIVE NOW 27 DESEMBER 2025",07:45 WIB • Roshn Saudi League: Al Hilal vs Al Khaleej
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyoxrBby1Ra-6h8Jh08FboUyoejAFytXnelh9rq128mWoGY9JnP3t6__6lhfXG94UIYSIKx78H8oYbqbNuJ9dipee6RrK_YfrZ0_WZsM1mzeH6tluUUelLsX7ctPe9j8M0_YuV5A1IlmH-fbzXKWGXb6tqAg2dk0RzsMd7cBzZsSg1RxyAHv7s1QW9zTOV/s700/TEN%20SPORTS%20HD.png" group-title="LIVE NOW 28 DESEMBER 2025",07:45 WIB • Roshn Saudi League: Al Hilal vs Al Khaleej
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nFQrPsz.jpg" group-title="LIVE NOW 27 DESEMBER 2025",07:45 WIB • Roshn Saudi League: Al Hilal vs Al Khaleej
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nFQrPsz.jpg" group-title="LIVE NOW 28 DESEMBER 2025",07:45 WIB • Roshn Saudi League: Al Hilal vs Al Khaleej
 http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGzYpdQg7s5Yo1wKjrKrlbEXlyuEiFxRVjDaSXt79z9TLMfwwh__dqU64jbD2eSF87_8Qdgt7p5ci-i5QTL2l7VFxZ0jY7oWOSJaZTYMTa7rPjqLIpDEZxSRQpCwObueKpahjzc7YrAUKknphLHq7_GH4PEDCs46QjiLsmuwvS2iVIlpfqbF30pHsfNQlD/s700/GOLFPASS%20HD.png" group-title="LIVE NOW 27 DESEMBER 2025",21:00 WIB • 12 Days of Scottie: 2024 Masters – Final Round
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGzYpdQg7s5Yo1wKjrKrlbEXlyuEiFxRVjDaSXt79z9TLMfwwh__dqU64jbD2eSF87_8Qdgt7p5ci-i5QTL2l7VFxZ0jY7oWOSJaZTYMTa7rPjqLIpDEZxSRQpCwObueKpahjzc7YrAUKknphLHq7_GH4PEDCs46QjiLsmuwvS2iVIlpfqbF30pHsfNQlD/s700/GOLFPASS%20HD.png" group-title="LIVE NOW 28 DESEMBER 2025",21:00 WIB • 12 Days of Scottie: 2024 Masters – Final Round
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 27 DESEMBER 2025",22:00 WIB • VT - NHL: Nashville Predators x Minnesota Wild
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 28 DESEMBER 2025",22:00 WIB • VT - NHL: Nashville Predators x Minnesota Wild
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 27 DESEMBER 2025",22:15 WIB • Dp World Tour Dp World Tour Championship - Ngày 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
+#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 27 DESEMBER 2025",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 28 DESEMBER 2025",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
+#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 27 DESEMBER 2025",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 28 DESEMBER 2025",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 27 DESEMBER 2025",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 28 DESEMBER 2025",22:20 WIB • LaLiga 2025/26: OVI Vs CEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="LIVE NOW 27 DESEMBER 2025",22:25 WIB • Unicaja – Real Madrid – Copa del Rey (Finale): Unicaja – Real Madrid
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="LIVE NOW 28 DESEMBER 2025",22:25 WIB • Unicaja – Real Madrid – Copa del Rey (Finale): Unicaja – Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -58,27 +54,27 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RQ_ESk5cC9K5r30bJ4DI1_FuAN0Yaq-HM45-bhOztPavty_Ot2ZMCCNVInbFa2Zn8uGzmSMkhJDscdhb42_CsrqdaiH1Tn0_Diwj1VLoT4Mg2aOxVjCRVePhncgVEprXMveAHm3nlNJPSDlfr8eYFFxep9s1QEceqd-XjbjdriKGyF-ykqFnW0NEICVQ/s700/G03%20SPORT%201.png" group-title="LIVE NOW 27 DESEMBER 2025",22:25 WIB • Unicaja – Real Madrid – Copa del Rey (Finale): Unicaja – Real Madrid
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RQ_ESk5cC9K5r30bJ4DI1_FuAN0Yaq-HM45-bhOztPavty_Ot2ZMCCNVInbFa2Zn8uGzmSMkhJDscdhb42_CsrqdaiH1Tn0_Diwj1VLoT4Mg2aOxVjCRVePhncgVEprXMveAHm3nlNJPSDlfr8eYFFxep9s1QEceqd-XjbjdriKGyF-ykqFnW0NEICVQ/s700/G03%20SPORT%201.png" group-title="LIVE NOW 28 DESEMBER 2025",22:25 WIB • Unicaja – Real Madrid – Copa del Rey (Finale): Unicaja – Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://i.imgur.com/BAxLcEX.jpg",22:25 WIB • Unicaja – Real Madrid – Copa del Rey (Finale): Unicaja – Real Madrid
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://i.imgur.com/BAxLcEX.jpg",22:25 WIB • Unicaja – Real Madrid – Copa del Rey (Finale): Unicaja – Real Madrid
 http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="LIVE NOW 27 DESEMBER 2025",22:25 WIB • Unicaja – Real Madrid – Copa del Rey (Finale): Unicaja – Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="LIVE NOW 28 DESEMBER 2025",22:25 WIB • Unicaja – Real Madrid – Copa del Rey (Finale): Unicaja – Real Madrid
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 27 DESEMBER 2025",22:30 WIB • VT - NBA: Dallas Mavericks x Golden State Warriors
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 28 DESEMBER 2025",22:30 WIB • VT - NBA: Dallas Mavericks x Golden State Warriors
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 27 DESEMBER 2025",22:30 WIB • VT - NBA: Dallas Mavericks x Golden State Warriors
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 28 DESEMBER 2025",22:30 WIB • VT - NBA: Dallas Mavericks x Golden State Warriors
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -87,93 +83,59 @@ http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 27 DESEMBER 2025",22:30 WIB • VT - NBA: Dallas Mavericks x Golden State Warriors
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 28 DESEMBER 2025",22:30 WIB • VT - NBA: Dallas Mavericks x Golden State Warriors
 http://46.151.196.223:14444/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 27 DESEMBER 2025",22:30 WIB • VT - Manchester United x Newcastle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 28 DESEMBER 2025",22:30 WIB • VT - Manchester United x Newcastle
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="LIVE NOW 27 DESEMBER 2025",22:45 WIB • 奈良 F1 第3日(ナイター)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="LIVE NOW 28 DESEMBER 2025",22:45 WIB • 奈良 F1 第3日(ナイター)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",23:00 WIB • That's 70s - The Best Music
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/JmtCcyxR0iGWl95uFoJPjg/Fv2lucGIbhPi2caWYvF5Lg/1757863537462/live/may9/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",23:00 WIB • That's 70s - The Best Music
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Xqq2AmRkK93IlB_q-w6VQA/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may27/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",23:00 WIB • That's 70s - The Best Music
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/sG9kMsEPzmCMIObu-OmXVg/Fv2lucGIbhPi2caWYvF5Lg/1757778595476/live/may211/chunklist.m3u8
-#EXTINF:-1 tvg-id="42" group-title="LIVE NOW 27 DESEMBER 2025"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 tvg-id="42" group-title="LIVE NOW 28 DESEMBER 2025"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 28 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 #https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 28 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",23:00 WIB • PL Match: v Sunderland (H) 25/26
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",23:00 WIB • PL Match: v Sunderland (H) 25/26
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 http://cord-cutter.net:8080/hq3y4G/234247/53717
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • Phim Hàn Quốc: Kiểm toán viên - Tập 11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • LIVE 企業排球聯賽 桃園臺產 vs 臺北國北獅(12/27/25)(普)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • Giải Bóng Đá Tứ Hùng - Thái Nguyên Trận 5 Trực Tiếp - Clb Hoàng Anh Gia Lai Vs Pvf Công An Nhân Dân 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 28 DESEMBER 2025",23:00 WIB • Giải Bóng Đá Tứ Hùng - Thái Nguyên Trận 5 Trực Tiếp - Clb Hoàng Anh Gia Lai Vs Pvf Công An Nhân Dân 
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • LIVE 企業排球聯賽 桃園臺產 vs 臺北國北獅(12/27/25)(普)
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • VT - Brasileirão: Palmeiras x Atlético-MG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="https://i.imgur.com/m74kmND.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="https://i.imgur.com/m74kmND.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://i.imgur.com/0viAhYV.jpg",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://i.imgur.com/0viAhYV.jpg",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://i.imgur.com/IV8snO1.jpg",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://i.imgur.com/IV8snO1.jpg",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://i.imgur.com/k44W7jg.jpg",23:00 WIB • PL Match: v Sunderland (H) 25/26
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://i.imgur.com/k44W7jg.jpg",23:00 WIB • PL Match: v Sunderland (H) 25/26
 http://tvmate.icu:8080/69NpyV/884735/53717
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • FIA Formula E HL 2026 Rnd 1: Sao Paulo
-http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NfbkVpg.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NfbkVpg.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 27 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 28 DESEMBER 2025",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",23:00 WIB • The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:05 WIB • Serie A Women 25/26: Juventus v Como
+#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:05 WIB • Serie A Women 25/26: Juventus v Como
 http://b1g.uk/200/230/709252
-#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:05 WIB • Serie A Women 25/26: Juventus v Como
+#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:05 WIB • Serie A Women 25/26: Juventus v Como
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:05 WIB • Serie A Women 25/26: Juventus v Como
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:05 WIB • Serie A Women 25/26: Juventus v Como
 https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9Chi8Ni7m2sk6It1g49DGFvSvF4EMOhbU56lliZp3RlOuaXPBg5Rbezqm3uIISQnIgT3pbMsTYjdOnu6DsfCzIyRF8-4R62E7mw-qdTTuYZY8djU7Tuwx2iNTd1bow5dVbE4PXGDefFP458mMW0El6XjznlbNIjqMKfbrAu5BH8hknncToTEi3TN63aG/s700/SPORT%202.png" group-title="LIVE NOW 27 DESEMBER 2025",23:10 WIB • VT - Vôlei Masculino - Alemanha x Brasil
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9Chi8Ni7m2sk6It1g49DGFvSvF4EMOhbU56lliZp3RlOuaXPBg5Rbezqm3uIISQnIgT3pbMsTYjdOnu6DsfCzIyRF8-4R62E7mw-qdTTuYZY8djU7Tuwx2iNTd1bow5dVbE4PXGDefFP458mMW0El6XjznlbNIjqMKfbrAu5BH8hknncToTEi3TN63aG/s700/SPORT%202.png" group-title="LIVE NOW 28 DESEMBER 2025",23:10 WIB • VT - Vôlei Masculino - Alemanha x Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -181,94 +143,137 @@ https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&user
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.imgur.com/75Lnbge.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:10 WIB • VT - Vôlei Masculino - Alemanha x Brasil
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.imgur.com/75Lnbge.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:10 WIB • VT - Vôlei Masculino - Alemanha x Brasil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zNyIETD.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:10 WIB • VT - Vôlei Masculino - Alemanha x Brasil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zNyIETD.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:10 WIB • VT - Vôlei Masculino - Alemanha x Brasil
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" group-title="LIVE NOW 27 DESEMBER 2025",23:10 WIB • VT - Vôlei Masculino - Alemanha x Brasil
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" group-title="LIVE NOW 28 DESEMBER 2025",23:10 WIB • VT - Vôlei Masculino - Alemanha x Brasil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",23:12 WIB • Live - Brisbane Heat vs. Adelaide Strikers; Big Bash League Cricket
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",23:12 WIB • Live - Brisbane Heat vs. Adelaide Strikers; Big Bash League Cricket
 http://tv.casindo.org/hls/56/56.m3u8
-#EXTINF:-1 tvg-id="starsports2.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zcI1PL7b0O1rWt7Dv8O9O8Q8nWxfco32t7-YmFNNdQ0xWPzlKFvjRBp2ZnXqTiNcpcFGYi-auQQWyKR0bh263XFQUFL31xIvraopKdOe6Thry2ATut29C3xkc0jSUKnwtH66Y_pRxCMdQqIqX1CIkb3pDKysnM98NlY4y7rCDy0aJmH1wYRXFPEQ91qe/s700/STAR%20SPORTS%202.png" group-title="LIVE NOW 27 DESEMBER 2025",23:12 WIB • Live - Brisbane Heat vs. Adelaide Strikers; Big Bash League Cricket
+#EXTINF:-1 tvg-id="starsports2.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zcI1PL7b0O1rWt7Dv8O9O8Q8nWxfco32t7-YmFNNdQ0xWPzlKFvjRBp2ZnXqTiNcpcFGYi-auQQWyKR0bh263XFQUFL31xIvraopKdOe6Thry2ATut29C3xkc0jSUKnwtH66Y_pRxCMdQqIqX1CIkb3pDKysnM98NlY4y7rCDy0aJmH1wYRXFPEQ91qe/s700/STAR%20SPORTS%202.png" group-title="LIVE NOW 28 DESEMBER 2025",23:12 WIB • Live - Brisbane Heat vs. Adelaide Strikers; Big Bash League Cricket
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star ⭐SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mCjnQxL.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:12 WIB • Live - Brisbane Heat vs. Adelaide Strikers; Big Bash League Cricket
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star ⭐SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mCjnQxL.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:12 WIB • Live - Brisbane Heat vs. Adelaide Strikers; Big Bash League Cricket
 http://iptvtree.net:8080/F28312/cc1dc138/16619
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:20 WIB • Finais - Zagreb, Croácia
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:20 WIB • Finais - Zagreb, Croácia
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 27 DESEMBER 2025",23:20 WIB • Finais - Zagreb, Croácia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 28 DESEMBER 2025",23:20 WIB • Finais - Zagreb, Croácia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",23:30 WIB • Live - Follow The Blues
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 27 DESEMBER 2025",23:30 WIB • Live - Follow The Blues
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrldOkHU1yKSY1B8dW5_URxfZT6SR6FZmxyfD8tbFUgysp_QmMHo7zBSNRJbodGw9NPn6sjhm6DhVHhO8rvWhWQsRhb0gYqAKCtDtzzJ3Xak6L4I59XHB5-bXPCHFPYSWkrx0XcjADiICm6wYYXKkkJEvHaNmHLsYRirx-f_P65JEf531i-RZDN0QenGh/s700/STAR%20SPORTS%20SELECT%201.png" group-title="LIVE NOW 27 DESEMBER 2025",23:30 WIB • 4th Test, Day 2: Australia v England; Test Cricket
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-#EXTINF:-1 tvg-id="ssc2.sa" group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",23:30 WIB • Godhamrutham - Apn Swamy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:30 WIB • Live - Follow The Blues
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:30 WIB • PDC Classics. 2017 US Darts Masters: James Wade v Dawson Murschell
-http://line.extraott-iptv.com:88/2755789541/1300714776/153701
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:30 WIB • 4th Test, Day 2: Australia v England; Test Cricket
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:32 WIB • LIVE 澳洲職棒 伯斯熱火 vs 阿德雷德巨人 (12/27/25)(普)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 28 DESEMBER 2025",23:32 WIB • LIVE 澳洲職棒 伯斯熱火 vs 阿德雷德巨人 (12/27/25)(普)
 http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
-#EXTINF:-1 tvg-id="49" group-title="LIVE NOW 27 DESEMBER 2025"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv6eVg2V5BAszgP8yOJfh_CnL2zI5DWoq7S-e_DgW4GIWrJIME5hFUbCjNMdaUttFnFSS_33SrghpDfCAwL5LP_FnLZ6VS0FimIh1nJUFikotSW_QihyphenhyphenvAVvU3_iUG14IYh3ocO7RODgkcAtVs1uU3yLhoxEBptM0GCp8Dcwk37-NpLuRZ6AlMmAtmIer/s700/OMAN%20SPORT.png",23:45 WIB • V League World - 2025 Tiền Vệ Đặng Văn Trâm
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-d__vqTMM8XzLvVICM2UWE67nzyRtq1VikPIMRwgqWdHAwMKOpt2_sTah4JjmC8XZ66I-VjNky8WMtHkh3_MGTWysr26gWfSJZ8EaPUk0V0HpEdT4R3PkMRFnaA-qrBG_kGzxdtRZ7BbRkVzDXtHeT6CR2Tg0WUh7VpSO5Ri5y5LM4tanYUBzCtsx39W-/s700/UNIFI%20SPORTS.png",23:45 WIB • V League World - 2025 Tiền Vệ Đặng Văn Trâm
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/mL98nfP.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:45 WIB • V League World - 2025 Tiền Vệ Đặng Văn Trâm
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.imgur.com/gzswICu.jpg" group-title="LIVE NOW 27 DESEMBER 2025",23:45 WIB • V League World - 2025 Tiền Vệ Đặng Văn Trâm
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-id="49" group-title="LIVE NOW 27 DESEMBER 2025"  tvg-logo="https://i.imgur.com/XoohwUr.jpg",23:45 WIB • V League World - 2025 Tiền Vệ Đặng Văn Trâm
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTgCKRCYprRkXZ2e3d_pkgEjYJ9w3lA-nMgA&s",23:45 WIB • V League World - 2025 Tiền Vệ Đặng Văn Trâm
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQh3JVtGVFE1Z2Eg0skJm3dmddheZGRdnooHnRyoOrV9T9xzoKOT4nxYERm0EHxDa8TpiFfwnLDPhIrt7JLhlKaCotKaKc9uUqetuQZdTJTLgkYkfaW0kXvwtifseOMMoG36VCeMP5RLkTpt9mZd9jxiERmhWPo58qnXAI2ZeKDIbm2Qey7FS-yBMV7tYr/s700/TRT%20SPOR.png",23:50 WIB • ⋗ SP v alpském lyžování 2025/26 / SP Rakousko, 1. kola obřího slalomu žen na světovém poháru v Semme
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQh3JVtGVFE1Z2Eg0skJm3dmddheZGRdnooHnRyoOrV9T9xzoKOT4nxYERm0EHxDa8TpiFfwnLDPhIrt7JLhlKaCotKaKc9uUqetuQZdTJTLgkYkfaW0kXvwtifseOMMoG36VCeMP5RLkTpt9mZd9jxiERmhWPo58qnXAI2ZeKDIbm2Qey7FS-yBMV7tYr/s700/TRT%20SPOR.png",23:50 WIB • ⋗ SP v alpském lyžování 2025/26 / SP Rakousko, 1. kola obřího slalomu žen na světovém poháru v Semme
 http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",28 DESEMBER 2025 • 00:00 WIB • That's 70s - The Best Music
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",00:00 WIB • That's 70s - The Best Music
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/JmtCcyxR0iGWl95uFoJPjg/Fv2lucGIbhPi2caWYvF5Lg/1757863537462/live/may9/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",00:00 WIB • That's 70s - The Best Music
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/Xqq2AmRkK93IlB_q-w6VQA/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may27/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="NEXT LIVE",28 DESEMBER 2025 • 00:00 WIB • CHE v AVL
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",00:00 WIB • That's 70s - The Best Music
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/sG9kMsEPzmCMIObu-OmXVg/Fv2lucGIbhPi2caWYvF5Lg/1757778595476/live/may211/chunklist.m3u8
+#EXTINF:-1 tvg-id="49" group-title="LIVE NOW 28 DESEMBER 2025"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv6eVg2V5BAszgP8yOJfh_CnL2zI5DWoq7S-e_DgW4GIWrJIME5hFUbCjNMdaUttFnFSS_33SrghpDfCAwL5LP_FnLZ6VS0FimIh1nJUFikotSW_QihyphenhyphenvAVvU3_iUG14IYh3ocO7RODgkcAtVs1uU3yLhoxEBptM0GCp8Dcwk37-NpLuRZ6AlMmAtmIer/s700/OMAN%20SPORT.png",00:00 WIB • Tạp Chí ATP Tour Tổng Hợp: Next Gen ATP Finals
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdU9OYH93jgUwrlRQlY63-r0UHMEhDmJz6WlOfeZIXrzP4Hh85Kbg62wA3WE21ifLqZ1px1NiwvO5aNk549_wCOlxL6QhxjzYPn5nMHodLvwLzD8b2Mszzl7rnMCOfwlkp7XNWw-TTk9XY9wF7MS5bf2XYtAIJMMM0Osipyxdcd3o99RwKkZWeEz8yRCPj/s700/ASTRO%20BADMINTON.png" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • BWF Japan Masters: Finals
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bbb23a5ad81427fa6817864b2383402:81e055a8d6ddf6392ae9033f0f037b98
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfW5SVlkovRcfs0GoHDw0pqvi-WR7kPUBtOVAT6I62uZ9o9kcxjL94GWpNQ7H9HY_3xUEkaAcFVj7Zixq26xwJBg2NT41T4BU1asot4XdufB-d5gVgk1JLFSxTVigBNcn9X0lj6R0aI5r8i9Wbt-Fi8i5E96byfRm3Qigtkn18w3kgAgTZDMLIxGhu8D1z/s700/ASTRO%20BADMINTON%202.png" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • BWF Japan Masters: Finals
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badminton2hd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-d__vqTMM8XzLvVICM2UWE67nzyRtq1VikPIMRwgqWdHAwMKOpt2_sTah4JjmC8XZ66I-VjNky8WMtHkh3_MGTWysr26gWfSJZ8EaPUk0V0HpEdT4R3PkMRFnaA-qrBG_kGzxdtRZ7BbRkVzDXtHeT6CR2Tg0WUh7VpSO5Ri5y5LM4tanYUBzCtsx39W-/s700/UNIFI%20SPORTS.png",00:00 WIB • Tạp Chí ATP Tour Tổng Hợp: Next Gen ATP Finals
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • Kpacb - Tình Huống Trong Bunker Bóng Lùn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
+#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PTewlflhO6NctO37AxButKfVN9WgQW4xLdXp0EBl0bicbPUn47KkrL6-VtFNIG2bX40jBE1ZuliSvyBJ41gBOfTuTRlh-OYRSuZkXCUnXA62D-sNsAx6-upXdXZVu-gSnb28mmFhv9qtS-IRgRzNji3eRtBX7u-ei2QITW8sqDNnBEZl30aM20eIR4as/s700/BEIN%20SPORTS%203%20ID.png",00:00 WIB • UECL 2025/26: CRY Vs KUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • Phim Việt Nam: Lại là tui bác Ba Phi - Tập 33
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • LIVE 企業排球聯賽 臺北鯨華 vs 高雄台電(12/28/25)(普)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • CHE v AVL
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="NEXT LIVE",28 DESEMBER 2025 • 00:00 WIB • VT - Brasil x Chile
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS LIVE" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • BWF Japan Masters: Finals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/mL98nfP.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • Tạp Chí ATP Tour Tổng Hợp: Next Gen ATP Finals
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • PDC Classics. 2011 World Matchplay: Andy Hamilton v Simon Whitlock
+http://line.extraott-iptv.com:88/2755789541/1300714776/153701
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 1" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • BWF Japan Masters: Finals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://i.imgur.com/pTpDZeu.jpg",00:00 WIB • UECL 2025/26: CRY Vs KUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • LIVE 企業排球聯賽 臺北鯨華 vs 高雄台電(12/28/25)(普)
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • VT - Brasil x Chile
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.imgur.com/gzswICu.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • Tạp Chí ATP Tour Tổng Hợp: Next Gen ATP Finals
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-id="49" group-title="LIVE NOW 28 DESEMBER 2025"  tvg-logo="https://i.imgur.com/XoohwUr.jpg",00:00 WIB • Tạp Chí ATP Tour Tổng Hợp: Next Gen ATP Finals
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • UECL 2025/26: CRY Vs KUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 group-title="LIVE NOW 28 DESEMBER 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTgCKRCYprRkXZ2e3d_pkgEjYJ9w3lA-nMgA&s",00:00 WIB • Tạp Chí ATP Tour Tổng Hợp: Next Gen ATP Finals
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstv.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • Euroformula Open
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
+#EXTINF:-1 tvg-id="Sportstv.tr" tvg-name="Sportstv" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:00 WIB • Euroformula Open
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 28 DESEMBER 2025",00:10 WIB • Golden Trail World Series 2025 Season Recap - Unfinished Business Eng
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="NEXT LIVE",28 DESEMBER 2025 • 00:40 WIB • Valencia Basket – Real Madrid – Liga ACB (Playoffs, Finale, Spiel 3): Valencia Basket – Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
