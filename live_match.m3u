@@ -72,25 +72,6 @@ http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 27 DESEMBER 2025",12:30 WIB • Futebol Americano Universitário: New México x Minnesota - Ao Vivo
 http://46.151.196.223:14444/
-#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PTewlflhO6NctO37AxButKfVN9WgQW4xLdXp0EBl0bicbPUn47KkrL6-VtFNIG2bX40jBE1ZuliSvyBJ41gBOfTuTRlh-OYRSuZkXCUnXA62D-sNsAx6-upXdXZVu-gSnb28mmFhv9qtS-IRgRzNji3eRtBX7u-ei2QITW8sqDNnBEZl30aM20eIR4as/s700/BEIN%20SPORTS%203%20ID.png",12:50 WIB • UECL 2025/26: LEG Vs RDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-#EXTINF:-1 tvg-id="beinsports3.fr" group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://i.imgur.com/pTpDZeu.jpg",12:50 WIB • UECL 2025/26: LEG Vs RDI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIVE NOW 27 DESEMBER 2025",12:50 WIB • UECL 2025/26: LEG Vs RDI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9Chi8Ni7m2sk6It1g49DGFvSvF4EMOhbU56lliZp3RlOuaXPBg5Rbezqm3uIISQnIgT3pbMsTYjdOnu6DsfCzIyRF8-4R62E7mw-qdTTuYZY8djU7Tuwx2iNTd1bow5dVbE4PXGDefFP458mMW0El6XjznlbNIjqMKfbrAu5BH8hknncToTEi3TN63aG/s700/SPORT%202.png" group-title="LIVE NOW 27 DESEMBER 2025",12:55 WIB • VT - Vôlei Feminino - Bulgária x Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -153,12 +134,6 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 27 DESEMBER 2025",14:00 WIB • Phim Trung Quốc: Người tình xa lạ - Tập 23
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 27 DESEMBER 2025",14:00 WIB • 西甲 比利亞雷亞爾 vs 巴塞隆納 (12/21/25)(普)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -166,12 +141,6 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 27 DESEMBER 2025",14:00 WIB • 西甲 比利亞雷亞爾 vs 巴塞隆納 (12/21/25)(普)
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8O8MT0.jpg" group-title="LIVE NOW 27 DESEMBER 2025",14:10 WIB • Código F1 (T2025): Canadá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 27 DESEMBER 2025",14:10 WIB • São Paulo Open: Final - São Paulo, SP
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 27 DESEMBER 2025",14:10 WIB • São Paulo Open: Final - São Paulo, SP
@@ -179,12 +148,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" ,14:10 WIB • Código F1 (T2025): Canadá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",14:27 WIB • Live - 4th Test, Day 2: Australia vs. England; The Ashes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -211,6 +174,43 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="LIVE NOW 27 DESEMBER 2025",14:30 WIB • 4th Test, Day 1: Australia v England; Test Cricket
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
+#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PTewlflhO6NctO37AxButKfVN9WgQW4xLdXp0EBl0bicbPUn47KkrL6-VtFNIG2bX40jBE1ZuliSvyBJ41gBOfTuTRlh-OYRSuZkXCUnXA62D-sNsAx6-upXdXZVu-gSnb28mmFhv9qtS-IRgRzNji3eRtBX7u-ei2QITW8sqDNnBEZl30aM20eIR4as/s700/BEIN%20SPORTS%203%20ID.png",14:40 WIB • UECL 2025/26: CEL Vs SHE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-id="beinsports3.fr" group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://i.imgur.com/pTpDZeu.jpg",14:40 WIB • UECL 2025/26: CEL Vs SHE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIVE NOW 27 DESEMBER 2025",14:40 WIB • UECL 2025/26: CEL Vs SHE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 27 DESEMBER 2025",14:45 WIB • Phim Thanh Xuân: Chuyện 3 chàng lính trẻ - Tập 12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8O8MT0.jpg" group-title="LIVE NOW 27 DESEMBER 2025",14:45 WIB • Mundial F1 – GP de Austria (T2025): Box, Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+#EXTINF:-1 group-title="LIVE NOW 27 DESEMBER 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" ,14:45 WIB • Mundial F1 – GP de Austria (T2025): Box, Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",27 DESEMBER 2025 • 15:00 WIB • LaLiga 2025/26: BET Vs GET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
