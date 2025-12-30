@@ -99,20 +99,10 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 30 DESEMBER 2025",14:00 WIB • Phim Thái Lan: Chân tình - Tập 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 30 DESEMBER 2025",14:00 WIB • 西甲 巴塞隆納 vs 馬德里競技(12/3/25)(普)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXjz9InaI_q3-VmGbiH5UgkZcm27NfgIzxTP2zAyZoY1rD2C-KSkSLoW1IO2LuoOfldPYL6mKGYV9Osqr_DhzH2eyYye0kg4e5nlhZnJfBr5AIRJBnN9H-QhTlYo5B1O0NNOB1VwkHhtIAJr-9I-5lOfqHZGAMGrq7UtrgIbxrj6BEVxvvMTyguLjGFPd0/s700/DAZN%20LALIGA.png" group-title="LIVE NOW 30 DESEMBER 2025",14:00 WIB • Torneo Internacional LaLiga FC Futures (T2025): Final
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 30 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",14:00 WIB • Dubai Duty Free Tennis Championships (1000) Finals
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 30 DESEMBER 2025",14:00 WIB • Un Anno Di Motogp 2025 (Ep. 12)
@@ -121,8 +111,6 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 30 DESEMBER 2025",14:00 WIB • 西甲 巴塞隆納 vs 馬德里競技(12/3/25)(普)
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ugBtJIA.jpg" group-title="LIVE NOW 30 DESEMBER 2025",14:00 WIB • Torneo Internacional LaLiga FC Futures (T2025): Final
-http://tv.8dott.xyz:80/live/samuel/samuel123456/837876.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="https://i.imgur.com/WI4aOds.jpg" group-title="LIVE NOW 30 DESEMBER 2025",14:00 WIB • Dubai Duty Free Tennis Championships (1000) Finals
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
 #EXTINF:-1 group-title="LIVE NOW 30 DESEMBER 2025" tvg-logo="https://i.imgur.com/gsn3T3v.jpg",14:00 WIB • Dubai Duty Free Tennis Championships (1000) Finals
@@ -220,6 +208,12 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 30 DESEMBER 2025",14:45 WIB • Phim Thanh Xuân: Chuyện 3 chàng lính trẻ - Tập 15
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
 #EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",30 DESEMBER 2025 • 15:00 WIB • LFCTV 2025/26: LIV Vs WOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
