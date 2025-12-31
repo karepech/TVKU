@@ -14,30 +14,8 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-#EXTINF:-1 tvg-id="171957" group-title="LIVE NOW 31 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWzpPk6bkHb1dFXkRZY5qFk9BKeRoNePRm4k44Xx7p6wnsk5AywWUE_XZn1ckoH9J9sa1VPUnVwkObEXODwdeL-gDilgEZRrFSmZx1hkI80IxrsPkQsZ_6gvd6U93TFSOmz0vQmj0YJb556DTSz4rrCEHUZTlaXCPVwDWNeETEXgjCvIPu74jxQHBbpAae/s700/SOCCER%20CHANNEL.png",12:30 WIB • SEA Games Thailand: SIN Vs TLS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 group-title="LIVE NOW 31 DESEMBER 2025" tvg-logo="https://i.imgur.com/vGvysi9.jpg",12:30 WIB • SEA Games Thailand: SIN Vs TLS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 31 DESEMBER 2025",12:30 WIB • Formula E '26 Qualifying Sao Paulo
 http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 31 DESEMBER 2025",12:30 WIB • SEA Games Thailand: SIN Vs TLS
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 31 DESEMBER 2025",12:30 WIB • SEA Games Thailand: SIN Vs TLS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 31 DESEMBER 2025",13:00 WIB • 澳洲職棒 布里斯本俠盜 vs 伯斯熱火 (12/20/25)(普)
 http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 31 DESEMBER 2025",13:00 WIB • Tá Na Área - Ao Vivo
@@ -175,8 +153,6 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 31 DESEMBER 2025",14:00 WIB • ATP & WTA Classic Matches. WTA Madrid 2024: Iga Swiatek v Aryna Sabalenka
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 31 DESEMBER 2025",14:00 WIB • Premier League. Chelsea v Bournemouth
-http://line.extraott-iptv.com:88/2755789541/1300714776/191686
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 31 DESEMBER 2025",14:00 WIB • 西甲畢爾包競技 vs 皇家馬德里(12/4/25)(普)
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
@@ -212,6 +188,32 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-id="171957" group-title="LIVE NOW 31 DESEMBER 2025" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWzpPk6bkHb1dFXkRZY5qFk9BKeRoNePRm4k44Xx7p6wnsk5AywWUE_XZn1ckoH9J9sa1VPUnVwkObEXODwdeL-gDilgEZRrFSmZx1hkI80IxrsPkQsZ_6gvd6U93TFSOmz0vQmj0YJb556DTSz4rrCEHUZTlaXCPVwDWNeETEXgjCvIPu74jxQHBbpAae/s700/SOCCER%20CHANNEL.png",14:30 WIB • European Qual.: GEO Vs SPA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 group-title="LIVE NOW 31 DESEMBER 2025" tvg-logo="https://i.imgur.com/vGvysi9.jpg",14:30 WIB • European Qual.: GEO Vs SPA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 31 DESEMBER 2025",14:30 WIB • 30 Years of the PDC World Championships. The Greatest Final: 2007
+http://line.extraott-iptv.com:88/2755789541/1300714776/153701
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 31 DESEMBER 2025",14:30 WIB • Premier League. Arsenal v Aston Villa
+http://line.extraott-iptv.com:88/2755789541/1300714776/191686
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 31 DESEMBER 2025",14:30 WIB • European Qual.: GEO Vs SPA
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 31 DESEMBER 2025",14:30 WIB • European Qual.: GEO Vs SPA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",31 DESEMBER 2025 • 15:00 WIB • Mini Match LaLiga: BAR Vs ALA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
