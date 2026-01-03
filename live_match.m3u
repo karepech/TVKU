@@ -7,15 +7,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 3 JANUARI 2026",21:00 WIB • PDC World Darts Championship. Semi-Finals
 http://line.extraott-iptv.com:88/2755789541/1300714776/153701
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg19TRUrV92bsD49mKxLc_F9ZIXzgcrGLcssdZFAlrq1J9JdT-2M5UX0U7EUPRDp-AKz7Fq9DFyM60przslpZjardICsiEHiJVGR3iVIBNshksEgOcounejGwim4vEZrzEbdFNMr2KvITuVLQmuJEUg061DIxvP3PF6PyrWiH8hJIpkkjuS7b8WkwbD-N8M/s700/DAZN.png" group-title="LIVE NOW 3 JANUARI 2026",21:55 WIB • Grand Slam De Judô: Finais - Tashkent, Uzbequistão
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f4wFB7H.jpg" group-title="LIVE NOW 3 JANUARI 2026",21:55 WIB • Grand Slam De Judô: Finais - Tashkent, Uzbequistão
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png" group-title="LIVE NOW 3 JANUARI 2026",22:00 WIB • Tennis. ATP Finals: Sinner-Alcaraz
 https://tv.casindo.org/hls/51/51.m3u8
 #EXTINF:-1 tvg-id="31" group-title="LIVE NOW 3 JANUARI 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlCtOfxEqpFhV-Ma8QCASB8gaLTSBdZx_ucfRsNTqVENMgtbCDmj5fmYpXFc1uL1YEk9-5NhDZEkMGG3cUkB8U7NzWf-Ib6A9COXZAebGO38YZT8YiJhtTjPVAmCQebSFDiBISTFVRdxgPxqmH1oL66S4COfA0UAbFkaj3mMukWiETlOuKOgZFsqNsvl/s700/SHARJAH%20SPORT.png",22:00 WIB • Tennis. ATP Finals: Sinner-Alcaraz
@@ -205,10 +196,6 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 3 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",23:30 WIB • PL: Leeds v United 21/22
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-http://cord-cutter.net:8080/hq3y4G/234247/53717
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 3 JANUARI 2026",23:30 WIB • Phim thiếu nhi: Xúc xắc xúc xẻ - Tập 8 - Phần 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -235,8 +222,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
 #EXTINF:-1 group-title="LIVE NOW 3 JANUARI 2026" tvg-logo="https://i.imgur.com/gsn3T3v.jpg",23:30 WIB • Jeddah - Next Gen ATP Finals
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTINF:-1 group-title="LIVE NOW 3 JANUARI 2026" tvg-logo="https://i.imgur.com/k44W7jg.jpg",23:30 WIB • PL: Leeds v United 21/22
-http://tvmate.icu:8080/69NpyV/884735/53717
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjVg3jj.jpg" group-title="LIVE NOW 3 JANUARI 2026",23:30 WIB • Jeddah - Next Gen ATP Finals
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 3 JANUARI 2026",23:30 WIB • Jeddah - Next Gen ATP Finals
@@ -246,6 +231,8 @@ http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 3 JANUARI 2026" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",23:30 WIB • Jeddah - Next Gen ATP Finals
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+#EXTINF:-1 group-title="LIVE NOW 3 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQh3JVtGVFE1Z2Eg0skJm3dmddheZGRdnooHnRyoOrV9T9xzoKOT4nxYERm0EHxDa8TpiFfwnLDPhIrt7JLhlKaCotKaKc9uUqetuQZdTJTLgkYkfaW0kXvwtifseOMMoG36VCeMP5RLkTpt9mZd9jxiERmhWPo58qnXAI2ZeKDIbm2Qey7FS-yBMV7tYr/s700/TRT%20SPOR.png",23:50 WIB • ⋗ SP v alpském lyžování 2025/26 / SP Slovinsko, 1. kola obřího slalomu žen na světovém poháru v Kran
+http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",4 JANUARI 2026 • 00:00 WIB • That's 70s - The Best Music
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
