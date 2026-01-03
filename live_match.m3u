@@ -27,15 +27,6 @@ http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 3 JANUARI 2026" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",14:00 WIB • Final Afternoon Session
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg19TRUrV92bsD49mKxLc_F9ZIXzgcrGLcssdZFAlrq1J9JdT-2M5UX0U7EUPRDp-AKz7Fq9DFyM60przslpZjardICsiEHiJVGR3iVIBNshksEgOcounejGwim4vEZrzEbdFNMr2KvITuVLQmuJEUg061DIxvP3PF6PyrWiH8hJIpkkjuS7b8WkwbD-N8M/s700/DAZN.png" group-title="LIVE NOW 3 JANUARI 2026",14:55 WIB • MMA: Jungle Fight 128 - Card Completo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f4wFB7H.jpg" group-title="LIVE NOW 3 JANUARI 2026",14:55 WIB • MMA: Jungle Fight 128 - Card Completo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 3 JANUARI 2026",15:30 WIB • PDC World Darts Championship. Semi-Finals
 http://line.extraott-iptv.com:88/2755789541/1300714776/153701
 #EXTINF:-1 group-title="LIVE NOW 3 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQh3JVtGVFE1Z2Eg0skJm3dmddheZGRdnooHnRyoOrV9T9xzoKOT4nxYERm0EHxDa8TpiFfwnLDPhIrt7JLhlKaCotKaKc9uUqetuQZdTJTLgkYkfaW0kXvwtifseOMMoG36VCeMP5RLkTpt9mZd9jxiERmhWPo58qnXAI2ZeKDIbm2Qey7FS-yBMV7tYr/s700/TRT%20SPOR.png",15:50 WIB • ⋗ SP ve snowboardingu 2025/26 / SP Kanada, závodů žen a mužů na U-rampě na světovém poháru v Calgary
@@ -168,6 +159,14 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 3 JANUARI 2026",17:30 WIB • USL '25/26: Brooklyn FC v Spokane Zephyr
 https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_PW_3S536pZLM27dgeANjMf9n_v52KtdKqmdeKgUbBkZlX9pSeIITBU0njryIbhem7tDPjAQPZrrF7ug1tA2Me-4uBz5p7G8YhF-VUPPSMfg8GXpiwU1Ci_TVomp5CtJJETdHgndJmXdkx4mVasucdZzhC561IKo4eZy3mfM8G9KXkz2x3ZbuRFyNGCkf/s700/ASTRO%20GRANDSTAND.png" group-title="LIVE NOW 3 JANUARI 2026",17:40 WIB • Sultan Azlan Shah Cup FINAL: BEL – IND
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="LIVE NOW 3 JANUARI 2026",17:40 WIB • Sultan Azlan Shah Cup FINAL: BEL – IND
+https://a1xs.vip/1100032
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",3 JANUARI 2026 • 17:50 WIB • That's 60s - Best Music Live!
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
