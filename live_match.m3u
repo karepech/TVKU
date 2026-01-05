@@ -57,43 +57,15 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 http://cord-cutter.net:8080/hq3y4G/234247/53717
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",05:00 WIB • LaLiga 2025/26: RMA Vs BET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 6 JANUARI 2026",05:00 WIB • 西甲 皇家西班牙人 vs 巴塞隆納 (1/4/26)(普)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 6 JANUARI 2026",05:00 WIB • LaLiga 2025/26: RMA Vs BET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",05:00 WIB • LaLiga 2025/26: RMA Vs BET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 6 JANUARI 2026",05:00 WIB • 西甲 皇家西班牙人 vs 巴塞隆納 (1/4/26)(普)
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 6 JANUARI 2026",05:00 WIB • LaLiga 2025/26: RMA Vs BET
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/k44W7jg.jpg",05:00 WIB • PL Match: v Leeds (A) 25/26
 http://tvmate.icu:8080/69NpyV/884735/53717
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 6 JANUARI 2026",05:00 WIB • LaLiga 2025/26: RMA Vs BET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-id="49" group-title="LIVE NOW 6 JANUARI 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv6eVg2V5BAszgP8yOJfh_CnL2zI5DWoq7S-e_DgW4GIWrJIME5hFUbCjNMdaUttFnFSS_33SrghpDfCAwL5LP_FnLZ6VS0FimIh1nJUFikotSW_QihyphenhyphenvAVvU3_iUG14IYh3ocO7RODgkcAtVs1uU3yLhoxEBptM0GCp8Dcwk37-NpLuRZ6AlMmAtmIer/s700/OMAN%20SPORT.png",05:30 WIB • Tạp Chí ATP Tour This Week - Cú Đánh Không Tưởng
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-d__vqTMM8XzLvVICM2UWE67nzyRtq1VikPIMRwgqWdHAwMKOpt2_sTah4JjmC8XZ66I-VjNky8WMtHkh3_MGTWysr26gWfSJZ8EaPUk0V0HpEdT4R3PkMRFnaA-qrBG_kGzxdtRZ7BbRkVzDXtHeT6CR2Tg0WUh7VpSO5Ri5y5LM4tanYUBzCtsx39W-/s700/UNIFI%20SPORTS.png",05:30 WIB • Tạp Chí ATP Tour This Week - Cú Đánh Không Tưởng
@@ -162,10 +134,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 6 JANUARI 2026",05:50 WIB • FIA Formula E HL 2026 Rnd 1: Sao Paulo
-http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
-#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 6 JANUARI 2026",05:52 WIB • Marathon Des Sables 2023 - The Film
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",06:00 WIB • That's 80s - The Best Music
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
@@ -274,13 +242,6 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 6 JANUARI 2026",06:30 WIB • VT - IndyCar: Classificação GP de Detroit
 http://46.151.196.223:14444/
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 6 JANUARI 2026",06:35 WIB • Vitórias Para Sempre Senna Donington Park 1993 (GP Da Europa) - Rubinho
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 6 JANUARI 2026",06:35 WIB • Vitórias Para Sempre Senna Donington Park 1993 (GP Da Europa) - Rubinho
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",06:45 WIB • 3rd ODI: India v South Africa; One-Day International Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -312,6 +273,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="LIVE NOW 6 JANUARI 2026",06:45 WIB • F1＆ガールズウィークリーダイジェスト #570
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 6 JANUARI 2026",06:50 WIB • VT - Vozes Cléber Machado - Senna x Mansell - Mônaco 1992
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 6 JANUARI 2026",06:50 WIB • VT - Vozes Cléber Machado - Senna x Mansell - Mônaco 1992
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",6 JANUARI 2026 • 07:00 WIB • 5th Test, Day 2: Australia v England; Test Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
