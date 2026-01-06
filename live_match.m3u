@@ -1,88 +1,10 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9Chi8Ni7m2sk6It1g49DGFvSvF4EMOhbU56lliZp3RlOuaXPBg5Rbezqm3uIISQnIgT3pbMsTYjdOnu6DsfCzIyRF8-4R62E7mw-qdTTuYZY8djU7Tuwx2iNTd1bow5dVbE4PXGDefFP458mMW0El6XjznlbNIjqMKfbrAu5BH8hknncToTEi3TN63aG/s700/SPORT%202.png" group-title="LIVE NOW 6 JANUARI 2026",19:05 WIB • VT - Superliga Masculina De Vôlei: Campinas x Guarulhos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.imgur.com/75Lnbge.jpg" group-title="LIVE NOW 6 JANUARI 2026",19:05 WIB • VT - Superliga Masculina De Vôlei: Campinas x Guarulhos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zNyIETD.jpg" group-title="LIVE NOW 6 JANUARI 2026",19:05 WIB • VT - Superliga Masculina De Vôlei: Campinas x Guarulhos
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" group-title="LIVE NOW 6 JANUARI 2026",19:05 WIB • VT - Superliga Masculina De Vôlei: Campinas x Guarulhos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 6 JANUARI 2026",19:15 WIB • Dp World Tour Genesis Scottish Open - Ngày 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",19:30 WIB • Live - 5th Test, Day 3: Australia vs. England; The Ashes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",19:30 WIB • Live - 5th Test, Day 3: Australia vs. England; The Ashes
-http://tv.casindo.org/hls/56/56.m3u8
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 6 JANUARI 2026",19:30 WIB • Live - 5th Test, Day 3: Australia vs. England; The Ashes
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-id="starsports2.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zcI1PL7b0O1rWt7Dv8O9O8Q8nWxfco32t7-YmFNNdQ0xWPzlKFvjRBp2ZnXqTiNcpcFGYi-auQQWyKR0bh263XFQUFL31xIvraopKdOe6Thry2ATut29C3xkc0jSUKnwtH66Y_pRxCMdQqIqX1CIkb3pDKysnM98NlY4y7rCDy0aJmH1wYRXFPEQ91qe/s700/STAR%20SPORTS%202.png" group-title="LIVE NOW 6 JANUARI 2026",19:30 WIB • Live - 5th Test, Day 3: Australia vs. England; The Ashes
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
-#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",19:30 WIB • PL: Wimbledon v United 96/97
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-http://cord-cutter.net:8080/hq3y4G/234247/53717
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 6 JANUARI 2026",19:30 WIB • Live - 5th Test, Day 3: Australia vs. England; The Ashes
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star ⭐SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mCjnQxL.jpg" group-title="LIVE NOW 6 JANUARI 2026",19:30 WIB • Live - 5th Test, Day 3: Australia vs. England; The Ashes
-http://iptvtree.net:8080/F28312/cc1dc138/16619
-#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/k44W7jg.jpg",19:30 WIB • PL: Wimbledon v United 96/97
-http://tvmate.icu:8080/69NpyV/884735/53717
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",19:40 WIB • LaLiga 2025/26: ELC Vs VIL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 6 JANUARI 2026",19:40 WIB • LaLiga 2025/26: ELC Vs VIL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",19:40 WIB • LaLiga 2025/26: ELC Vs VIL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 6 JANUARI 2026",19:40 WIB • Grand Slam De Judô - Finais - Ulaanbaatar, Mongólia
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 6 JANUARI 2026",19:40 WIB • LaLiga 2025/26: ELC Vs VIL
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 6 JANUARI 2026",19:40 WIB • LaLiga 2025/26: ELC Vs VIL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 6 JANUARI 2026",19:40 WIB • Grand Slam De Judô - Finais - Ulaanbaatar, Mongólia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
@@ -137,18 +59,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 ###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
 ###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 6 JANUARI 2026",21:00 WIB • Giải trí: Nhân tài Đại Việt P2 - Tập 55, 56
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 6 JANUARI 2026",21:00 WIB • Phim thanh xuân: Ngũ long đại náo - Tập 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 6 JANUARI 2026",21:00 WIB • Sportscenter Americano - Ao Vivo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
@@ -165,21 +75,12 @@ http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 6 JANUARI 2026",21:00 WIB • Vđqg Italia Serie A 25/26 -  Vòng 18 - Inter Milan Vs Bologna Phát Lại
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",21:00 WIB • Giải trí: Nhân tài Đại Việt P2 - Tập 55, 56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 #EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/vGvysi9.jpg",21:00 WIB • ACL Elite: WAH Vs ITH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:00 WIB • EFL Greatest. 2009: Sheffield United v Sheffield Wednesday
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:00 WIB • The Premier League's Greatest Games. Best of Wenger: 1997, Chelsea v Arsenal
-http://line.extraott-iptv.com:88/2755789541/1300714776/191686
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:00 WIB • 企業排球聯賽 新北中纖 vs 臺北鯨華(1/4/26)(普)
 http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:00 WIB • VT - Campeonato Brasileiro Feminino De Futebol: Corinthians x São Paulo
@@ -198,14 +99,52 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",6 JANUARI 2026 • 21:15 WIB • EFL Greatest. 2011: Peterborough United v Southampton
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",6 JANUARI 2026 • 21:30 WIB • UYL 2025/26: BAR Vs PSG
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9Chi8Ni7m2sk6It1g49DGFvSvF4EMOhbU56lliZp3RlOuaXPBg5Rbezqm3uIISQnIgT3pbMsTYjdOnu6DsfCzIyRF8-4R62E7mw-qdTTuYZY8djU7Tuwx2iNTd1bow5dVbE4PXGDefFP458mMW0El6XjznlbNIjqMKfbrAu5BH8hknncToTEi3TN63aG/s700/SPORT%202.png" group-title="LIVE NOW 6 JANUARI 2026",21:15 WIB • VT - Superliga Masculina De Vôlei: Praia Clube x  Joinville
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",21:15 WIB • PL: Liverpool v United 97/98
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+http://cord-cutter.net:8080/hq3y4G/234247/53717
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.imgur.com/75Lnbge.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:15 WIB • VT - Superliga Masculina De Vôlei: Praia Clube x  Joinville
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/k44W7jg.jpg",21:15 WIB • PL: Liverpool v United 97/98
+http://tvmate.icu:8080/69NpyV/884735/53717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zNyIETD.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:15 WIB • VT - Superliga Masculina De Vôlei: Praia Clube x  Joinville
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" group-title="LIVE NOW 6 JANUARI 2026",21:15 WIB • VT - Superliga Masculina De Vôlei: Praia Clube x  Joinville
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",21:30 WIB • Pretoria Capitals v Sunrisers Eastern Cape; SA20
+http://tv.casindo.org/hls/56/56.m3u8
+#EXTINF:-1 tvg-id="starsports2.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zcI1PL7b0O1rWt7Dv8O9O8Q8nWxfco32t7-YmFNNdQ0xWPzlKFvjRBp2ZnXqTiNcpcFGYi-auQQWyKR0bh263XFQUFL31xIvraopKdOe6Thry2ATut29C3xkc0jSUKnwtH66Y_pRxCMdQqIqX1CIkb3pDKysnM98NlY4y7rCDy0aJmH1wYRXFPEQ91qe/s700/STAR%20SPORTS%202.png" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • Pretoria Capitals v Sunrisers Eastern Cape; SA20
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",21:30 WIB • UYL 2025/26: BAR Vs PSG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Fo7tQi87WOC30Op11ZNDSjGsao8DoDjbTKc__-ozhWqv3GB_34VhHi0tneBmfWvBm3MR2BcGvIHxrNiaSS_xShEH7xw9Qqs3icQsuNOX8HWVfbF9Xtq-nvsNO5NhKGK3jXV6zVkmKZ3BRnouGurAYOLHg6dEsukuy2Ac11lvGe2U0Xdt-r43AG3HGyFn/s700/EUROSPORT%201.png" group-title="NEXT LIVE",6 JANUARI 2026 • 21:30 WIB • Yanbu - AlUla (504 km)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • Dạy học: Phòng nghệ thuật - Tập 153
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Fo7tQi87WOC30Op11ZNDSjGsao8DoDjbTKc__-ozhWqv3GB_34VhHi0tneBmfWvBm3MR2BcGvIHxrNiaSS_xShEH7xw9Qqs3icQsuNOX8HWVfbF9Xtq-nvsNO5NhKGK3jXV6zVkmKZ3BRnouGurAYOLHg6dEsukuy2Ac11lvGe2U0Xdt-r43AG3HGyFn/s700/EUROSPORT%201.png" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • Yanbu - AlUla (504 km)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
@@ -213,25 +152,53 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bea39bc61707784544e6ccd62c9d076:7139535aafe27b59dff555b7dc99eed0
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuswgfaia3/out/v1/5816ef436fc446499e169d89a26dfbed/cenc.mpd
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="NEXT LIVE",6 JANUARI 2026 • 21:30 WIB • UYL 2025/26: BAR Vs PSG
+#EXTINF:-1 tvg-id="ssc2.sa" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",21:30 WIB • TML - Srivari Kalyanotsavam Live / Fillers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",21:30 WIB • Dạy học: Phòng nghệ thuật - Tập 153
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi38piSRmryq4PHA-cHBJVROBo5i36l0lC5AtVZ-ri7H2nFaikz8-Q-gVbch4t1Ilc01kSvTNUqatSv56A2DZqm2A9Wan8_RdZ4F7d1zLn6I_Q7NLEzUUZ4v8PrLO-xHA09lVyIUQXUZMKjo48IoEpCXB51CzuLlphih9uPQkSz_554uwe3_cE-EH8SZaxy/s700/SONY%20TEN%202%20HD.png" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • Archery World Cup Final; Archery. Ep.49
+#https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • UYL 2025/26: BAR Vs PSG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",6 JANUARI 2026 • 21:30 WIB • EFL Greatest. 2013: Watford v Leicester City
+#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/RElOsbl.jpg",21:30 WIB • Archery World Cup Final; Archery. Ep.49
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Son2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • EFL Greatest. 2013: Watford v Leicester City
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",6 JANUARI 2026 • 21:30 WIB • UYL 2025/26: BAR Vs PSG
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://i.imgur.com/u8Sn4SU.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • Archery World Cup Final; Archery. Ep.49
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Son2.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",21:30 WIB • UYL 2025/26: BAR Vs PSG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="NEXT LIVE",6 JANUARI 2026 • 21:30 WIB • UYL 2025/26: BAR Vs PSG
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • Premier League Fan's Vote. 1998: Sheffield Wednesday v Manchester United
+http://line.extraott-iptv.com:88/2755789541/1300714776/191686
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star ⭐SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mCjnQxL.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • Pretoria Capitals v Sunrisers Eastern Cape; SA20
+http://iptvtree.net:8080/F28312/cc1dc138/16619
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • VT - Leeds United x Manchester United
+#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • VT - IndyCar: Classificação GP de Detroit
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • UYL 2025/26: BAR Vs PSG
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="NEXT LIVE",6 JANUARI 2026 • 21:30 WIB • UYL 2025/26: BAR Vs PSG
+#EXTINF:-1 group-title="LIVE NOW 6 JANUARI 2026" tvg-logo="https://i.imgur.com/MCgoSXm.jpg" ,21:30 WIB • DECODED - THE AI CONVERSATIONS
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 6 JANUARI 2026",21:30 WIB • UYL 2025/26: BAR Vs PSG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
