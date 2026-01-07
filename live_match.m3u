@@ -13,8 +13,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/maste
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 8 JANUARI 2026",04:30 WIB • VT - FCS Football Championship: Illinois State x Montana State
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 8 JANUARI 2026",04:35 WIB • Formula 1 Motor Racing. German Grand Prix: Stand-Alone Race
-http://line.extraott-iptv.com:88/2755789541/1300714776/153701
 #EXTINF:-1 tvg-id="171957" group-title="LIVE NOW 8 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWzpPk6bkHb1dFXkRZY5qFk9BKeRoNePRm4k44Xx7p6wnsk5AywWUE_XZn1ckoH9J9sa1VPUnVwkObEXODwdeL-gDilgEZRrFSmZx1hkI80IxrsPkQsZ_6gvd6U93TFSOmz0vQmj0YJb556DTSz4rrCEHUZTlaXCPVwDWNeETEXgjCvIPu74jxQHBbpAae/s700/SOCCER%20CHANNEL.png",04:55 WIB • AFC Asian Cup: UZB Vs LIB (L)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -308,7 +306,17 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",8 JANUARI 2026 • 06:45 WIB • ICC Champions Trophy 2025 New Zealand vs India, 12th Match; One-Day International Cricket
+#EXTINF:-1 tvg-id="4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png" group-title="LIVE NOW 8 JANUARI 2026",06:40 WIB • Pallacanestro. Finale Coppa Italia femminile
+https://tv.casindo.org/hls/51/51.m3u8
+#EXTINF:-1 tvg-id="31" group-title="LIVE NOW 8 JANUARI 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlCtOfxEqpFhV-Ma8QCASB8gaLTSBdZx_ucfRsNTqVENMgtbCDmj5fmYpXFc1uL1YEk9-5NhDZEkMGG3cUkB8U7NzWf-Ib6A9COXZAebGO38YZT8YiJhtTjPVAmCQebSFDiBISTFVRdxgPxqmH1oL66S4COfA0UAbFkaj3mMukWiETlOuKOgZFsqNsvl/s700/SHARJAH%20SPORT.png",06:40 WIB • Pallacanestro. Finale Coppa Italia femminile
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="31" group-title="LIVE NOW 8 JANUARI 2026"  tvg-logo="https://i.imgur.com/SlG6Oz3.jpg",06:40 WIB • Pallacanestro. Finale Coppa Italia femminile
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38jTAvY.jpg" group-title="LIVE NOW 8 JANUARI 2026",06:40 WIB • Pallacanestro. Finale Coppa Italia femminile
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="LIVE NOW 8 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",06:45 WIB • ICC Champions Trophy 2025 New Zealand vs India, 12th Match; One-Day International Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -318,10 +326,20 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="NEXT LIVE",8 JANUARI 2026 • 06:45 WIB • ICC Champions Trophy 2025 New Zealand vs India, 12th Match; One-Day International Cricket
+#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 8 JANUARI 2026",06:45 WIB • ICC Champions Trophy 2025 New Zealand vs India, 12th Match; One-Day International Cricket
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="NEXT LIVE",8 JANUARI 2026 • 06:45 WIB • ICC Champions Trophy 2025 New Zealand vs India, 12th Match; One-Day International Cricket
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 8 JANUARI 2026",06:45 WIB • ICC Champions Trophy 2025 New Zealand vs India, 12th Match; One-Day International Cricket
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 8 JANUARI 2026",06:45 WIB • Formula 1 Motor Racing. Brazilian Grand Prix: Stand Alone Race
+http://line.extraott-iptv.com:88/2755789541/1300714776/153701
+#EXTINF:-1 tvg-id="98" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="LIVE NOW 8 JANUARI 2026",06:45 WIB • 4x4 - Das Allrad Magazin
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="LIVE NOW 8 JANUARI 2026",06:45 WIB • 4x4 - Das Allrad Magazin
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
+#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 8 JANUARI 2026",06:45 WIB • Golden Trail Series - Chasing Dreams Season 2022 - Episode 2 A New Life
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",8 JANUARI 2026 • 07:00 WIB • 5th Test, Day 4: Australia v England; Test Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
