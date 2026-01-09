@@ -1,29 +1,4 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGzYpdQg7s5Yo1wKjrKrlbEXlyuEiFxRVjDaSXt79z9TLMfwwh__dqU64jbD2eSF87_8Qdgt7p5ci-i5QTL2l7VFxZ0jY7oWOSJaZTYMTa7rPjqLIpDEZxSRQpCwObueKpahjzc7YrAUKknphLHq7_GH4PEDCs46QjiLsmuwvS2iVIlpfqbF30pHsfNQlD/s700/GOLFPASS%20HD.png" group-title="LIVE NOW 9 JANUARI 2026",13:00 WIB • 12 Days of Scottie: 2025 The 153rd Open – Final Round
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAPaGPO4FWc2Qc3NKCio0yQuBpao0OqLGUzGPZcIwjt6OFhF5nlOZmyb9jgOUHi7pYFCGuHk8WRuqguoIfBcMjhTw9Kxl5yBATmQXd6jZPaCkMlaqDrUe-wGU3g7fDCfKPJ5xeoqsj0Zek1-XtVWCZ7pDbGYoyl8zsDI4N6621w62nNz2mO-nWdDw9hpv7/s700/TSN%201.png" group-title="LIVE NOW 9 JANUARI 2026",15:30 WIB • Live: CFP Semifinal at the VRBO Fiesta Bowl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="LIVE NOW 9 JANUARI 2026",15:30 WIB • Live: CFP Semifinal at the VRBO Fiesta Bowl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PQv3oiM.jpg" group-title="LIVE NOW 9 JANUARI 2026",15:40 WIB • Live: CFP Semifinal at the VRBO Fiesta Bowl
-https://fl31.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrldOkHU1yKSY1B8dW5_URxfZT6SR6FZmxyfD8tbFUgysp_QmMHo7zBSNRJbodGw9NPn6sjhm6DhVHhO8rvWhWQsRhb0gYqAKCtDtzzJ3Xak6L4I59XHB5-bXPCHFPYSWkrx0XcjADiICm6wYYXKkkJEvHaNmHLsYRirx-f_P65JEf531i-RZDN0QenGh/s700/STAR%20SPORTS%20SELECT%201.png" group-title="LIVE NOW 9 JANUARI 2026",16:00 WIB • Live - Malaysia Open; BWF World Tour Badminton
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 9 JANUARI 2026",16:00 WIB • 澳洲職棒 雪梨藍襪 vs 伯斯熱火 (1/8/26)(普)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 9 JANUARI 2026",16:00 WIB • 澳洲職棒 雪梨藍襪 vs 伯斯熱火 (1/8/26)(普)
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="LIVE NOW 9 JANUARI 2026",16:00 WIB • Live - Malaysia Open; BWF World Tour Badminton
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 9 JANUARI 2026",16:30 WIB • CFP Semifinal (Fiesta Bowl)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
@@ -40,55 +15,8 @@ http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/manifest.mpd
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/JofXHRI.jpg" group-title="LIVE NOW 9 JANUARI 2026",16:30 WIB • CFP Semifinal (Fiesta Bowl)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 9 JANUARI 2026",16:30 WIB • VT - NBA: Denver Nuggets x Boston Celtics
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rL5ApWv.jpg" group-title="LIVE NOW 9 JANUARI 2026",16:30 WIB • CFP Semifinal (Fiesta Bowl)
 http://supersonictv.live:8080/006779/439866/22199
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • Pga Tour - Rbc Heritage - Ngày 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9Chi8Ni7m2sk6It1g49DGFvSvF4EMOhbU56lliZp3RlOuaXPBg5Rbezqm3uIISQnIgT3pbMsTYjdOnu6DsfCzIyRF8-4R62E7mw-qdTTuYZY8djU7Tuwx2iNTd1bow5dVbE4PXGDefFP458mMW0El6XjznlbNIjqMKfbrAu5BH8hknncToTEi3TN63aG/s700/SPORT%202.png" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • VT - Superliga Feminina De Vôlei: Paulistano Barueri x Sesc RJ Flamengo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • Vđqg Italia Serie A 25/26 - Vòng 19 - Napoli Vs Verona Phát Lại
-https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • 西甲 皇家馬約卡 vs 吉羅納(1/5/26)(普)
-http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.imgur.com/75Lnbge.jpg" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • VT - Superliga Feminina De Vôlei: Paulistano Barueri x Sesc RJ Flamengo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • VT - Real Madrid x Atlético de Madrid
-#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
-#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • Damallsvenskan '25: BK Hacken v Norrkoping
-http://b1g.uk/200/230/709252
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zNyIETD.jpg" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • VT - Superliga Feminina De Vôlei: Paulistano Barueri x Sesc RJ Flamengo
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • VT - Superliga Feminina De Vôlei: Paulistano Barueri x Sesc RJ Flamengo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • Damallsvenskan '25: BK Hacken v Norrkoping
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 9 JANUARI 2026",17:00 WIB • Damallsvenskan '25: BK Hacken v Norrkoping
-https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkNMMOI9fSPWxvbSlIW9orLAU0NYCBpjIIK47fZlULD1xgxTLmIakgg8CV3r327dRMuET8R76HREY2yD7l6vp2ESzPFxQlGKfBsvL5Pcq0zWn_tXbEeKlCHtWm3bnBOv545kkdxldFwCfikjLYPVZyLsIg6Wt5K3evvKetmF63_YSQlAtVsRXrZ-4RlKo/s700/DIGI%20SPORT%201.png" group-title="LIVE NOW 9 JANUARI 2026",17:15 WIB • Supercupa Spaniei: Atletico Madrid-Real Madrid Semifinala
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 #EXTINF:-1 tvg-id="49" group-title="LIVE NOW 9 JANUARI 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv6eVg2V5BAszgP8yOJfh_CnL2zI5DWoq7S-e_DgW4GIWrJIME5hFUbCjNMdaUttFnFSS_33SrghpDfCAwL5LP_FnLZ6VS0FimIh1nJUFikotSW_QihyphenhyphenvAVvU3_iUG14IYh3ocO7RODgkcAtVs1uU3yLhoxEBptM0GCp8Dcwk37-NpLuRZ6AlMmAtmIer/s700/OMAN%20SPORT.png",17:30 WIB • ATP Tour 250 Brisbane International - Tứ Kết
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-d__vqTMM8XzLvVICM2UWE67nzyRtq1VikPIMRwgqWdHAwMKOpt2_sTah4JjmC8XZ66I-VjNky8WMtHkh3_MGTWysr26gWfSJZ8EaPUk0V0HpEdT4R3PkMRFnaA-qrBG_kGzxdtRZ7BbRkVzDXtHeT6CR2Tg0WUh7VpSO5Ri5y5LM4tanYUBzCtsx39W-/s700/UNIFI%20SPORTS.png",17:30 WIB • ATP Tour 250 Brisbane International - Tứ Kết
@@ -109,19 +37,10 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 9 JANUARI 2026",17:45 WIB • Formula E '26 Rnd 1: Sao Paulo
-http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbPGMnsTI2QkzjRJHz1GhTwolwiiewOgg6yBdNKWuGZBq_mksoMTtIW_xTwjYQZXtSOYJZUhy1Qlr0aD8tiWLw_29prUphCZJg9FJzKHDzJNKx0cNsIhw787G1KpnTuHywViJFiTLQPS3Ycuqww__yIYj_RYW8c_bi98yiFcDKtGIqESRxSId29tAMlDw/s700/TSN%204.png" group-title="LIVE NOW 9 JANUARI 2026",18:00 WIB • Live: CFP Semifinal at the VRBO Fiesta Bowl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilkiU8Z0yjzYvjerXA1jRCNesDhmIfijJSUqruOwZCtH2Z-hYCP94GWOFHuRX41QjpUIFAW2snI9xcx_S038dRhb5_2LkzmMGKRPMzMuMofmmmhyphenhyphenDFjJADZggHk_v_Drq5l72bylTud67IHgIfJLav2Xt1HF4XJhGR2ISphv19AszEquqRzUlZLAveGtWg/s700/PRIMA%20SPORT%204.png" group-title="LIVE NOW 9 JANUARI 2026",18:00 WIB • Finalele Cupei Romaniei Padball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:00 WIB • The Best of Sky Sports F1 2025
-http://line.extraott-iptv.com:88/2755789541/1300714776/153701
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://i.imgur.com/dlouVH5.jpg" group-title="LIVE NOW 9 JANUARI 2026" ,18:00 WIB • Finalele Cupei Romaniei Padball
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
@@ -129,68 +48,11 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="LIVE NOW 9 JANUARI 2026",18:00 WIB • Live: CFP Semifinal at the VRBO Fiesta Bowl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
-http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="LIVE NOW 9 JANUARI 2026",18:00 WIB • Greatest Races: NASCAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_qerOOU0ehWTS-0PLjmFVQ/Fv2lucGIbhPi2caWYvF5Lg/1758036656540/live/may6/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/4PsARBRmTw9LUn3EaWcm9g/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may26/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_saqb8iVsE_sGBEDIMDKiQ/Fv2lucGIbhPi2caWYvF5Lg/1753208953793/live/may121/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/7ZUnmJvxlnMcAlvs4phoog/Fv2lucGIbhPi2caWYvF5Lg/1757588377344/live/may171/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/cEcZ7pU11uzA8tMVkb7rHg/Fv2lucGIbhPi2caWYvF5Lg/1757934717649/live/may201/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_vL6TZlh4uqQqQPS_rrakA/Fv2lucGIbhPi2caWYvF5Lg/1758036936957/live/may241/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/qWJvRfvr3W1ad6ciSujyAA/Fv2lucGIbhPi2caWYvF5Lg/1755960654735/live/may251/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/j53Bpy28HTOZAc2bKmPCbQ/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may261/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/zTdtIhMhwXtJoXwtXGJQ9w/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may271/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:10 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Anz18OGyRGcXc0HFOtAY9Q/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may281/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="LIVE NOW 9 JANUARI 2026",18:15 WIB • F1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -198,131 +60,144 @@ https://hotlivezz179026907.akainu.xyz/Anz18OGyRGcXc0HFOtAY9Q/Fv2lucGIbhPi2caWYvF
 https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IKC778N.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:15 WIB • F1
 https://a1xs.vip/2000012
-#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:22 WIB • Inside Sailing 2025 - Episode 10
+#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:55 WIB • Inside Sailing 2025 - Episode 9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",18:30 WIB • Joburg Super Kings v Paarl Royals; SA20
-http://tv.casindo.org/hls/56/56.m3u8
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv7q1c7jYr_59IrpodB5D8N3rsXlRaPFsS0RUoN6SJHbFL3WRoOWWl_tWky5OkiMzDsooCJdddt5F5fCvvzJkSN7rgO6Wkxqur2QQSO7kquYBEuEF6zL5O-ry61PPpJige_otj9jH1_5qX0T_ZbvG1DPl_xWXic3fBi2JlieIVyLoOYki5Q0EZV8yXjCwQ/s700/TNT%20SPORTS%201.png",18:30 WIB • UEFA Champions League - Stories of the Finals
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9Chi8Ni7m2sk6It1g49DGFvSvF4EMOhbU56lliZp3RlOuaXPBg5Rbezqm3uIISQnIgT3pbMsTYjdOnu6DsfCzIyRF8-4R62E7mw-qdTTuYZY8djU7Tuwx2iNTd1bow5dVbE4PXGDefFP458mMW0El6XjznlbNIjqMKfbrAu5BH8hknncToTEi3TN63aG/s700/SPORT%202.png" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • VT - Superliga Feminina De Vôlei: Sorocaba x Sesi-Bauru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-#https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-id="starsports2.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zcI1PL7b0O1rWt7Dv8O9O8Q8nWxfco32t7-YmFNNdQ0xWPzlKFvjRBp2ZnXqTiNcpcFGYi-auQQWyKR0bh263XFQUFL31xIvraopKdOe6Thry2ATut29C3xkc0jSUKnwtH66Y_pRxCMdQqIqX1CIkb3pDKysnM98NlY4y7rCDy0aJmH1wYRXFPEQ91qe/s700/STAR%20SPORTS%202.png" group-title="LIVE NOW 9 JANUARI 2026",18:30 WIB • Joburg Super Kings v Paarl Royals; SA20
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",18:30 WIB • Mini Match UEL: ROM Vs PLZ
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="171957" group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWzpPk6bkHb1dFXkRZY5qFk9BKeRoNePRm4k44Xx7p6wnsk5AywWUE_XZn1ckoH9J9sa1VPUnVwkObEXODwdeL-gDilgEZRrFSmZx1hkI80IxrsPkQsZ_6gvd6U93TFSOmz0vQmj0YJb556DTSz4rrCEHUZTlaXCPVwDWNeETEXgjCvIPu74jxQHBbpAae/s700/SOCCER%20CHANNEL.png",19:00 WIB • AFC Asian Cup 2026: JPN Vs SYR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",19:00 WIB • Mini Match UEL: NFO Vs POR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 9 JANUARI 2026",18:30 WIB • Phim Việt Nam: Lại là tui bác Ba Phi - Tập 46
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • Phim Hàn Quốc: Kiểm toán viên - Tập 24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
-#EXTINF:-1 tvg-id="ssc2.sa" group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",18:30 WIB • APN Swamy - Srimatbhagavt Ggeethai Parayanam
+#EXTINF:-1 tvg-id="ssc2.sa" group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",19:00 WIB • APN Swamy - Srimatbhagavt Ggeethai Parayanam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:30 WIB • Mini Match UEL: ROM Vs PLZ
+#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://i.imgur.com/vGvysi9.jpg",19:00 WIB • AFC Asian Cup 2026: JPN Vs SYR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • Mini Match UEL: NFO Vs POR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://i.imgur.com/v002hpu.jpg",18:30 WIB • UEFA Champions League - Stories of the Finals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",18:30 WIB • Mini Match UEL: ROM Vs PLZ
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • The Best of Sky Sports F1 2025
+http://line.extraott-iptv.com:88/2755789541/1300714776/153701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • Big Bash. Adelaide Strikers v Sydney Thunder
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
+#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",19:00 WIB • Mini Match UEL: NFO Vs POR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUmQkL5.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:30 WIB • UEFA Champions League - Stories of the Finals
-http://line.extraott-iptv.com:88/2755789541/1300714776/13780
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star ⭐SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mCjnQxL.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:30 WIB • Joburg Super Kings v Paarl Royals; SA20
-http://iptvtree.net:8080/F28312/cc1dc138/16619
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:30 WIB • Mini Match UEL: ROM Vs PLZ
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.imgur.com/75Lnbge.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • VT - Superliga Feminina De Vôlei: Sorocaba x Sesi-Bauru
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • VT - Fulham x Chelsea
+#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • Dakar Rally 2026 - O Melhor do Dia
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • Mini Match UEL: NFO Vs POR
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 9 JANUARI 2026",18:30 WIB • Mini Match UEL: ROM Vs PLZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zNyIETD.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • VT - Superliga Feminina De Vôlei: Sorocaba x Sesi-Bauru
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • AFC Asian Cup 2026: JPN Vs SYR
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • AFC Asian Cup 2026: JPN Vs SYR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • Mini Match UEL: NFO Vs POR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="LIVE NOW 9 JANUARI 2026",18:30 WIB • UEFA Champions League - Stories of the Finals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" group-title="LIVE NOW 9 JANUARI 2026",19:00 WIB • VT - Superliga Feminina De Vôlei: Sorocaba x Sesi-Bauru
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:35 WIB • Sessão Sportv: Cine Marcial - Episódio 4 - Nico Acima Da Lei
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:10 WIB • Vitórias Para Sempre Senna Donington Park 1993 (GP Da Europa) - Rubinho
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 9 JANUARI 2026",18:35 WIB • Sessão Sportv: Cine Marcial - Episódio 4 - Nico Acima Da Lei
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 9 JANUARI 2026",19:10 WIB • Vitórias Para Sempre Senna Donington Park 1993 (GP Da Europa) - Rubinho
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",18:45 WIB • 1st ODI: India v South Africa; One-Day International Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 9 JANUARI 2026",18:45 WIB • 1st ODI: India v South Africa; One-Day International Cricket
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:45 WIB • 1st ODI: India v South Africa; One-Day International Cricket
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:45 WIB • EFL Greatest. 2016: Leeds United v Aston Villa
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 9 JANUARI 2026",18:45 WIB • The Premier League's Greatest Games. 2011: West Ham United v Manchester United
-http://line.extraott-iptv.com:88/2755789541/1300714776/191686
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",9 JANUARI 2026 • 19:00 WIB • Mini Match UEL: NFO Vs POR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 9 JANUARI 2026",19:15 WIB • Dp World Tour - Bmw Pga Championship - Ngày 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="NEXT LIVE",9 JANUARI 2026 • 19:00 WIB • Mini Match UEL: NFO Vs POR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",9 JANUARI 2026 • 19:00 WIB • Big Bash. Adelaide Strikers v Sydney Thunder
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",9 JANUARI 2026 • 19:00 WIB • Mini Match UEL: NFO Vs POR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="NEXT LIVE",9 JANUARI 2026 • 19:00 WIB • Mini Match UEL: NFO Vs POR
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="NEXT LIVE",9 JANUARI 2026 • 19:00 WIB • Mini Match UEL: NFO Vs POR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",9 JANUARI 2026 • 19:20 WIB • That's 60s - Best Music Live!
+#KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
+#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",19:20 WIB • That's 60s - Best Music Live!
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/JmtCcyxR0iGWl95uFoJPjg/Fv2lucGIbhPi2caWYvF5Lg/1757863537462/live/may9/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",19:20 WIB • That's 60s - Best Music Live!
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/Xqq2AmRkK93IlB_q-w6VQA/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may27/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE NOW 9 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",19:20 WIB • That's 60s - Best Music Live!
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/sG9kMsEPzmCMIObu-OmXVg/Fv2lucGIbhPi2caWYvF5Lg/1757778595476/live/may211/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 9 JANUARI 2026",19:20 WIB • Sportscenter Americano com Scott Van Pelt - Ao Vivo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 9 JANUARI 2026",19:20 WIB • Sportscenter Americano com Scott Van Pelt - Ao Vivo
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 9 JANUARI 2026",19:20 WIB • Sportscenter Americano com Scott Van Pelt - Ao Vivo
+http://46.151.196.223:14444/
 #EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",9 JANUARI 2026 • 19:30 WIB • LaLiga 2 2025/26: DEP Vs CAD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
