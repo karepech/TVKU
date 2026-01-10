@@ -7,18 +7,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
 #EXTINF:-1 tvg-id="Sportstv.tr" tvg-name="Sportstv" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="LIVE NOW 10 JANUARI 2026",12:00 WIB • Euroformula Monza
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8O8MT0.jpg" group-title="LIVE NOW 10 JANUARI 2026",12:35 WIB • Mundial F1 – GP de Estados Unidos (T2025): Carrera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
-#EXTINF:-1 group-title="LIVE NOW 10 JANUARI 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" ,12:35 WIB • Mundial F1 – GP de Estados Unidos (T2025): Carrera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTINF:-1 group-title="LIVE NOW 10 JANUARI 2026" tvg-logo="https://i.imgur.com/I1uGi27.jpg",12:50 WIB • Football: Supercopa de España. 1/2 final 1. Barcelona – Athletic Bilbao (Football: Spanish Super Cup
 http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 10 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",13:00 WIB • LFCTV 2025/26: ARS Vs LIV
@@ -200,6 +188,18 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8O8MT0.jpg" group-title="LIVE NOW 10 JANUARI 2026",14:42 WIB • Código F1 (T2025): Estados Unidos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+#EXTINF:-1 group-title="LIVE NOW 10 JANUARI 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" ,14:42 WIB • Código F1 (T2025): Estados Unidos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="NEXT LIVE",10 JANUARI 2026 • 15:00 WIB • PL REWIND - EP8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
