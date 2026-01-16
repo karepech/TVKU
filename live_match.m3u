@@ -52,8 +52,6 @@ http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 16 JANUARI 2026",10:00 WIB • Golfe: Latin America Amateur Championship - Ao Vivo
 http://46.151.196.223:14444/
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 16 JANUARI 2026",10:45 WIB • Vđqg Italia Serie A 25/26 Vòng 16 Trực Tiếp - Como Vs Ac Milan Trực Tiếp
-https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 16 JANUARI 2026",10:55 WIB • LIVE 西甲 皇家西班牙人 vs 吉羅納(1/17/26)(普)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -72,14 +70,8 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="beinsports2.fr" group-title="LIVE NOW 16 JANUARI 2026" tvg-logo="https://i.imgur.com/ASw4zju.jpg",11:00 WIB • 2025 Archery World Cup Final
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/bEIN2.m3u8
-#EXTINF:-1 group-title="LIVE NOW 16 JANUARI 2026" tvg-logo="https://i.imgur.com/Dl804eq.jpg",11:00 WIB • Saison régulière - Jupiter Links / New York
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/mL98nfP.jpg" group-title="LIVE NOW 16 JANUARI 2026",11:00 WIB • Gala Cúp Chiến Thắng - Phát Lại
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 16 JANUARI 2026",11:00 WIB • 企業排球聯賽 高雄台電 vs 新北中纖(1/11/26)(普)
-http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.imgur.com/gzswICu.jpg" group-title="LIVE NOW 16 JANUARI 2026",11:00 WIB • Gala Cúp Chiến Thắng - Phát Lại
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
@@ -208,8 +200,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 http://b1g.uk/200/230/709252
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 16 JANUARI 2026",12:30 WIB • Formula E - Flashback
 http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
-#EXTINF:-1 group-title="LIVE NOW 16 JANUARI 2026" tvg-logo="https://i.imgur.com/MCgoSXm.jpg" ,12:30 WIB • K CULTURE - MINUTES  K-STAGE
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 16 JANUARI 2026",12:30 WIB • SEA Games Thailand: VIE Vs IDN
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 16 JANUARI 2026",12:30 WIB • SEA Games Thailand: VIE Vs IDN
@@ -224,41 +214,62 @@ https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
 https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 #EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 16 JANUARI 2026",12:38 WIB • Dobbiaco - Cortina Cross Country Race 2022
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",16 JANUARI 2026 • 12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
+#EXTINF:-1 group-title="LIVE NOW 16 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTBDTYbTbsOT901D7Hf-IPPUmB_SXuM7oBNNZh6FRTt2cqD-CHefKk3Yy_PXHo5dVTHOO0ersrvlVj62v_zXyYjyMJfT5tJMBx1iMGJj62i53WQT6RGyC-QyMoR_t_xNdWueQUiLf13RPYREInwjhXqp1yIRFBYO1YBdClSzIPkX8BfnA0_PVWekogyPkZ/s700/TNT%20SPORTS%203.png",12:45 WIB • UEFA Champions League - Classics
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 16 JANUARI 2026",12:45 WIB • Ligue 1 Stories - Khvicha Kvaratskhelia
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCVx6Xn.jpg" group-title="LIVE NOW 16 JANUARI 2026",12:45 WIB • UEFA Champions League - Classics
+http://line.extraott-iptv.com:88/2755789541/1300714776/13778
+#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://i.ibb.co.com/Lzkztmpw/Tntsports3.png" group-title="LIVE NOW 16 JANUARI 2026",12:45 WIB • UEFA Champions League - Classics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 16 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="NEXT LIVE",16 JANUARI 2026 • 12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidV92hYxGfAMg2mujmgYa4yQhU9VQtRUsQsqIUou7jS2kb8Ojwz4dyWi6HUagYFUN56reVmXs4RidbMQfdTyZKjUJ3wJBmRegOxLC1EUFbOCh9VYjbOiQv6twmTLmNaCDPlHnIXQ4D2PaV7Z506t6ezglGYgi_khFsbiCyussEx8f9t4DKLIhhBZDBvuxS/s700/EUROSPORT%202.png" group-title="LIVE NOW 16 JANUARI 2026",12:50 WIB • Grand Prix de Tunisie (sabre)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05165a7d627cad792decdb1e7a4e18d3:72122ff50e1fdc072827039b7ca2fac8
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/0woud0fpbk/out/v1/19de3da8f2494fc1a1841c41d460b956/cenc.mpd
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 16 JANUARI 2026",12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",16 JANUARI 2026 • 12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
+#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 16 JANUARI 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="NEXT LIVE",16 JANUARI 2026 • 12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 16 JANUARI 2026",12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="NEXT LIVE",16 JANUARI 2026 • 12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
+#EXTINF:-1 group-title="LIVE NOW 16 JANUARI 2026" tvg-logo="https://i.imgur.com/MCgoSXm.jpg" ,12:50 WIB • DISCOVERING KOREA - HEALING
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 16 JANUARI 2026",12:50 WIB • LFCTV HL 2025/26: ARS Vs LIV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",16 JANUARI 2026 • 12:52 WIB • Boxeo: velada Kabayel vs Knyba (T2026): Velada completa
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 16 JANUARI 2026",12:52 WIB • Boxeo: velada Kabayel vs Knyba (T2026): Velada completa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",16 JANUARI 2026 • 12:52 WIB • Boxeo: velada Kabayel vs Knyba (T2026): Velada completa
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 16 JANUARI 2026",12:52 WIB • Boxeo: velada Kabayel vs Knyba (T2026): Velada completa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
