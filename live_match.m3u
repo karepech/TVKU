@@ -23,29 +23,6 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82238.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 17 JANUARI 2026",16:00 WIB • Race of Champions '25: ROC Nations Cup
 http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="LIVE NOW 17 JANUARI 2026",16:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RQ_ESk5cC9K5r30bJ4DI1_FuAN0Yaq-HM45-bhOztPavty_Ot2ZMCCNVInbFa2Zn8uGzmSMkhJDscdhb42_CsrqdaiH1Tn0_Diwj1VLoT4Mg2aOxVjCRVePhncgVEprXMveAHm3nlNJPSDlfr8eYFFxep9s1QEceqd-XjbjdriKGyF-ykqFnW0NEICVQ/s700/G03%20SPORT%201.png" group-title="LIVE NOW 17 JANUARI 2026",16:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
-#EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://i.imgur.com/BAxLcEX.jpg",16:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
-http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="LIVE NOW 17 JANUARI 2026",16:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="171957" group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWzpPk6bkHb1dFXkRZY5qFk9BKeRoNePRm4k44Xx7p6wnsk5AywWUE_XZn1ckoH9J9sa1VPUnVwkObEXODwdeL-gDilgEZRrFSmZx1hkI80IxrsPkQsZ_6gvd6U93TFSOmz0vQmj0YJb556DTSz4rrCEHUZTlaXCPVwDWNeETEXgjCvIPu74jxQHBbpAae/s700/SOCCER%20CHANNEL.png",16:30 WIB • Bundesliga 2025/26: BVB Vs SVW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -139,16 +116,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 http://46.151.196.223:14444/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 17 JANUARI 2026",17:30 WIB • VT - Como x Milan
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
-#EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",18:00 WIB • T20 Titans - ICC T20 World Cup 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #EXTINF:-1 tvg-id="42" group-title="LIVE NOW 17 JANUARI 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",18:00 WIB • Singapore Premier League 2025/26 BG Tampines Rovers FC vs Young Lions - BG Tampines Rovers FC vs You
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • World Darts Championship 2025 - Quarter-Finals Afternoon Session
@@ -166,10 +133,6 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 #https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • Kpacb Dạy Golf - Duy Nhất Hướng Dẫn Đánh Gậy Gỗ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • World Darts Championship 2025 - Quarter-Finals Afternoon Session
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -180,10 +143,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • T20 Titans - ICC T20 World Cup 2026
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrldOkHU1yKSY1B8dW5_URxfZT6SR6FZmxyfD8tbFUgysp_QmMHo7zBSNRJbodGw9NPn6sjhm6DhVHhO8rvWhWQsRhb0gYqAKCtDtzzJ3Xak6L4I59XHB5-bXPCHFPYSWkrx0XcjADiICm6wYYXKkkJEvHaNmHLsYRirx-f_P65JEf531i-RZDN0QenGh/s700/STAR%20SPORTS%20SELECT%201.png" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • 2nd ODI: India v New Zealand; One-Day International Cricket
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMab-OcF-O6K_OejaqcrIsCDj9WDjVafuhKPEbmxuHW1B8LLTW7KgY2p94dyXAKWjzvVnCxJ-b2HOcdLoOhfdvymgrXC-vAG2dEu833PQ7TTPxlP5x-zddDFGEOuRktDOE9ALMR5N2nRWKVLe6_ceiLZTXFue4V5gnlBkZ2Ox_II0OT9_hesZVMjL-xZqc/s700/UAAP%20VARSITY.png" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • DLSU vs. UP Game 61 UAAP Season 86  Finals Game 2 December 3  (Men's Basketball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
@@ -227,8 +186,6 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
 https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • T20 Titans - ICC T20 World Cup 2026
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 #EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://i.imgur.com/v002hpu.jpg",18:00 WIB • UEFA Champions League - Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,8 +193,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • The Best of Sky Sports F1 2025
 http://line.extraott-iptv.com:88/2755789541/1300714776/153701
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • EFL Greatest. 2014: Sheffield Wednesday v Leeds United
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
 #EXTINF:-1 tvg-id="beinsports2.fr" group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://i.imgur.com/2morOzi.jpg",18:00 WIB • United Cup 2026: Final
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -245,16 +200,12 @@ http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • The Premier League's Greatest Games. 2012: Queens Park Rangers v Liverpool
-http://line.extraott-iptv.com:88/2755789541/1300714776/191686
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fUmQkL5.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • UEFA Champions League - Classics
 http://line.extraott-iptv.com:88/2755789541/1300714776/13780
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="https://i.imgur.com/WI4aOds.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • World Darts Championship 2025 - Quarter-Finals Afternoon Session
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="https://i.imgur.com/m74kmND.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • Singapore Premier League 2025/26 BG Tampines Rovers FC vs Young Lions - BG Tampines Rovers FC vs You
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • 2nd ODI: India v New Zealand; One-Day International Cricket
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 #EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://i.imgur.com/0viAhYV.jpg",18:00 WIB • Singapore Premier League 2025/26 BG Tampines Rovers FC vs Young Lions - BG Tampines Rovers FC vs You
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/nkmVAXH.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:00 WIB • United Cup 2026: Final
@@ -312,17 +263,7 @@ https://hotlivezz179026907.akainu.xyz/_qerOOU0ehWTS-0PLjmFVQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/JmtCcyxR0iGWl95uFoJPjg/Fv2lucGIbhPi2caWYvF5Lg/1757863537462/live/may9/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:05 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/4PsARBRmTw9LUn3EaWcm9g/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may26/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:05 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Xqq2AmRkK93IlB_q-w6VQA/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may27/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:05 WIB • That's 60s - Best Music Live!
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
@@ -338,11 +279,6 @@ https://hotlivezz179026907.akainu.xyz/7ZUnmJvxlnMcAlvs4phoog/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/cEcZ7pU11uzA8tMVkb7rHg/Fv2lucGIbhPi2caWYvF5Lg/1757934717649/live/may201/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:05 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/sG9kMsEPzmCMIObu-OmXVg/Fv2lucGIbhPi2caWYvF5Lg/1757778595476/live/may211/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:05 WIB • That's 60s - Best Music Live!
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
@@ -368,7 +304,7 @@ https://hotlivezz179026907.akainu.xyz/zTdtIhMhwXtJoXwtXGJQ9w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/Anz18OGyRGcXc0HFOtAY9Q/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may281/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",17 JANUARI 2026 • 18:15 WIB • 2nd ODI: India v New Zealand; One-Day International Cricket
+#EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",18:15 WIB • 2nd ODI: India v New Zealand; One-Day International Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -378,17 +314,19 @@ https://hotlivezz179026907.akainu.xyz/Anz18OGyRGcXc0HFOtAY9Q/Fv2lucGIbhPi2caWYvF
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="NEXT LIVE",17 JANUARI 2026 • 18:15 WIB • 2nd ODI: India v New Zealand; One-Day International Cricket
+#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 17 JANUARI 2026",18:15 WIB • 2nd ODI: India v New Zealand; One-Day International Cricket
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrldOkHU1yKSY1B8dW5_URxfZT6SR6FZmxyfD8tbFUgysp_QmMHo7zBSNRJbodGw9NPn6sjhm6DhVHhO8rvWhWQsRhb0gYqAKCtDtzzJ3Xak6L4I59XHB5-bXPCHFPYSWkrx0XcjADiICm6wYYXKkkJEvHaNmHLsYRirx-f_P65JEf531i-RZDN0QenGh/s700/STAR%20SPORTS%20SELECT%201.png" group-title="NEXT LIVE",17 JANUARI 2026 • 18:15 WIB • MI Cape Town v Sunrisers Eastern Cape; SA20
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrldOkHU1yKSY1B8dW5_URxfZT6SR6FZmxyfD8tbFUgysp_QmMHo7zBSNRJbodGw9NPn6sjhm6DhVHhO8rvWhWQsRhb0gYqAKCtDtzzJ3Xak6L4I59XHB5-bXPCHFPYSWkrx0XcjADiICm6wYYXKkkJEvHaNmHLsYRirx-f_P65JEf531i-RZDN0QenGh/s700/STAR%20SPORTS%20SELECT%201.png" group-title="LIVE NOW 17 JANUARI 2026",18:15 WIB • MI Cape Town v Sunrisers Eastern Cape; SA20
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="NEXT LIVE",17 JANUARI 2026 • 18:15 WIB • 2nd ODI: India v New Zealand; One-Day International Cricket
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:15 WIB • 2nd ODI: India v New Zealand; One-Day International Cricket
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",17 JANUARI 2026 • 18:15 WIB • EFL Greatest. 2014: Derby County v Nottingham Forest
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:15 WIB • EFL Greatest. 2014: Derby County v Nottingham Forest
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="NEXT LIVE",17 JANUARI 2026 • 18:15 WIB • MI Cape Town v Sunrisers Eastern Cape; SA20
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:15 WIB • Premier League Fan's Vote. 2007: Reading v West Ham United
+http://line.extraott-iptv.com:88/2755789541/1300714776/191686
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:15 WIB • MI Cape Town v Sunrisers Eastern Cape; SA20
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="NEXT LIVE",17 JANUARI 2026 • 18:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="LIVE NOW 17 JANUARI 2026",18:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -396,15 +334,15 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RQ_ESk5cC9K5r30bJ4DI1_FuAN0Yaq-HM45-bhOztPavty_Ot2ZMCCNVInbFa2Zn8uGzmSMkhJDscdhb42_CsrqdaiH1Tn0_Diwj1VLoT4Mg2aOxVjCRVePhncgVEprXMveAHm3nlNJPSDlfr8eYFFxep9s1QEceqd-XjbjdriKGyF-ykqFnW0NEICVQ/s700/G03%20SPORT%201.png" group-title="NEXT LIVE",17 JANUARI 2026 • 18:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RQ_ESk5cC9K5r30bJ4DI1_FuAN0Yaq-HM45-bhOztPavty_Ot2ZMCCNVInbFa2Zn8uGzmSMkhJDscdhb42_CsrqdaiH1Tn0_Diwj1VLoT4Mg2aOxVjCRVePhncgVEprXMveAHm3nlNJPSDlfr8eYFFxep9s1QEceqd-XjbjdriKGyF-ykqFnW0NEICVQ/s700/G03%20SPORT%201.png" group-title="LIVE NOW 17 JANUARI 2026",18:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/BAxLcEX.jpg",17 JANUARI 2026 • 18:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
+#EXTINF:-1 group-title="LIVE NOW 17 JANUARI 2026" tvg-logo="https://i.imgur.com/BAxLcEX.jpg",18:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
 http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="NEXT LIVE",17 JANUARI 2026 • 18:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="LIVE NOW 17 JANUARI 2026",18:25 WIB • AFC U23 Asian Cup (Viertelfinale) – Viertelfinale
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
