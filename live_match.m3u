@@ -90,13 +90,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
-#EXTINF:-1 group-title="LIVE NOW 24 JANUARI 2026" tvg-logo="https://i.imgur.com/jU7lYdG.jpg",03:30 WIB • Coventry vs Leicester – EFL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
-#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 24 JANUARI 2026" tvg-logo="https://i.imgur.com/6jxpZQ8.jpg",03:30 WIB • Coventry vs Leicester – EFL
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
-#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 24 JANUARI 2026" tvg-logo="https://i.imgur.com/rAvA5Co.jpg",03:30 WIB • Coventry vs Leicester – EFL
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k307aBr.jpg" group-title="LIVE NOW 24 JANUARI 2026",03:30 WIB • WNT Legends 2026: Where Greatness Collides (Delayed Telecast - January 23, 10:00Am Game)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -269,8 +262,6 @@ http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 24 JANUARI 2026",04:20 WIB • Live - 2nd T20I: India vs. New Zealand; T20 Cricket
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 24 JANUARI 2026",04:29 WIB • Rwanda Congo Uganda Bike Adventure - Part 3
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 group-title="LIVE NOW 24 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH5yw2zQU3qFEhGfVta7omszlhyphenhyphenRjdcSeGz8k7wzoh_a1VMdEWWMrjnwwmrAS1s1ZJilBDUeSVdJa35jrMGX6G1KJ7G8EwfYRDzcFWBP-ipZXTYkPQBrUDW5sxyJWQHKmKprhLoZ4AsNse7Bx_cjnERvDaqEj1ODMmIfT3YJfw0rwy61DTRmuS-MG7Nzy/s700/SPOTV%202.png",04:30 WIB • MotoGP Classic 2014 Catalunya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
@@ -292,11 +283,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 #https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="LIVE NOW 24 JANUARI 2026",04:30 WIB • The Wonder Shop (Home Shopping) - Health+ Dampness & Blood supplement
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 24 JANUARI 2026",04:30 WIB • Pga Tour The American Express - Ngày 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
@@ -337,9 +323,6 @@ http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ik3jNXcR5C9mDXf6WZwa_RoZ7X8Zr9EFAVQgsWSxoyr6VDjIqogRftWRtjvSfrLZu7KhVGw3N1V09v0ZPRnQIAqvp547uk9fCVkPsODP_4oy9ZfI2xGfrgySfWMo0cEHMRd0VR4MQazq-cmY74QJi_rH01vu0cCles4RQ5RITiYauwX6yIHxKo8d-KNi/s700/KOVO.png" group-title="LIVE NOW 24 JANUARI 2026",04:30 WIB • The Wonder Shop (Home Shopping) - Health+ Dampness & Blood supplement
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="LIVE NOW 24 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",04:30 WIB • Giants Live 2025 - Episode 4
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
 #EXTINF:-1 group-title="LIVE NOW 24 JANUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",04:30 WIB • PGA Tour Champions 2026 - Mitsubishi Electric Championship at Hualalai Round 1
@@ -439,20 +422,12 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/399.ts
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="LIVE NOW 24 JANUARI 2026",04:35 WIB • 松戸 F1 第3日レースダイジェスト
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="NEXT LIVE",24 JANUARI 2026 • 04:44 WIB • The Wonder Shop (Home Shopping) - HOTO Electric Spin Scrubber
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="LIVE NOW 24 JANUARI 2026",04:46 WIB • The Wonder Shop (Home Shopping) - Thomson Probiotic
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ik3jNXcR5C9mDXf6WZwa_RoZ7X8Zr9EFAVQgsWSxoyr6VDjIqogRftWRtjvSfrLZu7KhVGw3N1V09v0ZPRnQIAqvp547uk9fCVkPsODP_4oy9ZfI2xGfrgySfWMo0cEHMRd0VR4MQazq-cmY74QJi_rH01vu0cCles4RQ5RITiYauwX6yIHxKo8d-KNi/s700/KOVO.png" group-title="NEXT LIVE",24 JANUARI 2026 • 04:44 WIB • The Wonder Shop (Home Shopping) - HOTO Electric Spin Scrubber
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="NEXT LIVE",24 JANUARI 2026 • 04:46 WIB • The Wonder Shop (Home Shopping) - Thomson Probiotic
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ik3jNXcR5C9mDXf6WZwa_RoZ7X8Zr9EFAVQgsWSxoyr6VDjIqogRftWRtjvSfrLZu7KhVGw3N1V09v0ZPRnQIAqvp547uk9fCVkPsODP_4oy9ZfI2xGfrgySfWMo0cEHMRd0VR4MQazq-cmY74QJi_rH01vu0cCles4RQ5RITiYauwX6yIHxKo8d-KNi/s700/KOVO.png" group-title="NEXT LIVE",24 JANUARI 2026 • 04:46 WIB • The Wonder Shop (Home Shopping) - Thomson Probiotic
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ik3jNXcR5C9mDXf6WZwa_RoZ7X8Zr9EFAVQgsWSxoyr6VDjIqogRftWRtjvSfrLZu7KhVGw3N1V09v0ZPRnQIAqvp547uk9fCVkPsODP_4oy9ZfI2xGfrgySfWMo0cEHMRd0VR4MQazq-cmY74QJi_rH01vu0cCles4RQ5RITiYauwX6yIHxKo8d-KNi/s700/KOVO.png" group-title="LIVE NOW 24 JANUARI 2026",04:46 WIB • The Wonder Shop (Home Shopping) - Thomson Probiotic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",24 JANUARI 2026 • 05:00 WIB • That's 80s - The Best Music
