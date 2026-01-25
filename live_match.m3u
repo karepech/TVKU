@@ -255,17 +255,10 @@ https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 25 JANUARI 2026",18:30 WIB • THE SATURDAY WRAP - SAT 24 JAN
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
-#EXTINF:-1 group-title="LIVE NOW 25 JANUARI 2026" tvg-logo="https://i.imgur.com/jU7lYdG.jpg",18:30 WIB • Atletico Madrid vs Deportivo Alaves – Spanish LaLiga 2025/26
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/mL98nfP.jpg" group-title="LIVE NOW 25 JANUARI 2026",18:30 WIB • Tạp Chí ATP Tour This Week - Số 04-26
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 25 JANUARI 2026",18:30 WIB • EFL Greatest. 2018: Arsenal v Manchester City
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 25 JANUARI 2026" tvg-logo="https://i.imgur.com/6jxpZQ8.jpg",18:30 WIB • Atletico Madrid vs Deportivo Alaves – Spanish LaLiga 2025/26
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
-#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 25 JANUARI 2026" tvg-logo="https://i.imgur.com/rAvA5Co.jpg",18:30 WIB • Atletico Madrid vs Deportivo Alaves – Spanish LaLiga 2025/26
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 25 JANUARI 2026",18:30 WIB • The Premier League's Greatest Games. 2001: Tottenham Hotspur v Manchester United
 http://line.extraott-iptv.com:88/2755789541/1300714776/191686
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pbd0tSD.jpg" group-title="LIVE NOW 25 JANUARI 2026",18:30 WIB • EFL Greatest. 2016: Middlesbrough v Brighton & Hove Albion
@@ -302,6 +295,13 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="LIVE NOW 25 JANUARI 2026" tvg-logo="https://i.imgur.com/jU7lYdG.jpg",18:40 WIB • AFC Bournemouth vs Liverpool – English Premier League 2025/26 Week 23
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
+https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
+#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 25 JANUARI 2026" tvg-logo="https://i.imgur.com/6jxpZQ8.jpg",18:40 WIB • AFC Bournemouth vs Liverpool – English Premier League 2025/26 Week 23
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
+#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 25 JANUARI 2026" tvg-logo="https://i.imgur.com/rAvA5Co.jpg",18:40 WIB • AFC Bournemouth vs Liverpool – English Premier League 2025/26 Week 23
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",25 JANUARI 2026 • 18:45 WIB • 2nd T20: India v New Zealand; T20 Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
