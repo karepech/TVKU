@@ -83,10 +83,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 group-title="LIVE NOW 7 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png",04:40 WIB • Curling Mixed: ITA V SUI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
 #EXTINF:-1 group-title="LIVE NOW 7 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png",05:00 WIB • Live WTA 500: HF1, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), Halbfinale 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
@@ -400,6 +396,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 group-title="LIVE NOW 7 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",06:45 WIB • PL: Tottenham v United 20/21
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+http://cord-cutter.net:8080/hq3y4G/234247/53717
+#EXTINF:-1 group-title="LIVE NOW 7 FEBRUARI 2026" tvg-logo="https://i.imgur.com/k44W7jg.jpg",06:45 WIB • PL: Tottenham v United 20/21
+http://tvmate.icu:8080/69NpyV/884735/53717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="LIVE NOW 7 FEBRUARI 2026",06:45 WIB • F1＆ガールズウィークリーダイジェスト #574
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
+#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 7 FEBRUARI 2026",06:45 WIB • Golden Trail Series - Chasing Dreams Season 2022 - Episode 2 A New Life
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",7 FEBRUARI 2026 • 07:00 WIB • That's 80s - The Best Music
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
