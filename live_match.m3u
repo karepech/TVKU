@@ -49,9 +49,6 @@ http://line.extraott-iptv.com:88/2755789541/1300714776/13779
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",03:50 WIB • Real Sociedad x Real Oviedo - Ao Vivo
-#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 #EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 22 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",03:55 WIB • LaLiga 2025/26: RSO Vs OVI (L)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -173,18 +170,6 @@ http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 22 FEBRUARI 2026" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",04:30 WIB • ATP Tour 2026 Delray Beach Open (250) QF 2 - Delray Beach Open (250) QF 2
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 22 FEBRUARI 2026",04:55 WIB • MotoGP Test (T25/26): Moto 2 y Moto 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 22 FEBRUARI 2026",04:55 WIB • MotoGP Test (T25/26): Moto 2 y Moto 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 22 FEBRUARI 2026",05:00 WIB • Phim Việt Nam: Cười dưới mái đình - Tập 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -233,9 +218,6 @@ http://line.extraott-iptv.com:88/2755789541/1300714776/153713
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 22 FEBRUARI 2026",05:20 WIB • PL Rewind 2025/26 - EP14
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier2.m3u8
 #EXTINF:-1 tvg-id="171957" group-title="LIVE NOW 22 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWzpPk6bkHb1dFXkRZY5qFk9BKeRoNePRm4k44Xx7p6wnsk5AywWUE_XZn1ckoH9J9sa1VPUnVwkObEXODwdeL-gDilgEZRrFSmZx1hkI80IxrsPkQsZ_6gvd6U93TFSOmz0vQmj0YJb556DTSz4rrCEHUZTlaXCPVwDWNeETEXgjCvIPu74jxQHBbpAae/s700/SOCCER%20CHANNEL.png",05:25 WIB • Bundesliga: FCB Vs SGE (L)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -303,10 +285,6 @@ https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 22 FEBRUARI 2026",05:30 WIB • Pre-Season Testing 2026 – Formula 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
 #EXTINF:-1 group-title="LIVE NOW 22 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",05:30 WIB • The Emirates FA Cup 2025/26 R4: Liverpool vs Brighton & Hove Albion - R4: Liverpool vs Brighton & Ho
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
 #EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 22 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",05:30 WIB • Xin chào Jadoo - P1 Tập 37, 38
@@ -360,19 +338,43 @@ https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 22 FEBRUARI 2026" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",05:30 WIB • The Emirates FA Cup 2025/26 R4: Liverpool vs Brighton & Hove Albion - R4: Liverpool vs Brighton & Ho
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:35 WIB • LIVE NSL Super Cup '26: Dragons v Lightning
-http://b1g.uk/200/230/709252
-#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:35 WIB • LIVE NSL Super Cup '26: Dragons v Lightning
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:35 WIB • LIVE NSL Super Cup '26: Dragons v Lightning
-https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrldOkHU1yKSY1B8dW5_URxfZT6SR6FZmxyfD8tbFUgysp_QmMHo7zBSNRJbodGw9NPn6sjhm6DhVHhO8rvWhWQsRhb0gYqAKCtDtzzJ3Xak6L4I59XHB5-bXPCHFPYSWkrx0XcjADiICm6wYYXKkkJEvHaNmHLsYRirx-f_P65JEf531i-RZDN0QenGh/s700/STAR%20SPORTS%20SELECT%201.png" group-title="NEXT LIVE",22 FEBRUARI 2026 • 05:50 WIB • Live - Chelsea vs. Burnley; Premier League Soccer
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 22 FEBRUARI 2026",05:45 WIB • Portimão F4 Race 1 – Formula 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:45 WIB • F1＆ガールズウィークリーダイジェスト #577
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrldOkHU1yKSY1B8dW5_URxfZT6SR6FZmxyfD8tbFUgysp_QmMHo7zBSNRJbodGw9NPn6sjhm6DhVHhO8rvWhWQsRhb0gYqAKCtDtzzJ3Xak6L4I59XHB5-bXPCHFPYSWkrx0XcjADiICm6wYYXKkkJEvHaNmHLsYRirx-f_P65JEf531i-RZDN0QenGh/s700/STAR%20SPORTS%20SELECT%201.png" group-title="LIVE NOW 22 FEBRUARI 2026",05:50 WIB • Live - Chelsea vs. Burnley; Premier League Soccer
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="NEXT LIVE",22 FEBRUARI 2026 • 05:50 WIB • Aston Villa v Leeds United (MW27) (Goal Rush) (Live)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 22 FEBRUARI 2026",05:50 WIB • Aston Villa v Leeds United (MW27) (Goal Rush) (Live)
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="NEXT LIVE",22 FEBRUARI 2026 • 05:50 WIB • Live - Chelsea vs. Burnley; Premier League Soccer
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 22 FEBRUARI 2026",05:50 WIB • Chelsea vs Burnley (MW27) (Live) - Premier League 2025/26
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier2.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 22 FEBRUARI 2026",05:50 WIB • Brentford vs Brighton and Hove Albion (MW27) (Live) - Premier League 2025/26
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier3.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:50 WIB • Live - Chelsea vs. Burnley; Premier League Soccer
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiucuRQ79vGEODi9jvr9UwfUHgAWJHR1UkQyaqe1dsdUG-YwR57eG9DOwI-0YIbfLD51gYadHtBztjtBXMlb8ELGgVG6M1knRDnFVs4im7PDgb4HQxWF8rKsV6m9Pk2etF9JXvTp4Ot6W2xjPbuQUN8yprxdGxDeXePmfnGOWHxg8DcgJlO6sczl5Ndkl4f/s700/MOTORVISION%20TV.png" group-title="LIVE NOW 22 FEBRUARI 2026" ,05:55 WIB • Grand Prix von Ungarn, Budapest
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:55 WIB • Brentford x Brighton - Ao Vivo
+#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:55 WIB • LIVE NSL Super Cup '26: Mavericks v Rhinos
+http://b1g.uk/200/230/709252
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZzJw3M.jpg" group-title="LIVE NOW 22 FEBRUARI 2026" ,05:55 WIB • Grand Prix von Ungarn, Budapest
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="LIVE NOW 22 FEBRUARI 2026" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png",05:55 WIB • Grand Prix von Ungarn, Budapest
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:55 WIB • LIVE NSL Super Cup '26: Mavericks v Rhinos
+https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",05:55 WIB • LIVE NSL Super Cup '26: Mavericks v Rhinos
+https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="NEXT LIVE",22 FEBRUARI 2026 • 06:00 WIB • WTA Tour 2026 Dubai Duty Free Tennis C'ships (1000) Final (Live) - Dubai Duty Free Tennis C'ships (1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
