@@ -312,8 +312,6 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/mL98nfP.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",18:30 WIB • Tạp Chí Pga Tour - The Cut - - Số 08-26
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",18:30 WIB • Darts Gold. 2008/09 WDC: Raymond van Barneveld v Ronnie Baxter
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3syDfk.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",18:30 WIB • Winter Olympic Games - Curling
 http://line.extraott-iptv.com:88/2755789541/1300714776/13779
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="https://i.imgur.com/ZNcKgS8.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",18:30 WIB • LPGA Tour 2026 (Live) - Honda LPGA Thailand Round 4
@@ -342,7 +340,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mas
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",22 FEBRUARI 2026 • 18:45 WIB • Darts Gold. 1994/95 WDC: Dennis Priestley v Jockie Wilson
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="LIVE NOW 22 FEBRUARI 2026",18:35 WIB • Johnson County War - Part 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
+https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 22 FEBRUARI 2026",18:45 WIB • Darts Gold. 1994/95 WDC: Dennis Priestley v Jockie Wilson
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",22 FEBRUARI 2026 • 18:50 WIB • That's 60s - Best Music Live!
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
