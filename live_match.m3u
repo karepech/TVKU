@@ -1,338 +1,264 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 28 FEBRUARI 2026",03:30 WIB • Pre-Season Testing 2026 – Formula 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
 #EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING.COM" tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",04:15 WIB • ⋗ Raceday
 http://tv.8dott.xyz:80/live/samuel/samuel123456/94058.ts
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA36fPDPo5-gkfSXOAMP-NFjk6ve9V4aaumH7ogbl_raC3zc2cM4VIbua3J5KOkPIVOpy1iHcmqSA0wMArWRkO5_cCPmQSrC4PZn-fdB2PchBeUCSx2Wb8MYZ7q1z6DYin2W5iMVdYf5IBt1o0uqgGSBpkdTBicx49sA-pDO579GQNjVphyoYV5pJNSfr0/s700/FOOTBALL.png",05:00 WIB • Premier Padel Tennis: Riyadh, Women's Final
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png",05:00 WIB • Supercars: Race 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 28 FEBRUARI 2026",05:00 WIB • Phim Trung Quốc: Đẹp hơn ánh sao - Tập 21
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/QgMN6gm.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",05:00 WIB • Premier Padel Tennis: Riyadh, Women's Final
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/CFK26ym.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",05:00 WIB • Premier Padel Tennis: Riyadh, Women's Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",05:00 WIB • VT - Tolima x Deportivo Táchira
-#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",05:00 WIB • VT - Rugby: 6 Nations: Inglaterra x Irlanda
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqeY0m.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",05:00 WIB • Live MotoGP: Thailand Practice
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
-#EXTINF:-1 tvg-id="42" group-title="LIVE NOW 28 FEBRUARI 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 28 FEBRUARI 2026",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-#https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 28 FEBRUARI 2026",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlCs-MH642QlA8C-QdVgG3HjkHUTs1BfovLXvuqiSY8UcLvfA24TfuPDkRYMafEgNDVhhEUkhS4pGeDjQwSouaLZ5SE7E9v7srhfY3N8g_exMaHofyavHCMdMqCPlF31zjSpPSv901zCuYahqeokaM14TiCJ0oTk8u948fjVMKur2Vm5ori3I3eOu-7h3k/s700/PRIMA%20SPORT%203.png" group-title="LIVE NOW 28 FEBRUARI 2026",05:30 WIB • Motogp – Mp Al Thailandei
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://i.imgur.com/il6VamE.jpg" group-title="LIVE NOW 28 FEBRUARI 2026" ,05:30 WIB • Motogp – Mp Al Thailandei
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="https://i.imgur.com/m74kmND.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/0viAhYV.jpg",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/IV8snO1.jpg",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NfbkVpg.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="LIVE NOW 28 FEBRUARI 2026",05:30 WIB • Motogp – Mp Al Thailandei
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 28 FEBRUARI 2026",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",05:30 WIB • WTA Tour 2026 Merida Open (500) R16 S1 - Merida Open (500) R16 S1
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) SF 2 (Live) - Dubai Duty Free Tennis C'ships (500
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) SF 2 (Live) - Dubai Duty Free Tennis C'ships (500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • Đứa cháu nhà tài phiệt - Tập 123
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6686
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • VT - NHL: Philadelphia Flyers x New York Rangers
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • VT - NHL: Philadelphia Flyers x New York Rangers
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF30llBIrfxbPuNML0kMgZbVJDAsM_jPgFBtd5J8rDxYYu8oDdjUw5JB8oNtGFrYa1ECFx5hkKe7mOUnNRlkNXY-Qmecl38AxrXERlFFbPy1WOoPnzWbN3yeawIloWpLHZ7QrZMP8h6kPJQpa02lBxpabLmN7DJ3Lpalu6C7cfDMRZS8zjJMQnisHLxs6J/s700/DIGI%20SPORT%202.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • ⋗ Tenis: ATP Dubai Semifinale
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",06:00 WIB • ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) SF 2 (Live) - Dubai Duty Free Tennis C'ships (500
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTINF:-1 tvg-id="ssc4.sa" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",06:00 WIB • Phim truyện: Bao Thanh Thiên - Tập 58
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • Tennis: ATP Qatar Open 2026. Final
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:00 WIB • Super League Rugby. Wigan Warriors v Leigh Leopards
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="https://i.imgur.com/WI4aOds.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) SF 2 (Live) - Dubai Duty Free Tennis C'ships (500
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • VT - NHL: Philadelphia Flyers x New York Rangers
-http://46.151.196.223:14444/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • VT - Newell's Old Boys x Estudiantes
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/gsn3T3v.jpg",06:00 WIB • ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) SF 2 (Live) - Dubai Duty Free Tennis C'ships (500
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjVg3jj.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) SF 2 (Live) - Dubai Duty Free Tennis C'ships (500
-http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 28 FEBRUARI 2026",06:00 WIB • ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) SF 2 (Live) - Dubai Duty Free Tennis C'ships (500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",06:00 WIB • ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) SF 2 (Live) - Dubai Duty Free Tennis C'ships (500
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:10 WIB • LIVE 西甲 巴塞隆納 vs 比利亞雷亞爾(2/28/26)(普)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:10 WIB • LIVE 西甲 巴塞隆納 vs 比利亞雷亞爾(2/28/26)(普)
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",06:15 WIB • Live - Group 2: England vs. New Zealand; 2026 ICC Men's T20 Cricket World Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",06:15 WIB • Live - Group 2: England vs. New Zealand; 2026 ICC Men's T20 Cricket World Cup
-http://tv.casindo.org/hls/56/56.m3u8
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:15 WIB • Live - Group 2: England vs. New Zealand; 2026 ICC Men's T20 Cricket World Cup
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-id="starsports2.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zcI1PL7b0O1rWt7Dv8O9O8Q8nWxfco32t7-YmFNNdQ0xWPzlKFvjRBp2ZnXqTiNcpcFGYi-auQQWyKR0bh263XFQUFL31xIvraopKdOe6Thry2ATut29C3xkc0jSUKnwtH66Y_pRxCMdQqIqX1CIkb3pDKysnM98NlY4y7rCDy0aJmH1wYRXFPEQ91qe/s700/STAR%20SPORTS%202.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:15 WIB • Live - Group 2: England vs. New Zealand; 2026 ICC Men's T20 Cricket World Cup
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:15 WIB • Live - Group 2: England vs. New Zealand; 2026 ICC Men's T20 Cricket World Cup
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:15 WIB • Tá On - Ao Vivo
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:00 WIB • Seleção sportv - Ao Vivo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star ⭐SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mCjnQxL.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:15 WIB • Live - Group 2: England vs. New Zealand; 2026 ICC Men's T20 Cricket World Cup
-http://iptvtree.net:8080/F28312/cc1dc138/16619
-#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:25 WIB • USL '25/26: Tampa Bay Sun v Fort Lauderdale
-http://b1g.uk/200/230/709252
-#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:25 WIB • USL '25/26: Tampa Bay Sun v Fort Lauderdale
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:25 WIB • USL '25/26: Tampa Bay Sun v Fort Lauderdale
-https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
-#EXTINF:-1 tvg-id="43" group-title="LIVE NOW 28 FEBRUARI 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",06:30 WIB • The HotelPlanner Tour Series 2026 - NTT DATA Pro Am
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • Tổng Hợp Golf - Pga Championship Phần 1
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:00 WIB • VT - Flamengo x Lanús
+#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:00 WIB • VT - Rugby: 6 Nations: País de Gales x Escócia
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLn0CvLC-XYTvCdrOBdtPlxHBe0t_hN3EfU5EXpH2TJh7aNmO907eaIgh4k4UALWrvHVnhmUtpoGyLQllS-aasmXRfF4dSNwOgSGKYGO0FH1-2WXdvnWy1RRJuxprYvm8RxP_X4Ps3NFkxyH8HywFv9k0SpNPyzv1R21G6BpgXsVP76Bfm1Y14D6xenUwC/s700/SPOTV.png",07:05 WIB • A-League Men: SYD Vs AKL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLn0CvLC-XYTvCdrOBdtPlxHBe0t_hN3EfU5EXpH2TJh7aNmO907eaIgh4k4UALWrvHVnhmUtpoGyLQllS-aasmXRfF4dSNwOgSGKYGO0FH1-2WXdvnWy1RRJuxprYvm8RxP_X4Ps3NFkxyH8HywFv9k0SpNPyzv1R21G6BpgXsVP76Bfm1Y14D6xenUwC/s700/SPOTV.png",07:05 WIB • A-League Men: SYD Vs AKL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybmmOLSaU-GT1VuodMC2QFMtvtGExIgAmoc_SYbJLWXS-JKux6GrHKScHPym7mkK0ooKJ_8yFK0rIEwgZ8GkKttmVU6uzeWULT9bwzLcf7HSy6Db_wNCvdY01Nkocua6pp4AIYNXStx5Cebyn1zOjdGj9oAwI1hhQ4xEtQyyRDEXTRevJbPqAt0Oenblc/s700/SPOTV.png",07:05 WIB • A-League Men: SYD Vs AKL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLn0CvLC-XYTvCdrOBdtPlxHBe0t_hN3EfU5EXpH2TJh7aNmO907eaIgh4k4UALWrvHVnhmUtpoGyLQllS-aasmXRfF4dSNwOgSGKYGO0FH1-2WXdvnWy1RRJuxprYvm8RxP_X4Ps3NFkxyH8HywFv9k0SpNPyzv1R21G6BpgXsVP76Bfm1Y14D6xenUwC/s700/SPOTV.png",07:05 WIB • A-League Men: SYD Vs AKL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLn0CvLC-XYTvCdrOBdtPlxHBe0t_hN3EfU5EXpH2TJh7aNmO907eaIgh4k4UALWrvHVnhmUtpoGyLQllS-aasmXRfF4dSNwOgSGKYGO0FH1-2WXdvnWy1RRJuxprYvm8RxP_X4Ps3NFkxyH8HywFv9k0SpNPyzv1R21G6BpgXsVP76Bfm1Y14D6xenUwC/s700/SPOTV.png",07:05 WIB • A-League Men: SYD Vs AKL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17139&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17139&type=dash
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/Qz7mMO3.jpg",07:05 WIB • A-League Men: SYD Vs AKL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/399.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYWhKxE.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:05 WIB • A-League Men: SYD Vs AKL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/399.ts
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="LIVE NOW 28 FEBRUARI 2026",07:05 WIB • A-League Men: SYD Vs AKL
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHF5Mfvpe-NKOmZEBBasW7a5NS4mSfz9ciKVVdr_tySr9KVFASuvMg1Th_rGWzukRLprq6xCYD2mM0n2307XHUSw6w9B40mUVKOUBibwHBXYShOvcVaqpryUTG47hXB7fKYS4G5ilmQ5lzlszzTiSaaJ5NyaF8DywLQHZET5HKZDKKhuyNM2sd8mZNcZ4D/s700/NBC%20GOLF.png" group-title="LIVE NOW 28 FEBRUARI 2026",07:15 WIB • Kpacb - Duy Nhất Hướng Dẫn Sửa Lỗi Thường Gặp Khi Swing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrldOkHU1yKSY1B8dW5_URxfZT6SR6FZmxyfD8tbFUgysp_QmMHo7zBSNRJbodGw9NPn6sjhm6DhVHhO8rvWhWQsRhb0gYqAKCtDtzzJ3Xak6L4I59XHB5-bXPCHFPYSWkrx0XcjADiICm6wYYXKkkJEvHaNmHLsYRirx-f_P65JEf531i-RZDN0QenGh/s700/STAR%20SPORTS%20SELECT%201.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • Live - PL Fanzone
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-#EXTINF:-1 tvg-id="171957" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWzpPk6bkHb1dFXkRZY5qFk9BKeRoNePRm4k44Xx7p6wnsk5AywWUE_XZn1ckoH9J9sa1VPUnVwkObEXODwdeL-gDilgEZRrFSmZx1hkI80IxrsPkQsZ_6gvd6U93TFSOmz0vQmj0YJb556DTSz4rrCEHUZTlaXCPVwDWNeETEXgjCvIPu74jxQHBbpAae/s700/SOCCER%20CHANNEL.png",06:30 WIB • Sportacular Match: IDN Vs BHR
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",07:20 WIB • LaLiga Archive: RMA Vs BAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • Xin chào Jadoo - P2 Tập 9, 10
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:20 WIB • LaLiga Archive: RMA Vs BAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",07:20 WIB • LaLiga Archive: RMA Vs BAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:20 WIB • LaLiga Archive: RMA Vs BAR
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 28 FEBRUARI 2026",07:20 WIB • LaLiga Archive: RMA Vs BAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 28 FEBRUARI 2026",07:30 WIB • Nini đang làm gì đó - Tập 10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUZ6O56BJ95qVueKDCnqvNh3lNCVKZWq2oo1BvWAy79utUhE8bIPv5Di5VZI0oi933MfScFcH1AYqJKx11u0-XrFVlv66_i7TXieJ5vv3kKbImg1LXZL-SyRxyte8AT_aTTYXWFuhq1WnEI-sastrtLkxawXDHK2btQwNqDdkxv2WvPEEOPRb0ZXdOu7CE/s700/DIGI%20SPORT%203.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • Europa League: Tragere la sorti Optimi/Sferturi/Semifinale
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",06:30 WIB • The HotelPlanner Tour Series 2026 - NTT DATA Pro Am
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
-#EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",06:30 WIB • Xin chào Jadoo - P2 Tập 9, 10
+#EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",07:30 WIB • Nini đang làm gì đó - Tập 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • FANZONE - FRI 27 FEB
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/vGvysi9.jpg",06:30 WIB • Sportacular Match: IDN Vs BHR
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 28 FEBRUARI 2026",07:50 WIB • Pre-Season Testing 2026 – Formula 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="https://i.imgur.com/ZNcKgS8.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • The HotelPlanner Tour Series 2026 - NTT DATA Pro Am
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-3-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9r0ahrX.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • Live - PL Fanzone
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/VE39H7y.jpg",06:30 WIB • The HotelPlanner Tour Series 2026 - NTT DATA Pro Am
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/zd4PN0h.jpg",06:30 WIB • Top 20 - Hottest Girls On The Beach - EP63
-#http://vallest.uk/livehttpplay?channel_id=30003
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • Sportacular Match: IDN Vs BHR
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:30 WIB • Sportacular Match: IDN Vs BHR
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s",06:30 WIB • ANANDARAGAM - Serial
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",06:30 WIB • The HotelPlanner Tour Series 2026 - NTT DATA Pro Am
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",06:45 WIB • MotoGP (2026/7)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:55 WIB • MotoGP – GP de Tailandia (T2025): Carrera Moto3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 28 FEBRUARI 2026",06:55 WIB • MotoGP – GP de Tailandia (T2025): Carrera Moto3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",28 FEBRUARI 2026 • 07:00 WIB • Super League Rugby. Wigan Warriors v Leigh Leopards
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="NEXT LIVE",28 FEBRUARI 2026 • 07:00 WIB • Seleção sportv - Ao Vivo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",28 FEBRUARI 2026 • 07:20 WIB • LaLiga Archive: RMA Vs BAR
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
+#EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:50 WIB • Cro Race 2025
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWZPMP862gttVqq4Qr01LuTHayiy-qaRuqnKeHOHXDwHpTwtWc7EOxBkQ4PCroCezfYV-_RK2GaTIHnRT2ZFYIXE6Kxhqa7xAoBi0S8HlGWAIhiqFw6AZ71FI6X5qE0tyuWi6RZ17WPSgToHd1a3Iaa0FqZaUpzQVH6gdH1WdX1s_w6pMXza4h1ZMAkB7c/s700/BEIN%20SPORTS%202%20ID.png",07:55 WIB • Super Lig 25/26: TSR Vs FAT (L)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="NEXT LIVE",28 FEBRUARI 2026 • 07:20 WIB • LaLiga Archive: RMA Vs BAR
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWZPMP862gttVqq4Qr01LuTHayiy-qaRuqnKeHOHXDwHpTwtWc7EOxBkQ4PCroCezfYV-_RK2GaTIHnRT2ZFYIXE6Kxhqa7xAoBi0S8HlGWAIhiqFw6AZ71FI6X5qE0tyuWi6RZ17WPSgToHd1a3Iaa0FqZaUpzQVH6gdH1WdX1s_w6pMXza4h1ZMAkB7c/s700/BEIN%20SPORTS%202%20ID.png",07:55 WIB • Super Lig 25/26: TSR Vs FAT (L)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd  
+#EXTINF:-1 tvg-id="beinsports2.fr" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/2morOzi.jpg",07:55 WIB • Super Lig 25/26: TSR Vs FAT (L)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",28 FEBRUARI 2026 • 07:20 WIB • LaLiga Archive: RMA Vs BAR
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/nkmVAXH.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",07:55 WIB • Super Lig 25/26: TSR Vs FAT (L)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="LIVE NOW 28 FEBRUARI 2026",07:55 WIB • Super Lig 25/26: TSR Vs FAT (L)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="NEXT LIVE",28 FEBRUARI 2026 • 07:20 WIB • LaLiga Archive: RMA Vs BAR
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="NEXT LIVE",28 FEBRUARI 2026 • 07:20 WIB • LaLiga Archive: RMA Vs BAR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",28 FEBRUARI 2026 • 07:50 WIB • MotoGP – GP de Tailandia (T2025): Carrera Moto2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",28 FEBRUARI 2026 • 07:50 WIB • MotoGP – GP de Tailandia (T2025): Carrera Moto2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="NEXT LIVE",28 FEBRUARI 2026 • 08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="NEXT LIVE",28 FEBRUARI 2026 • 08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",28 FEBRUARI 2026 • 08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="NEXT LIVE",28 FEBRUARI 2026 • 08:00 WIB • WELCOME TO THE WEEKEND - FRI 27 FEB
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 28 FEBRUARI 2026",08:00 WIB • WELCOME TO THE WEEKEND - FRI 27 FEB
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="https://i.imgur.com/WI4aOds.jpg" group-title="NEXT LIVE",28 FEBRUARI 2026 • 08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHrR77tN7awKu1g-mOISefuRimAT3AoGLq-VwzFtz_YdHSPbJOi9Ct5_mA70ZzL6oqNvMzN-X-WffpPXce6-26kWKe18g_9tTb8dbLDomU_a91VjpdwGjY0lI4TSC-8UtDedFb5AXxxuETZJX3WtnT1YjyKXEOmtDFngrQQ8o5rBI81U-mPv7NHZCCVN4/s700/BUNDESLIGA.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:00 WIB • Live 2. BL: Fortuna Düsseldorf - VfL Bochum. 24. Spieltag
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="https://i.imgur.com/WI4aOds.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/gsn3T3v.jpg",28 FEBRUARI 2026 • 08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:00 WIB • VT - Alavés x Girona
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/gsn3T3v.jpg",08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjVg3jj.jpg" group-title="NEXT LIVE",28 FEBRUARI 2026 • 08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjVg3jj.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="NEXT LIVE",28 FEBRUARI 2026 • 08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 28 FEBRUARI 2026",08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",28 FEBRUARI 2026 • 08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",08:00 WIB • Davis Cup Qualifiers 2026 1st Rd M2: Ecuador vs Australia - 1st Rd M2: Ecuador vs Australia
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",28 FEBRUARI 2026 • 08:45 WIB • MotoGP – GP de Tailandia (T2025): Carrera MotoGP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlCs-MH642QlA8C-QdVgG3HjkHUTs1BfovLXvuqiSY8UcLvfA24TfuPDkRYMafEgNDVhhEUkhS4pGeDjQwSouaLZ5SE7E9v7srhfY3N8g_exMaHofyavHCMdMqCPlF31zjSpPSv901zCuYahqeokaM14TiCJ0oTk8u948fjVMKur2Vm5ori3I3eOu-7h3k/s700/PRIMA%20SPORT%203.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:15 WIB • Motogp – Mp Al Thailandei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://i.imgur.com/il6VamE.jpg" group-title="LIVE NOW 28 FEBRUARI 2026" ,08:15 WIB • Motogp – Mp Al Thailandei
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="LIVE NOW 28 FEBRUARI 2026",08:15 WIB • Motogp – Mp Al Thailandei
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:25 WIB • 西甲 萊萬特 vs  比利亞雷亞爾(12/15/25)(普)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:25 WIB • 西甲 萊萬特 vs  比利亞雷亞爾(12/15/25)(普)
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
+#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:25 WIB • DFB Pokal Frauen '25/26: Borussia Dortmund v Bayern
+http://b1g.uk/200/230/709252
+#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:25 WIB • DFB Pokal Frauen '25/26: Borussia Dortmund v Bayern
+https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:25 WIB • DFB Pokal Frauen '25/26: Borussia Dortmund v Bayern
+https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
+#EXTINF:-1 tvg-id="42" group-title="LIVE NOW 28 FEBRUARI 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+#https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PTewlflhO6NctO37AxButKfVN9WgQW4xLdXp0EBl0bicbPUn47KkrL6-VtFNIG2bX40jBE1ZuliSvyBJ41gBOfTuTRlh-OYRSuZkXCUnXA62D-sNsAx6-upXdXZVu-gSnb28mmFhv9qtS-IRgRzNji3eRtBX7u-ei2QITW8sqDNnBEZl30aM20eIR4as/s700/BEIN%20SPORTS%203%20ID.png",08:30 WIB • UECL 2025/26: RIJ Vs OMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
+#EXTINF:-1 tvg-id="beinsports3.fr" group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/pTpDZeu.jpg",08:30 WIB • UECL 2025/26: RIJ Vs OMO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="https://i.imgur.com/m74kmND.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/0viAhYV.jpg",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/IV8snO1.jpg",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/zd4PN0h.jpg",08:30 WIB • GOAT - The Greatest Of All Time - Women's Tennis - EP4
+#http://vallest.uk/livehttpplay?channel_id=30003
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NfbkVpg.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:30 WIB • UECL 2025/26: RIJ Vs OMO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 28 FEBRUARI 2026",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",08:30 WIB • East Asia Super League 2025/26 Xac Broncos vs Alvark Tokyo - Xac Broncos vs Alvark Tokyo
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiucuRQ79vGEODi9jvr9UwfUHgAWJHR1UkQyaqe1dsdUG-YwR57eG9DOwI-0YIbfLD51gYadHtBztjtBXMlb8ELGgVG6M1knRDnFVs4im7PDgb4HQxWF8rKsV6m9Pk2etF9JXvTp4Ot6W2xjPbuQUN8yprxdGxDeXePmfnGOWHxg8DcgJlO6sczl5Ndkl4f/s700/MOTORVISION%20TV.png" group-title="LIVE NOW 28 FEBRUARI 2026" ,08:40 WIB • Monaco Grand Prix Historique 2024
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZzJw3M.jpg" group-title="LIVE NOW 28 FEBRUARI 2026" ,08:40 WIB • Monaco Grand Prix Historique 2024
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="98" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:40 WIB • Monaco Grand Prix Historique 2024
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png",08:40 WIB • Monaco Grand Prix Historique 2024
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",08:40 WIB • Monaco Grand Prix Historique 2024
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:45 WIB • MotoGP – GP de Tailandia (T2025): Carrera MotoGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",28 FEBRUARI 2026 • 08:45 WIB • MotoGP – GP de Tailandia (T2025): Carrera MotoGP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 28 FEBRUARI 2026",08:45 WIB • MotoGP – GP de Tailandia (T2025): Carrera MotoGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
