@@ -40,12 +40,6 @@ https://dl.dropboxusercontent.com/scl/fi/m850dhn51323awty0kcc5/arena2.m3u8?rlkey
 ###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
 ###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjAZ_uqINjsLRpQvgwy4NrtRPh0ijfhwhUGwPa19izQrONqxkaTjALe9_B7Rxxrr2uVQssXCYlvsA0KMprNifGGHZ-QL4-ToW3Cb2TuQnc3Yb14l8zqE_nKsHXZCXiBEwK51FGsWsIUq3JU0BociQcgxhqBQr2DKSJby3UCQTLPfPnVfD_hQ9K2mlK9ndm/s700/G03%20SPORT%202.png" group-title="LIVE NOW 28 FEBRUARI 2026",21:30 WIB • Moto2: MOTO GP Taizemes. Taizeme. Kvalifikācija. Moto2. Moto2: Grand Prix of Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
 #EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/vGvysi9.jpg",21:30 WIB • ACL Two: NSR Vs ARK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
@@ -58,8 +52,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://op.sajmi.org/play/CANAL%2B%20Sport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2 HD" tvg-logo="https://i.imgur.com/jOaanPV.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",21:30 WIB • (L) FFRC 2026: Grand Finals
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Astar2.m3u8
-#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/sbDy6sn.jpg",21:30 WIB • Moto2: MOTO GP Taizemes. Taizeme. Kvalifikācija. Moto2. Moto2: Grand Prix of Thailand
-http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 28 FEBRUARI 2026",21:30 WIB • ACL Two: NSR Vs ARK
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 28 FEBRUARI 2026",21:30 WIB • ACL Two: NSR Vs ARK
@@ -264,9 +256,6 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 28 FEBRUARI 2026",22:30 WIB • PL Stories 2025/26 - EP39
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier2.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",22:30 WIB • MotoGP Paddock Live Sprint (2026/1)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="https://i.imgur.com/ZNcKgS8.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",22:30 WIB • DP World Tour 2026 - Unfiltered - Hero Dubai Desert Classic 2026
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-3-1.m3u8?raw=true
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",22:30 WIB • MotoGP: GP da Tailândia: Sprint - Ao Vivo
@@ -276,11 +265,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/VE39H7y.jpg",22:30 WIB • DP World Tour 2026 - Unfiltered - Hero Dubai Desert Classic 2026
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="LIVE NOW 28 FEBRUARI 2026",22:30 WIB • MotoGP Stories
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",22:30 WIB • DP World Tour 2026 - Unfiltered - Hero Dubai Desert Classic 2026
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 #EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",22:35 WIB • Trò chuyện đầu xuân: Thanh Hóa - Tầm nhìn mới, khát vọng mới
@@ -330,7 +314,18 @@ http://line.extraott-iptv.com:88/2755789541/1300714776/13779
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="NEXT LIVE",28 FEBRUARI 2026 • 22:55 WIB • Live: MotoGP Racing
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjAZ_uqINjsLRpQvgwy4NrtRPh0ijfhwhUGwPa19izQrONqxkaTjALe9_B7Rxxrr2uVQssXCYlvsA0KMprNifGGHZ-QL4-ToW3Cb2TuQnc3Yb14l8zqE_nKsHXZCXiBEwK51FGsWsIUq3JU0BociQcgxhqBQr2DKSJby3UCQTLPfPnVfD_hQ9K2mlK9ndm/s700/G03%20SPORT%202.png" group-title="LIVE NOW 28 FEBRUARI 2026",22:55 WIB • MotoGP: Grand Prix Taizemes. Taizeme. Sprints. MotoGP: Thailand Grand Prix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 28 FEBRUARI 2026",22:55 WIB • MotoGP (2026/14)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
+#EXTINF:-1 group-title="LIVE NOW 28 FEBRUARI 2026" tvg-logo="https://i.imgur.com/sbDy6sn.jpg",22:55 WIB • MotoGP: Grand Prix Taizemes. Taizeme. Sprints. MotoGP: Thailand Grand Prix
+http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="LIVE NOW 28 FEBRUARI 2026",22:55 WIB • Live: MotoGP Racing
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
