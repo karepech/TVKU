@@ -33,21 +33,10 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHrR77tN7awKu1g-mOISefuRimAT3AoGLq-VwzFtz_YdHSPbJOi9Ct5_mA70ZzL6oqNvMzN-X-WffpPXce6-26kWKe18g_9tTb8dbLDomU_a91VjpdwGjY0lI4TSC-8UtDedFb5AXxxuETZJX3WtnT1YjyKXEOmtDFngrQQ8o5rBI81U-mPv7NHZCCVN4/s700/BUNDESLIGA.png" group-title="LIVE NOW 8 MARET 2026",02:30 WIB • Live 2. BL: SC Paderborn 07 - Eintracht Braunschweig, 25. Spieltag
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj58UJbbGzXcG6aI64tEGbWLpTz67TMBSaNFzSU75dNSbdPXHzxmviA5EA_FkY54v6tgnhHJoMQAvPtcWgQdrY7ZQ226DgZOJHqwDVLq-XzwlNRrMt9T5Ua0S1bXswron-97fhePqc3StB0fQs_prVe-d3wJL8QmdhJQdDd4HOUtUV747QFM5yILNHtnZb/s700/PREMIER%20SPORTS.png" group-title="LIVE NOW 8 MARET 2026",02:40 WIB • Guinness Six Nations Ireland v Wales
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
-#EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",02:55 WIB • Live: U18s: United v Nottingham Forest
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-http://cord-cutter.net:8080/hq3y4G/234247/53717
-#EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://i.imgur.com/k44W7jg.jpg",02:55 WIB • Live: U18s: United v Nottingham Forest
-http://tvmate.icu:8080/69NpyV/884735/53717
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV-rbj2Aq_G1BJwVi2sfVeZmeW_Wr8qaY3gyHZl417jU64MCxwsQ8aYhjf8ElxlWufsiublfvZWXwDvhWMEayZIwIIiKFhKErIUk7n9_Tcl04Rv2zVSEGFWGjzVF8uRZVi7sNUbRAE1rwpaZQQsQycwkE3HhZzAzBfbKd2_-rWC6TJ9ljeOwTI-gkGbCmE/s700/ASTRO%20CRICKET.png" group-title="LIVE NOW 8 MARET 2026",03:00 WIB • ICC Men's T20 WC 2026: IND v ZIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,52 +44,6 @@ http://tvmate.icu:8080/69NpyV/884735/53717
 https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CRICKET HD" tvg-logo="https://i.imgur.com/ievPTzO.jpg" group-title="LIVE NOW 8 MARET 2026",03:00 WIB • ICC Men's T20 WC 2026: IND v ZIM
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
-#EXTINF:-1 tvg-id="42" group-title="LIVE NOW 8 MARET 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",03:05 WIB • R5: Mansfield Town vs Arsenal
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • R5: Mansfield Town vs Arsenal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-#https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mzfHYC5TjMHkYTcLs7cb-WqaCXjF1ay-TcjJm_xwCKHAn-_hetiuETyJnQ3yAnj7ufKMCGY8xPGRW_dYD-4S4q9bEao-6Ra7jsYxpYhuXrHhtbFKnSpkaytS4__NxY_SnjKPcZxbdEjjrA-BJgIHQ8K7sAzgvMoKlr7c-QzIYRuFqnN4q5_gYlzacBjV/s700/ASTRO%20FOOTBALL.png" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • (L) FA Cup: Macclesfield vs Arsenal
-#KODIPROP:inputstream.adaptive.license_type=m3u8
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://dl.dropboxusercontent.com/scl/fi/fvmlubrpsz62feuvcutxu/asspfoot.m3u8?rlkey=ewph2mk93bpw44va9k9b9e6p9&dl=0
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_PW_3S536pZLM27dgeANjMf9n_v52KtdKqmdeKgUbBkZlX9pSeIITBU0njryIbhem7tDPjAQPZrrF7ug1tA2Me-4uBz5p7G8YhF-VUPPSMfg8GXpiwU1Ci_TVomp5CtJJETdHgndJmXdkx4mVasucdZzhC561IKo4eZy3mfM8G9KXkz2x3ZbuRFyNGCkf/s700/ASTRO%20GRANDSTAND.png" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • (L) FA Cup: Macclesfield vs Arsenal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
-https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • R5: Mansfield Town vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",03:05 WIB • R5: Mansfield Town vs Arsenal
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 1" tvg-logo="https://i.imgur.com/GpZxtSR.jpg" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • (L) FA Cup: Macclesfield vs Arsenal
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/AstFut.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • (L) FA Cup: Macclesfield vs Arsenal
-https://a1xs.vip/1100032
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="https://i.imgur.com/m74kmND.jpg" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • R5: Mansfield Town vs Arsenal
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
-#EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://i.imgur.com/0viAhYV.jpg",03:05 WIB • R5: Mansfield Town vs Arsenal
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://i.imgur.com/IV8snO1.jpg",03:05 WIB • R5: Mansfield Town vs Arsenal
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NfbkVpg.jpg" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • R5: Mansfield Town vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 8 MARET 2026",03:05 WIB • R5: Mansfield Town vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",03:05 WIB • R5: Mansfield Town vs Arsenal
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXKVyZxI7QgeCL0DSu3Wgt9pC4iJgt0Zwz1p2mgOvrHuAi7pvvRlkSiUTcMnuq3n3kw__NZF6ciYGVdz4APy_BAenh8ijGgpJlkBIfijnej5joCdSeDhmB_k8jY5JQX2TyRPZTx9pWnZR4c-QW7jzDY8oRA6ULJ5evMaPd4tbNp1ROMq_vVG4k-A9bTsS/s700/ASTRO%20PREMIER%20LEAGUE%202.png" group-title="LIVE NOW 8 MARET 2026",03:30 WIB • Classic Match: Whu Vs Mci
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -114,8 +57,6 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="LIVE NOW 8 MARET 2026",03:30 WIB • Classic Match: Whu Vs Mci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://my.bianet.es.vip.hk:80///p//y/kontol26/709260
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFU7kcXi6jk7qrUxHqQcooVBiNcz_QicrS3R_PSi5IQpwGmpWwz1NbQuyAqQONe0X_jiWKozlpid1tPUWwCR75xaMg0WvCuhfeMjK3saH54u19HF1k_LnVE-ACKraDt14gEGB30ItVUnwznBbmhftH-UHgHBvIzUgmVG1zFDau7Cq5iBgfoMGhuantJRdJ/s700/TRUE%20GOLF%20CHANNEL.png" group-title="LIVE NOW 8 MARET 2026",03:45 WIB • New Trace TV
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueGOLF.m3u8
 #EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://i.imgur.com/jU7lYdG.jpg",03:55 WIB • LaLiga 2025/26: Getafe vs Real Betis (Live)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
 https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
@@ -125,10 +66,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="LIVE NOW 8 MARET 2026",04:00 WIB • VT - Barcelona x Levante
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 8 MARET 2026",04:10 WIB • Portimão F4 Race 1 – Formula 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tAqeY0m.jpg" group-title="LIVE NOW 8 MARET 2026",04:15 WIB • Live Test: Australia v India
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -156,10 +93,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlsc
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 8 MARET 2026",04:30 WIB • Ted's Notebook. Australian Grand Prix: Qualifying
-http://line.extraott-iptv.com:88/2755789541/1300714776/153701
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="LIVE NOW 8 MARET 2026",04:30 WIB • 2026日本職棒熱身賽 火腿 vs 羅德 (3/7/26)(普)
-http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="LIVE NOW 8 MARET 2026",04:30 WIB • VT - Rugby: 6 Nations: País de Gales x Escócia
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 8 MARET 2026",04:30 WIB • Formula E HL '26: Jeddah Race 2
@@ -179,9 +112,36 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 8 MARET 2026",04:45 WIB • MotoGP (2026/17)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 8 MARET 2026",04:45 WIB • The Premier League's Greatest Games. 2016: Swansea City v Crystal Palace
+#EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA36fPDPo5-gkfSXOAMP-NFjk6ve9V4aaumH7ogbl_raC3zc2cM4VIbua3J5KOkPIVOpy1iHcmqSA0wMArWRkO5_cCPmQSrC4PZn-fdB2PchBeUCSx2Wb8MYZ7q1z6DYin2W5iMVdYf5IBt1o0uqgGSBpkdTBicx49sA-pDO579GQNjVphyoYV5pJNSfr0/s700/FOOTBALL.png",05:00 WIB • Skiing: Ski Classic Pro Tour: Vasaloppet, Race 7
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 8 MARET 2026",05:00 WIB • 西甲 塞爾塔維戈 vs 皇家馬德里(3/8/26)(普)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+#EXTINF:-1 tvg-id="ssc2.sa" group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",05:00 WIB • TML - Gantanadam Live / Fillers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 8 MARET 2026",05:00 WIB • Formula 1. Australian Grand Prix: Qualifying
+http://line.extraott-iptv.com:88/2755789541/1300714776/153701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 8 MARET 2026",05:00 WIB • Super League Rugby. Leigh Leopards v Catalans Dragons
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA7duMytLIPRa1MIlCdFLg839UVlmOw-m5_9yB8auoW0sl5nANmSduutqKybGvX2NRR3BAL4LIosY2NZWds0YYsXtPP1tWGjxW1JGs2tVI2u-DX_yzUu4Vms2_oJUxpwI6dIPYD9Sbxje3aeswKxsY9alZhLhGkV6GFK7xHubXtTvgWz8hKrFMRbzxfZ9D/s700/NOVA%20SPORT%201.png" group-title="NEXT LIVE",8 MARET 2026 • 05:00 WIB • NHL – Den hokeje v Česku
+#EXTINF:-1 group-title="LIVE NOW 8 MARET 2026" tvg-logo="https://i.imgur.com/h78kzeH.jpg",05:00 WIB • (D) WBC: Mexico vs Great Britain
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/QgMN6gm.jpg" group-title="LIVE NOW 8 MARET 2026",05:00 WIB • Skiing: Ski Classic Pro Tour: Vasaloppet, Race 7
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/CFK26ym.jpg" group-title="LIVE NOW 8 MARET 2026",05:00 WIB • Skiing: Ski Classic Pro Tour: Vasaloppet, Race 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 8 MARET 2026",05:00 WIB • 西甲 塞爾塔維戈 vs 皇家馬德里(3/8/26)(普)
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA7duMytLIPRa1MIlCdFLg839UVlmOw-m5_9yB8auoW0sl5nANmSduutqKybGvX2NRR3BAL4LIosY2NZWds0YYsXtPP1tWGjxW1JGs2tVI2u-DX_yzUu4Vms2_oJUxpwI6dIPYD9Sbxje3aeswKxsY9alZhLhGkV6GFK7xHubXtTvgWz8hKrFMRbzxfZ9D/s700/NOVA%20SPORT%201.png" group-title="LIVE NOW 8 MARET 2026",05:15 WIB • NHL – Den hokeje v Česku Exibice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -189,9 +149,12 @@ http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",8 MARET 2026 • 05:00 WIB • Super League Rugby. Leigh Leopards v Catalans Dragons
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="NEXT LIVE",8 MARET 2026 • 05:00 WIB • NHL – Den hokeje v Česku
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHrR77tN7awKu1g-mOISefuRimAT3AoGLq-VwzFtz_YdHSPbJOi9Ct5_mA70ZzL6oqNvMzN-X-WffpPXce6-26kWKe18g_9tTb8dbLDomU_a91VjpdwGjY0lI4TSC-8UtDedFb5AXxxuETZJX3WtnT1YjyKXEOmtDFngrQQ8o5rBI81U-mPv7NHZCCVN4/s700/BUNDESLIGA.png" group-title="LIVE NOW 8 MARET 2026",05:15 WIB • Live BL: 1. FSV Mainz 05 - VfB Stuttgart, 25. Spieltag
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="LIVE NOW 8 MARET 2026",05:15 WIB • NHL – Den hokeje v Česku Exibice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -199,7 +162,7 @@ http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZgyuL2ZXIz_UUHIe4qmLxQavlz7_wx-CTQ&s" group-title="NEXT LIVE",8 MARET 2026 • 05:00 WIB • NHL – Den hokeje v Česku
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZgyuL2ZXIz_UUHIe4qmLxQavlz7_wx-CTQ&s" group-title="LIVE NOW 8 MARET 2026",05:15 WIB • NHL – Den hokeje v Česku Exibice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -207,30 +170,18 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA7duMytLIPRa1MIlCdFLg839UVlmOw-m5_9yB8auoW0sl5nANmSduutqKybGvX2NRR3BAL4LIosY2NZWds0YYsXtPP1tWGjxW1JGs2tVI2u-DX_yzUu4Vms2_oJUxpwI6dIPYD9Sbxje3aeswKxsY9alZhLhGkV6GFK7xHubXtTvgWz8hKrFMRbzxfZ9D/s700/NOVA%20SPORT%201.png" group-title="NEXT LIVE",8 MARET 2026 • 05:15 WIB • NHL – Den hokeje v Česku Exibice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_PW_3S536pZLM27dgeANjMf9n_v52KtdKqmdeKgUbBkZlX9pSeIITBU0njryIbhem7tDPjAQPZrrF7ug1tA2Me-4uBz5p7G8YhF-VUPPSMfg8GXpiwU1Ci_TVomp5CtJJETdHgndJmXdkx4mVasucdZzhC561IKo4eZy3mfM8G9KXkz2x3ZbuRFyNGCkf/s700/ASTRO%20GRANDSTAND.png" group-title="LIVE NOW 8 MARET 2026",05:20 WIB • Tour De La Provence 2026: Final Program Hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="NEXT LIVE",8 MARET 2026 • 05:15 WIB • NHL – Den hokeje v Česku Exibice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 8 MARET 2026",05:20 WIB • Portimão F4 Sprint Race – Formula 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZgyuL2ZXIz_UUHIe4qmLxQavlz7_wx-CTQ&s" group-title="NEXT LIVE",8 MARET 2026 • 05:15 WIB • NHL – Den hokeje v Česku Exibice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="LIVE NOW 8 MARET 2026",05:20 WIB • Tour De La Provence 2026: Final Program Hls
+https://a1xs.vip/1100032
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",8 MARET 2026 • 05:34 WIB • MotoGP Test (T25/26): Día 3 – Test de Sepang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
