@@ -22,10 +22,6 @@ http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 14 MARET 2026",15:00 WIB • Campeonato Brasileiro Feminino De Futebol: Palmeiras x Corinthians - Ao Vivo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="LIVE NOW 14 MARET 2026",15:00 WIB • ESPN KnockOut: Najee Lopez x Manuel Gallegos - Ao Vivo
 http://46.151.196.223:14444/
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="LIVE NOW 14 MARET 2026",16:00 WIB • 2026日本職棒熱身賽 羅德 vs 西武 (3/13/26)(普)
@@ -34,22 +30,11 @@ http://46.151.196.223:14444/
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 14 MARET 2026",16:00 WIB • TGL. Boston Common Golf Club v New York Golf Club
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://i.imgur.com/h78kzeH.jpg",16:00 WIB • ⋗ WBC: QF1: United States – Canada
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xp7gQ8o.jpg" group-title="LIVE NOW 14 MARET 2026",16:00 WIB • Prem Classics. 2017/18: Liverpool v Manchester City
 http://line.extraott-iptv.com:88/2755789541/1300714776/191686
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 14 MARET 2026",16:00 WIB • 2026日本職棒熱身賽 羅德 vs 西武 (3/13/26)(普)
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="LIVE NOW 14 MARET 2026",16:25 WIB • F1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
-#EXTINF:-1  tvg-logo="https://i.imgur.com/IKC778N.jpg" group-title="LIVE NOW 14 MARET 2026",16:25 WIB • F1
-https://a1xs.vip/2000012
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 14 MARET 2026",16:25 WIB • F1 Academy '26: China Qualifying
-http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="LIVE NOW 14 MARET 2026",16:30 WIB • Nashville SC – Inter Miami – CONCACAF Champions Cup (Achtelfinale, Hinspiel): Nashville SC – Inter M
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -95,42 +80,13 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 14 MARET 2026",16:45 WIB • DAZN F1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8O8MT0.jpg" group-title="LIVE NOW 14 MARET 2026",16:45 WIB • Mundial F1 – GP de China (T2026): Clasificación Sprint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
-#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" ,16:45 WIB • Mundial F1 – GP de China (T2026): Clasificación Sprint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
-#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png",17:00 WIB • PFL Origins: Van Steenis vs Edwards 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
 #EXTINF:-1 tvg-id="42" group-title="LIVE NOW 14 MARET 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • ATP Tour: This Week 2026 - Episode 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 #https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • ATP Tour: This Week 2026 - Episode 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -142,65 +98,31 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6686
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • Nhân tài Đại Việt - P3 Tập 1, 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • UEFA Champions League 25/26 - Vòng 1/8 - Lượt Đi - Paris Saint-Germain Vs Chelsea Phát Lại
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",17:00 WIB • ATP Tour: This Week 2026 - Episode 9
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 #EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTINF:-1 tvg-id="ssc2.sa" group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",17:00 WIB • Sri Venkateswara Sahara Namam - Karunakaracharyar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-#EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",17:00 WIB • Nhân tài Đại Việt - P3 Tập 1, 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 #EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • MotoGP (2026/17)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="https://i.imgur.com/WI4aOds.jpg" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • ATP Tour: This Week 2026 - Episode 9
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="https://i.imgur.com/m74kmND.jpg" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
 #EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://i.imgur.com/0viAhYV.jpg",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://i.imgur.com/gsn3T3v.jpg",17:00 WIB • ATP Tour: This Week 2026 - Episode 9
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 #EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://i.imgur.com/IV8snO1.jpg",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
 #EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • Damallsvenskan '25: Kristianstads v AIK
 http://b1g.uk/200/230/709252
-#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://i.imgur.com/zd4PN0h.jpg",17:00 WIB • The Truth About - 2005 Ashes - EP15
-#http://vallest.uk/livehttpplay?channel_id=30003
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjVg3jj.jpg" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • ATP Tour: This Week 2026 - Episode 9
-http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NfbkVpg.jpg" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • ATP Tour: This Week 2026 - Episode 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",17:00 WIB • ATP Tour: This Week 2026 - Episode 9
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 #EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",17:00 WIB • UFC 2026 UFC 326: Holloway vs Oliveira 2 - UFC 326: Holloway vs Oliveira 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 #EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 14 MARET 2026",17:00 WIB • Damallsvenskan '25: Kristianstads v AIK
@@ -252,47 +174,123 @@ https://hotlivezz179026907.akainu.xyz/xDtpiE6Ux5ockXDBCTOaWA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/rQBMK9YUx9LLBMEdPyZjzQ/Fv2lucGIbhPi2caWYvF5Lg/1754852575411/live/may111/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",14 MARET 2026 • 17:20 WIB • That's 60s - Best Music Live!
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Xqq2AmRkK93IlB_q-w6VQA/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may27/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="NEXT LIVE",14 MARET 2026 • 17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMQK5tUeYof-crR723u6QMgfg-CU1FXun4XEGGbRAT4P329UNcxYPkYeOE_FtLJr-axToMl-0bsTs_rHqZlX6muwBlocOh4OHh2ViJdWwdBx4yB6jOICqnJjuZAKKX5dn-WCb97A1eOrd0az3w4s2ukLgfMEdnecbRDAsX2fsQpiO89Xd35P8_FyWq53CT/s700/TSN%205.png" group-title="LIVE NOW 14 MARET 2026",17:25 WIB • Live: F1 Sprint Pre-Race
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="LIVE NOW 14 MARET 2026",17:25 WIB • Live: F1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IKC778N.jpg" group-title="LIVE NOW 14 MARET 2026",17:25 WIB • Live: F1
+https://a1xs.vip/2000012
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9jcvlfu.jpg" group-title="LIVE NOW 14 MARET 2026",17:25 WIB • ⋗ Formula 1. Chinese Grand Prix: Sprint Race
+http://line.extraott-iptv.com:88/2755789541/1300714776/153701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 14 MARET 2026",17:25 WIB • F1 Build Up
+http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="LIVE NOW 14 MARET 2026",17:25 WIB • Live: F1 Sprint Pre-Race
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-id="49" group-title="LIVE NOW 14 MARET 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv6eVg2V5BAszgP8yOJfh_CnL2zI5DWoq7S-e_DgW4GIWrJIME5hFUbCjNMdaUttFnFSS_33SrghpDfCAwL5LP_FnLZ6VS0FimIh1nJUFikotSW_QihyphenhyphenvAVvU3_iUG14IYh3ocO7RODgkcAtVs1uU3yLhoxEBptM0GCp8Dcwk37-NpLuRZ6AlMmAtmIer/s700/OMAN%20SPORT.png",17:30 WIB • Anh Ngọc & Calcio - - Số 26
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="NEXT LIVE",14 MARET 2026 • 17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-d__vqTMM8XzLvVICM2UWE67nzyRtq1VikPIMRwgqWdHAwMKOpt2_sTah4JjmC8XZ66I-VjNky8WMtHkh3_MGTWysr26gWfSJZ8EaPUk0V0HpEdT4R3PkMRFnaA-qrBG_kGzxdtRZ7BbRkVzDXtHeT6CR2Tg0WUh7VpSO5Ri5y5LM4tanYUBzCtsx39W-/s700/UNIFI%20SPORTS.png",17:30 WIB • Anh Ngọc & Calcio - - Số 26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",14 MARET 2026 • 17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • Xin chào Jadoo - P2 Tập 31, 32
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • ⋗ Chinese GP 2026 – Corrida Sprint – F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-584/stream.mpd
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="NEXT LIVE",14 MARET 2026 • 17:30 WIB • WELCOME TO THE WEEKEND - FRI 13 MAR
+#EXTINF:-1 tvg-id="ssc3.sa" group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",17:30 WIB • Xin chào Jadoo - P2 Tập 31, 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • WELCOME TO THE WEEKEND - FRI 13 MAR
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="NEXT LIVE",14 MARET 2026 • 17:30 WIB • Troca De Passes - Ao Vivo
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/mL98nfP.jpg" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • Anh Ngọc & Calcio - - Số 26
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8O8MT0.jpg" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • Mundial F1 – GP de China (T2026): Previo Sprint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • Troca De Passes - Ao Vivo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="https://i.imgur.com/WI4aOds.jpg" group-title="NEXT LIVE",14 MARET 2026 • 17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="https://i.imgur.com/WI4aOds.jpg" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://i.imgur.com/gsn3T3v.jpg",14 MARET 2026 • 17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://i.imgur.com/gsn3T3v.jpg",17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjVg3jj.jpg" group-title="NEXT LIVE",14 MARET 2026 • 17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://i.imgur.com/zd4PN0h.jpg",17:30 WIB • Heroines - Game Changers - EP1
+#http://vallest.uk/livehttpplay?channel_id=30003
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.imgur.com/gzswICu.jpg" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • Anh Ngọc & Calcio - - Số 26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-id="49" group-title="LIVE NOW 14 MARET 2026"  tvg-logo="https://i.imgur.com/XoohwUr.jpg",17:30 WIB • Anh Ngọc & Calcio - - Số 26
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjVg3jj.jpg" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418199.ts
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="NEXT LIVE",14 MARET 2026 • 17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="LIVE NOW 14 MARET 2026",17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",14 MARET 2026 • 17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-id="dubaisports1.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",17:30 WIB • HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) Finals - All England Open Badmin
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",14 MARET 2026 • 17:45 WIB • That's 60s - Best Music Live!
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTgCKRCYprRkXZ2e3d_pkgEjYJ9w3lA-nMgA&s",17:30 WIB • Anh Ngọc & Calcio - - Số 26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" ,17:30 WIB • Mundial F1 – GP de China (T2026): Previo Sprint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",17:45 WIB • That's 60s - Best Music Live!
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/JmtCcyxR0iGWl95uFoJPjg/Fv2lucGIbhPi2caWYvF5Lg/1757863537462/live/may9/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",17:45 WIB • That's 60s - Best Music Live!
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/Xqq2AmRkK93IlB_q-w6VQA/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may27/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE NOW 14 MARET 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",17:45 WIB • That's 60s - Best Music Live!
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/sG9kMsEPzmCMIObu-OmXVg/Fv2lucGIbhPi2caWYvF5Lg/1757778595476/live/may211/chunklist.m3u8
 #EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",14 MARET 2026 • 17:56 WIB • F1 Sprint Race: Chinese GP (L)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
