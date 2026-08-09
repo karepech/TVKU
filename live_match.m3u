@@ -125,21 +125,6 @@ https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",21:05 WIB • Fórmula 1 - GP do Canadá
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 9 AGUSTUS 2026",21:05 WIB • Fórmula 1 - GP do Canadá
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://i.imgur.com/I1uGi27.jpg",21:10 WIB • Tennis: ATP 500 Mubadala DC Open. Singles Final (Tennis: Citi Open), 2026
-http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",21:25 WIB • Serie A Women 25/26: Juventus v Roma
-http://b1g.uk/200/230/709252
-#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",21:25 WIB • Serie A Women 25/26: Juventus v Roma
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",21:25 WIB • Serie A Women 25/26: Juventus v Roma
-https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 #EXTINF:-1 tvg-id="43" group-title="LIVE NOW 9 AGUSTUS 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",21:30 WIB • Korn Ferry Tour 2026 - Utah Championship p/b Zions Bank and Intermountain Health Round 4
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",21:30 WIB • Tour 2026: v PSG
@@ -158,9 +143,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/maste
 http://tvmate.icu:8080/69NpyV/884735/53717
 #EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",21:30 WIB • Korn Ferry Tour 2026 - Utah Championship p/b Zions Bank and Intermountain Health Round 4
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",21:30 WIB • NBA Playback -Philadelphia 76ers vs Atlanta Hawks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://smart.946985.filegear-sg.me/smart.php?id=Nba
 #EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA36fPDPo5-gkfSXOAMP-NFjk6ve9V4aaumH7ogbl_raC3zc2cM4VIbua3J5KOkPIVOpy1iHcmqSA0wMArWRkO5_cCPmQSrC4PZn-fdB2PchBeUCSx2Wb8MYZ7q1z6DYin2W5iMVdYf5IBt1o0uqgGSBpkdTBicx49sA-pDO579GQNjVphyoYV5pJNSfr0/s700/FOOTBALL.png",22:00 WIB • Skateboarding: Jackalope, Men's Final
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="LIVE NOW 9 AGUSTUS 2026",22:00 WIB • WTA Tour 2026 - Memphis Open (250) Final
@@ -277,8 +259,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd 
-#EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://i.imgur.com/h78kzeH.jpg",22:30 WIB • MotoGP Germany: Moto2 Race
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
 #EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",22:30 WIB • PL: Man Utd vs Liverpool
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="https://i.imgur.com/m74kmND.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",22:30 WIB • Asian University Basketball League 2026 - 3rd Place
@@ -309,14 +289,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-id="dubaisports2.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",22:30 WIB • Asian University Basketball League 2026 - 3rd Place
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",22:45 WIB • MotoGP
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
-#EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",23:00 WIB • Saudi Arabia vs Uruguay – FIFA World Cup 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",23:00 WIB • That's 60s - Best Music Live!
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
@@ -350,11 +322,6 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
 ###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",23:00 WIB • Saudi Arabia vs Uruguay – FIFA World Cup 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • PL MASTERCLASS - EP2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
@@ -370,33 +337,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS LIVE" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • BWF Thailand Open: Finals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • Saudi Arabia vs Uruguay – FIFA World Cup 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • The Premier League's Greatest Games. 2004: Liverpool v Arsenal
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 1" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • BWF Thailand Open: Finals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • Friendly: Juventus vs Inter
 https://a1xs.vip/1100032
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",23:00 WIB • Saudi Arabia vs Uruguay – FIFA World Cup 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • VT - Grêmio x São Paulo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • Saudi Arabia vs Uruguay – FIFA World Cup 2026
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • MotoGP '26: British MotoGP Sprint
 http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • Bundesliga 2025/26: TSG Vs HSV
@@ -407,14 +352,19 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 9 AGUSTUS 2026",23:00 WIB • Saudi Arabia vs Uruguay – FIFA World Cup 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bMC6dEf.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:05 WIB • Tussen De Palen. Finales: FC Barcelona – Arsenal 2006
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/vWyQo1m.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:05 WIB • Fórmula 1 - GP da Hungria
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LcmjcJN.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:05 WIB • Tussen De Palen. Finales: FC Barcelona – Arsenal 2006
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14906
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="LIVE NOW 9 AGUSTUS 2026",23:05 WIB • Fórmula 1 - GP da Hungria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",9 AGUSTUS 2026 • 23:10 WIB • Live - Barpeta Braves vs. Barak Legends; Assam Premier League Cricket
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",23:10 WIB • Live - Barpeta Braves vs. Barak Legends; Assam Premier League Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -424,16 +374,60 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="NEXT LIVE",9 AGUSTUS 2026 • 23:10 WIB • Live - Barpeta Braves vs. Barak Legends; Assam Premier League Cricket
+#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 9 AGUSTUS 2026",23:10 WIB • Live - Barpeta Braves vs. Barak Legends; Assam Premier League Cricket
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="NEXT LIVE",9 AGUSTUS 2026 • 23:10 WIB • Live - Barpeta Braves vs. Barak Legends; Assam Premier League Cricket
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:10 WIB • Live - Barpeta Braves vs. Barak Legends; Assam Premier League Cricket
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="NEXT LIVE",9 AGUSTUS 2026 • 23:15 WIB • ⋗ Women's NRL. Sydney Roosters v Parramatta Eels
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYp5eoL.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:15 WIB • ⋗ Women's NRL. Sydney Roosters v Parramatta Eels
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="NEXT LIVE",9 AGUSTUS 2026 • 23:30 WIB • VT - Remo x Atlético-MG
+#EXTINF:-1 tvg-id="wondersports.us" tvg-logo="https://i.imgur.com/zSqdUOj.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:25 WIB • WSWC '27 Gr. A: Cuba v Canada
+http://b1g.uk/200/230/709252
+#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:25 WIB • WSWC '27 Gr. A: Cuba v Canada
+https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:25 WIB • WSWC '27 Gr. A: Cuba v Canada
+https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
+#EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifF-UBJlpTm-xi6JNn8HGy0udoS-aFeypu7cCe1DDCkM2NTrkgR3hL3UE84KJ-6p2KVHcVE8FH8OYkZr4waNmooYpENH44dnyXVBYZkvb-7M5IxO6d6sVq4WTWGMmUU03HkMrbAdADAt_Y-kFHlYa7k_hG3OlZ0HpaK3hBBb_uN9o7KCyg-7mASuj-5GMP/s700/TNT%20SPORTS%202.png",23:30 WIB • Live MotoGP (?)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="ssc2.sa" group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",23:30 WIB • Dinam Oru Divaya Desam - Apn Swamy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://i.imgur.com/25GGdCq.jpg",23:30 WIB • Live MotoGP (?)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3syDfk.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:30 WIB • Live MotoGP (?)
+http://line.extraott-iptv.com:88/2755789541/1300714776/13779
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:30 WIB • VT - Remo x Atlético-MG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:30 WIB • MotoGP: GP da Grã-Bretanha: Sprint
+#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="LIVE NOW 9 AGUSTUS 2026",23:30 WIB • Live MotoGP (?)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:35 WIB • MotoGP Warm Up
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
+#EXTINF:-1 group-title="LIVE NOW 9 AGUSTUS 2026" tvg-logo="https://i.imgur.com/h78kzeH.jpg",23:35 WIB • ⋗ MotoGP Great Britain: Warm Up
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib5DC97NE2rggHu2LuaZeWCnADTXTWokA9xZc3ia4-CWeTDR2EjueX4EzWSoJHXR4N0BIsewh4dIruSGbr51M8oflaaNaSJKrxju-eUd5zZGt1pCexGYWOl-ujJfUCYmEm8q5CwsRatvmWG2llTQ4kax06avut8mDN9uKIx00QXiAo-TBBFCreseKW00uj/s700/DIGI%20SPORT%204.png" group-title="LIVE NOW 9 AGUSTUS 2026",23:40 WIB • ⋗ Moto: Marele Premiu al Marii Britanii WUP MotoGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+#EXTINF:-1 tvg-name="VSport" tvg-logo="https://i.imgur.com/puXc2zQ.jpg" group-title="LIVE NOW 9 AGUSTUS 2026",23:40 WIB • ⋗ Moto: Marele Premiu al Marii Britanii WUP MotoGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",10 AGUSTUS 2026 • 00:00 WIB • That's 60s - Best Music Live!
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
