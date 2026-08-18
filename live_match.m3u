@@ -17,17 +17,6 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
 https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitaS3Krn7L-SqLPwohXUnvROpEWHg9XdJrAPd6MjP_5kbrJpklv8bToMN1u1nNPonznYYHt5tSDPhQQSRpZRd_qGImBOK0XW_w0HDDlr5yhq8lEb8YooSm58gLoQ8f4O5mz4abDdiV7_5iiobSHlTLhumC4uPqkQqZkiOTX1zZsk64l_xSFxLVMGf-WS0t/s700/ASTRO%20PREMIER%20LEAGUE.png" group-title="LIVE NOW 18 AGUSTUS 2026",10:30 WIB • PL: Man Utd vs Nottm Forest
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
-#https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
-#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="LIVE NOW 18 AGUSTUS 2026",10:30 WIB • PL: Man Utd vs Nottm Forest
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Peacock-PL.png" group-title="LIVE NOW 18 AGUSTUS 2026",10:30 WIB • PL: Man Utd vs Nottm Forest
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 #EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PTewlflhO6NctO37AxButKfVN9WgQW4xLdXp0EBl0bicbPUn47KkrL6-VtFNIG2bX40jBE1ZuliSvyBJ41gBOfTuTRlh-OYRSuZkXCUnXA62D-sNsAx6-upXdXZVu-gSnb28mmFhv9qtS-IRgRzNji3eRtBX7u-ei2QITW8sqDNnBEZl30aM20eIR4as/s700/BEIN%20SPORTS%203%20ID.png",11:00 WIB • TGL Season 2 (2026): Boston Common Golf vs The Bay Golf Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -77,12 +66,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWQ84jW_0137UxufDZCQrqJAObB0BIWzsW63cQi82xpr9JKZBPLhKyrIeFZV34cR9yxXO0wz53En49I9bexOLVC0F9-2ls3w2_SvBCQ0PrqgB8aTPaTsHtwTY8PnO1L815EUqGXKDOQNALv-h9vwSIugMHALteahi6acSWhVQfK2xlnYL-tOrs9eSDvg0/s700/FIFA+.png",11:20 WIB • Spain v Italy | Final | FIFA Futsal World Championship Chinese Taipei 2004:trade_mark: | Full Match 
-#https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWQ84jW_0137UxufDZCQrqJAObB0BIWzsW63cQi82xpr9JKZBPLhKyrIeFZV34cR9yxXO0wz53En49I9bexOLVC0F9-2ls3w2_SvBCQ0PrqgB8aTPaTsHtwTY8PnO1L815EUqGXKDOQNALv-h9vwSIugMHALteahi6acSWhVQfK2xlnYL-tOrs9eSDvg0/s700/FIFA+.png",11:20 WIB • Spain v Italy | Final | FIFA Futsal World Championship Chinese Taipei 2004:trade_mark: | Full Match 
-#https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="LIVE NOW 18 AGUSTUS 2026",11:20 WIB • DTM '26: Nürburgring Race 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/845579.ts
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9Chi8Ni7m2sk6It1g49DGFvSvF4EMOhbU56lliZp3RlOuaXPBg5Rbezqm3uIISQnIgT3pbMsTYjdOnu6DsfCzIyRF8-4R62E7mw-qdTTuYZY8djU7Tuwx2iNTd1bow5dVbE4PXGDefFP458mMW0El6XjznlbNIjqMKfbrAu5BH8hknncToTEi3TN63aG/s700/SPORT%202.png" group-title="LIVE NOW 18 AGUSTUS 2026",11:25 WIB • Brasil x Holanda - Ao Vivo
@@ -146,56 +129,6 @@ https://a1xs.vip/1100032
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_qerOOU0ehWTS-0PLjmFVQ/Fv2lucGIbhPi2caWYvF5Lg/1758036656540/live/may6/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/4PsARBRmTw9LUn3EaWcm9g/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may26/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_saqb8iVsE_sGBEDIMDKiQ/Fv2lucGIbhPi2caWYvF5Lg/1753208953793/live/may121/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/7ZUnmJvxlnMcAlvs4phoog/Fv2lucGIbhPi2caWYvF5Lg/1757588377344/live/may171/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/cEcZ7pU11uzA8tMVkb7rHg/Fv2lucGIbhPi2caWYvF5Lg/1757934717649/live/may201/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_vL6TZlh4uqQqQPS_rrakA/Fv2lucGIbhPi2caWYvF5Lg/1758036936957/live/may241/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/qWJvRfvr3W1ad6ciSujyAA/Fv2lucGIbhPi2caWYvF5Lg/1755960654735/live/may251/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/j53Bpy28HTOZAc2bKmPCbQ/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may261/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/zTdtIhMhwXtJoXwtXGJQ9w/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may271/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:00 WIB • Phim truyện: Liêu trai tân truyện - Tập 1
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Anz18OGyRGcXc0HFOtAY9Q/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may281/chunklist.m3u8
 #EXTINF:-1 tvg-id="42" group-title="LIVE NOW 18 AGUSTUS 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBFpxR0fPYJiUnPsxnv8xfyIZcFPvsAbVPllIFksbDLhXOi1Jcb1eHBTu67Ugbj2ICdt6T-4F9S_cP4_r5er9aBQV9y5CoWOf1rH84GREcmgxfyctxR7N1OsEvKvZ1fckjPK0pWIRny01pJ5K9B-2fLtVgwpzC0kStL9fxVycmXTY6Y959wXqPKZt8PYO/s700/DUBAI%20SPORT.png",12:00 WIB • Hougang United FC vs BG Tampines Rovers FC
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="49" group-title="LIVE NOW 18 AGUSTUS 2026"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv6eVg2V5BAszgP8yOJfh_CnL2zI5DWoq7S-e_DgW4GIWrJIME5hFUbCjNMdaUttFnFSS_33SrghpDfCAwL5LP_FnLZ6VS0FimIh1nJUFikotSW_QihyphenhyphenvAVvU3_iUG14IYh3ocO7RODgkcAtVs1uU3yLhoxEBptM0GCp8Dcwk37-NpLuRZ6AlMmAtmIer/s700/OMAN%20SPORT.png",12:00 WIB • Giải Bóng Chuyền Vô Địch Trẻ Quốc Gia Vs Trực Tiếp - Đắk Lắk : Vtvcab Sx
@@ -219,18 +152,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 18 AGUSTUS 2026",12:00 WIB • Một nửa hoàn hảo - Tập 23
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6686
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 18 AGUSTUS 2026",12:00 WIB • Phim Việt Nam: Ly hôn tuổi 60 - Tập 61
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2yZh2WDMAvdavuVvyUlEgNWqTvIOgEhUzGlOiIiNWv4cOKYhoR8a9o9ufasldqR1XF1C-c7l69eHTK09zCaKvpXy8kLDEACrqUbfo_zBUl1KIb5EaKBDjPiFiybY6aR41uhwDSyogoUQSNVsWk_352Y9GJ03Ee8M_8mCPpbhVC3xhMOEt_Eh26tuKh5p/s700/DAZN.png" group-title="LIVE NOW 18 AGUSTUS 2026",12:00 WIB • Ucl Uel Uecl Final - Official Film
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIiwsA_yQMASn8Ul7mLEZIVH4K9HWgQKHHRKl9PCUM0Ey3OMvmBJhxq6UR0p1FRBA7sDzQmPc9ChV0cXZOWgyVJO8_bgTE-Z89qwt5LpKNx0rrU1m5gfwsV61B5JZ2Fm4PI2JkCZuiGh51JntaZibHCr3Grw4FQ9q2N0je8Jb9VSKWvqA-DM5jtFkA5T8y/s700/DUBAI%20SPORTS.png",12:00 WIB • Hougang United FC vs BG Tampines Rovers FC
@@ -422,59 +343,64 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",18 AGUSTUS 2026 • 12:32 WIB • Boxeo: velada Duarte vs Sims Jr (T2025): Óscar Duarte vs Kenneth Sims Jr
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 18 AGUSTUS 2026",12:32 WIB • Boxeo: velada Duarte vs Sims Jr (T2025): Óscar Duarte vs Kenneth Sims Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",18 AGUSTUS 2026 • 12:32 WIB • Boxeo: velada Duarte vs Sims Jr (T2025): Óscar Duarte vs Kenneth Sims Jr
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="LIVE NOW 18 AGUSTUS 2026",12:32 WIB • Boxeo: velada Duarte vs Sims Jr (T2025): Óscar Duarte vs Kenneth Sims Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
 https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/j-AXvjBsLIwCciOitJNE8A/Fv2lucGIbhPi2caWYvF5Lg/1751291602299/live/may4/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/jtaqrKwfBAeXx1JYbiItmg/Fv2lucGIbhPi2caWYvF5Lg/1758036936957/live/may24/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/xmwQ_9_cD63pAhkceSmtjQ/Fv2lucGIbhPi2caWYvF5Lg/1758036936957/live/may25/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/DwBMPhzzQjHFVvfNTEhGpQ/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may28/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/Z_oaKeXpeNJK7PanUGPuog/Fv2lucGIbhPi2caWYvF5Lg/1758036764025/live/may61/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/7BhMd_8UQZqNfQuw7wbiqA/Fv2lucGIbhPi2caWYvF5Lg/1757870371808/live/may91/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/Ewbe9EMSSNsNT1dOphxxbA/Fv2lucGIbhPi2caWYvF5Lg/1756684230373/live/may92/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/xDtpiE6Ux5ockXDBCTOaWA/Fv2lucGIbhPi2caWYvF5Lg/1757442979312/live/may101/chunklist.m3u8
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 12:40 WIB • Phim NN: Trọng tử - Tập 24
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",12:40 WIB • Phim NN: Trọng tử - Tập 24
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/rQBMK9YUx9LLBMEdPyZjzQ/Fv2lucGIbhPi2caWYvF5Lg/1754852575411/live/may111/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="NEXT LIVE",18 AGUSTUS 2026 • 12:45 WIB • Frankfurt Galaxy – Munich Ravens – EFA (Halbfinale): Frankfurt Galaxy – Munich Ravens
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="LIVE NOW 18 AGUSTUS 2026",12:45 WIB • Frankfurt Galaxy – Munich Ravens – EFA (Halbfinale): Frankfurt Galaxy – Munich Ravens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -482,13 +408,33 @@ https://hotlivezz179026907.akainu.xyz/rQBMK9YUx9LLBMEdPyZjzQ/Fv2lucGIbhPi2caWYvF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="NEXT LIVE",18 AGUSTUS 2026 • 12:45 WIB • Frankfurt Galaxy – Munich Ravens – EFA (Halbfinale): Frankfurt Galaxy – Munich Ravens
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 18 AGUSTUS 2026",12:45 WIB • Chuyện nhà mình - Số 91
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6686
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMPRSbf3PcfBhJKin25Hpim3yrMOHUv6IJV7c9hNvtnBMqWmFcd1Rgi7wfjGvAZtxrb5qZzW11abhvpSNWmXjl6K0OQaarRLoZcS4D1WP7BmjXSVL3lF0D6unw5gjS8rSHaHiebGcYn9PQgSQT9WvK_rUv9Zo7H42lQeDhyphenhyphenVacp35me-mCn-XmwseU_Ie/s700/CHAMPIONS%20TV.png" group-title="LIVE NOW 18 AGUSTUS 2026",12:45 WIB • Phim 3 phút 60 giây - Môn phái võ mèo - Huyền thoại một chú chó
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvUS84o.jpg" group-title="LIVE NOW 18 AGUSTUS 2026",12:45 WIB • Invicta FC: Phoenix Tournament - Atomweights
+http://line.extraott-iptv.com:88/2755789541/1300714776/153949
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VTXK7gV.jpg" group-title="LIVE NOW 18 AGUSTUS 2026",12:45 WIB • Frankfurt Galaxy – Munich Ravens – EFA (Halbfinale): Frankfurt Galaxy – Munich Ravens
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWQ84jW_0137UxufDZCQrqJAObB0BIWzsW63cQi82xpr9JKZBPLhKyrIeFZV34cR9yxXO0wz53En49I9bexOLVC0F9-2ls3w2_SvBCQ0PrqgB8aTPaTsHtwTY8PnO1L815EUqGXKDOQNALv-h9vwSIugMHALteahi6acSWhVQfK2xlnYL-tOrs9eSDvg0/s700/FIFA+.png",12:57 WIB • Spain v Japan | Semi-finals | FIFA U-17 Women's World Cup Jordan 2016:trade_mark: | Full Match Repla
+#https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="LIVE NOW 18 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWQ84jW_0137UxufDZCQrqJAObB0BIWzsW63cQi82xpr9JKZBPLhKyrIeFZV34cR9yxXO0wz53En49I9bexOLVC0F9-2ls3w2_SvBCQ0PrqgB8aTPaTsHtwTY8PnO1L815EUqGXKDOQNALv-h9vwSIugMHALteahi6acSWhVQfK2xlnYL-tOrs9eSDvg0/s700/FIFA+.png",12:57 WIB • Spain v Japan | Semi-finals | FIFA U-17 Women's World Cup Jordan 2016:trade_mark: | Full Match Repla
+#https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18 AGUSTUS 2026 • 13:00 WIB • Phim truyện Việt Nam: Bên kia sông - Tập 16, 17
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
