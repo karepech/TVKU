@@ -98,27 +98,6 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b70c7f6ee9d3f9d8a76870af90123e9:4c46e6bfebd1336d9e8003c576de0dfb
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",04:00 WIB • Redação sportv - Ao Vivo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",04:20 WIB • Live - Assam Premier League Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 22 AGUSTUS 2026",04:20 WIB • Live - Assam Premier League Cricket
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",04:20 WIB • Live - Assam Premier League Cricket
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",04:30 WIB • Playoff Playback -Orlando Magic vs Miami Heat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://smart.946985.filegear-sg.me/smart.php?id=Nba
 #EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",05:00 WIB • Lens vs PSG – Trophée Des Champions 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -183,10 +162,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",05:00 WIB • 西甲 桑坦德 vs 比利亞雷亞爾 (8/16/26)(普)
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ta779D.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",05:00 WIB • WTA1000 '26: Cincinnati Open QF1
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QrqS4N5.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",05:00 WIB • WTA1000 '26: Cincinnati Open QF1
-http://49.0.64.96:8007/TENNIS 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.imgur.com/75Lnbge.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",05:00 WIB • Mundial de Rugby em Cadeira de Rodas - Ao Vivo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
@@ -304,17 +279,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitaS3Krn7L-SqLPwohXUnvROpEWHg9XdJrAPd6MjP_5kbrJpklv8bToMN1u1nNPonznYYHt5tSDPhQQSRpZRd_qGImBOK0XW_w0HDDlr5yhq8lEb8YooSm58gLoQ8f4O5mz4abDdiV7_5iiobSHlTLhumC4uPqkQqZkiOTX1zZsk64l_xSFxLVMGf-WS0t/s700/ASTRO%20PREMIER%20LEAGUE.png" group-title="LIVE NOW 22 AGUSTUS 2026",05:55 WIB • PL Classic: Thailand vs Everton 2005
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
-#https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
-#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",05:55 WIB • PL Classic: Thailand vs Everton 2005
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Peacock-PL.png" group-title="LIVE NOW 22 AGUSTUS 2026",05:55 WIB • PL Classic: Thailand vs Everton 2005
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 #EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",06:00 WIB • That's 60s - The Best Music
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
@@ -334,9 +298,6 @@ https://hotlivezz179026907.akainu.xyz/sG9kMsEPzmCMIObu-OmXVg/Fv2lucGIbhPi2caWYvF
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bbb23a5ad81427fa6817864b2383402:81e055a8d6ddf6392ae9033f0f037b98
 https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi38piSRmryq4PHA-cHBJVROBo5i36l0lC5AtVZ-ri7H2nFaikz8-Q-gVbch4t1Ilc01kSvTNUqatSv56A2DZqm2A9Wan8_RdZ4F7d1zLn6I_Q7NLEzUUZ4v8PrLO-xHA09lVyIUQXUZMKjo48IoEpCXB51CzuLlphih9uPQkSz_554uwe3_cE-EH8SZaxy/s700/SONY%20TEN%202%20HD.png" group-title="LIVE NOW 22 AGUSTUS 2026",06:00 WIB • Semifinals 2; Durand Cup HLs
-#https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmHNXc9QmB1MkL5A7yh0efEuoOlG1_TTsDl-Ko8hDs-PgcExwDY9pq0Vsqdw4OKDa00DapgYLubStqu-ZFsJc1GhwhTEY_DKyl6zhtOE56-Cn9Ji-Di3zS_gL4LtT57jMog3wxAhV-5zvPx3-Kp-fXyKxJMi3at9VSqj690kwEdVe6nr3_PZBhx-Bm6i23/s700/SONY%20TEN%205%20HD.png" group-title="LIVE NOW 22 AGUSTUS 2026",06:00 WIB • Live - 1st Test, Day 1: England vs. Pakistan; Test Cricket
 #https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #http://app.hughag.store/api/d74ec2f219/playlist.m3u8
@@ -344,18 +305,14 @@ https://cdn.bdixtv24.com/SonyTen5HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS LIVE" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",06:00 WIB • BAC: Individual Final
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://i.imgur.com/RElOsbl.jpg",06:00 WIB • Semifinals 2; Durand Cup HLs
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Son2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 1" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",06:00 WIB • BAC: Individual Final
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://i.imgur.com/u8Sn4SU.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",06:00 WIB • Semifinals 2; Durand Cup HLs
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Son2.m3u8
 #EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://i.imgur.com/FPe9fhB.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",06:00 WIB • Live - 1st Test, Day 1: England vs. Pakistan; Test Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="beinsports.fr" group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://i.imgur.com/6jxpZQ8.jpg",06:00 WIB • Andrey Rublev vs Nuno Borges (POR) – ATP 1000 Cincinnati Open 2026
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
-#EXTINF:-1 group-title="NEXT LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",22 AGUSTUS 2026 • 06:15 WIB • Live - Assam Premier League Cricket
+#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",06:15 WIB • Live - Assam Premier League Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -365,14 +322,27 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="NEXT LIVE",22 AGUSTUS 2026 • 06:15 WIB • Live - Assam Premier League Cricket
+#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSPC_Op-NNPuvLvdX4MEj2i1FYxBS5SHSmzjh6VpgBZ6ZUBxTSpYeM1PG9Bp8gurhrKC0VkJrVe0WrLhUWvWf3_f7357Hbre1DOFeRidcnv0jQbd65sHTYaD8XATFdYyQerw43ipcfumQXMzsCA4eTh_a2sIC6wEfqxghV1aftw0GXXNG6Vo28EdL_VAj/s700/STAR%20SPORTS%201.png" group-title="LIVE NOW 22 AGUSTUS 2026",06:15 WIB • Live - Assam Premier League Cricket
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="NEXT LIVE",22 AGUSTUS 2026 • 06:15 WIB • Live - Assam Premier League Cricket
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QI0sRvg.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",06:15 WIB • Live - Assam Premier League Cricket
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="NEXT LIVE",22 AGUSTUS 2026 • 06:15 WIB • Tá On - Ao Vivo
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jx3ZKHy.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",06:15 WIB • Tá On - Ao Vivo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",06:30 WIB • ICC CWC 2023: India vs Australia, 5th Match; One-Day International Cricket
+http://tv.casindo.org/hls/56/56.m3u8
+#EXTINF:-1 tvg-id="starsports2.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zcI1PL7b0O1rWt7Dv8O9O8Q8nWxfco32t7-YmFNNdQ0xWPzlKFvjRBp2ZnXqTiNcpcFGYi-auQQWyKR0bh263XFQUFL31xIvraopKdOe6Thry2ATut29C3xkc0jSUKnwtH66Y_pRxCMdQqIqX1CIkb3pDKysnM98NlY4y7rCDy0aJmH1wYRXFPEQ91qe/s700/STAR%20SPORTS%202.png" group-title="LIVE NOW 22 AGUSTUS 2026",06:30 WIB • ICC CWC 2023: India vs Australia, 5th Match; One-Day International Cricket
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+#EXTINF:-1 tvg-id="ssc2.sa" group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomkfXRTjVI4wxSXC2FmsFTxi-q3IgznVerHC4Lr8ChvpUuF23xwH4d-o2iAupQookdyflJzJog0KU4wBl2lkJbgSomDUXebvwTfFeZYWqxrXPQL7mUpzLO2tbv04a_XPm_fyl9njPWxhAHYam0qSwBeWVViZpGUmSWVvbos8OS-6lN3L2yxPhjWbyQU_7/s700/SSC.png",06:30 WIB • TML - Nada Neerajanam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star ⭐SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mCjnQxL.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",06:30 WIB • ICC CWC 2023: India vs Australia, 5th Match; One-Day International Cricket
+http://iptvtree.net:8080/F28312/cc1dc138/16619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/psjtv.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",06:30 WIB • Tipping Point: Best Ever Finals
+https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="NEXT LIVE",22 AGUSTUS 2026 • 06:35 WIB • MotoGP – GP de Alemania (T2026): Carrera MotoGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
