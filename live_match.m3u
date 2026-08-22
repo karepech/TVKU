@@ -26,47 +26,6 @@ http://46.151.196.223:14444/
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",16:10 WIB • 富山 F1 第3日
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_PW_3S536pZLM27dgeANjMf9n_v52KtdKqmdeKgUbBkZlX9pSeIITBU0njryIbhem7tDPjAQPZrrF7ug1tA2Me-4uBz5p7G8YhF-VUPPSMfg8GXpiwU1Ci_TVomp5CtJJETdHgndJmXdkx4mVasucdZzhC561IKo4eZy3mfM8G9KXkz2x3ZbuRFyNGCkf/s700/ASTRO%20GRANDSTAND.png" group-title="LIVE NOW 22 AGUSTUS 2026",16:30 WIB • VNL Women's: 3rd – 4th: CHN vs ITA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
-https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",16:30 WIB • VNL Women's: 3rd – 4th: CHN vs ITA
-https://a1xs.vip/1100032
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",16:50 WIB • LaLiga 2026/27: BET Vs RSO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="411993" tvg-name="beIN Sports 1" group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",16:50 WIB • LaLiga 2026/27: BET Vs RSO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/UvVyaT5.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",16:50 WIB • LaLiga 2026/27: BET Vs RSO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beinsports1.fr" group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://i.imgur.com/ijZ6SXz.jpg",16:50 WIB • LaLiga 2026/27: BET Vs RSO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",16:50 WIB • LaLiga 2026/27: BET Vs RSO
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE NOW 22 AGUSTUS 2026",16:50 WIB • LaLiga 2026/27: BET Vs RSO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mzfHYC5TjMHkYTcLs7cb-WqaCXjF1ay-TcjJm_xwCKHAn-_hetiuETyJnQ3yAnj7ufKMCGY8xPGRW_dYD-4S4q9bEao-6Ra7jsYxpYhuXrHhtbFKnSpkaytS4__NxY_SnjKPcZxbdEjjrA-BJgIHQ8K7sAzgvMoKlr7c-QzIYRuFqnN4q5_gYlzacBjV/s700/ASTRO%20FOOTBALL.png" group-title="LIVE NOW 22 AGUSTUS 2026",17:00 WIB • DFB: St.Tonis vs Eintracht
 #KODIPROP:inputstream.adaptive.license_type=m3u8
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
@@ -174,8 +133,6 @@ https://a1xs.vip/2000012
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
 #EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://i.imgur.com/I1uGi27.jpg",17:45 WIB • MotoGP. Great Britain GP. Moto3 Race (Moto3: British motorcycle Grand Prix), 2026
 http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQh3JVtGVFE1Z2Eg0skJm3dmddheZGRdnooHnRyoOrV9T9xzoKOT4nxYERm0EHxDa8TpiFfwnLDPhIrt7JLhlKaCotKaKc9uUqetuQZdTJTLgkYkfaW0kXvwtifseOMMoG36VCeMP5RLkTpt9mZd9jxiERmhWPo58qnXAI2ZeKDIbm2Qey7FS-yBMV7tYr/s700/TRT%20SPOR.png",17:50 WIB • Silniční cyklistika: Arctic Race of Norway
-http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/dLgQjem.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",17:50 WIB • GP Catalogna: Gara MotoGP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
@@ -373,56 +330,14 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",18:30 WIB • Tạp Chí ATP Tour Tổng Hợp: Canadian Open - Mới
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_qerOOU0ehWTS-0PLjmFVQ/Fv2lucGIbhPi2caWYvF5Lg/1758036656540/live/may6/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/4PsARBRmTw9LUn3EaWcm9g/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may26/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_saqb8iVsE_sGBEDIMDKiQ/Fv2lucGIbhPi2caWYvF5Lg/1753208953793/live/may121/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/7ZUnmJvxlnMcAlvs4phoog/Fv2lucGIbhPi2caWYvF5Lg/1757588377344/live/may171/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/cEcZ7pU11uzA8tMVkb7rHg/Fv2lucGIbhPi2caWYvF5Lg/1757934717649/live/may201/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/_vL6TZlh4uqQqQPS_rrakA/Fv2lucGIbhPi2caWYvF5Lg/1758036936957/live/may241/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/qWJvRfvr3W1ad6ciSujyAA/Fv2lucGIbhPi2caWYvF5Lg/1755960654735/live/may251/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/j53Bpy28HTOZAc2bKmPCbQ/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may261/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/zTdtIhMhwXtJoXwtXGJQ9w/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may271/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE NOW 22 AGUSTUS 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikURlrY15gnadYlqjsnifgkOV6h5yzzIecpGB9jae213vg0Azmb7BgiY1cmwW97r6EePdCt3ltOfifx7G6D-3Bt7pVMDVinuJ220ZPR0BUNDQRfogKUmz8wqWowFKX51IdiLeL5ApY5SEElp7BqbpXKdJo10Tx9b6KtszCxbT5z3N7j-T6xxZgSzQ7oTil/s700/THAP%20CAM%20TV%20EVENT.gif",18:35 WIB • Sách hay thay đổi cuộc đời - Số 34/129
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Anz18OGyRGcXc0HFOtAY9Q/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may281/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_PW_3S536pZLM27dgeANjMf9n_v52KtdKqmdeKgUbBkZlX9pSeIITBU0njryIbhem7tDPjAQPZrrF7ug1tA2Me-4uBz5p7G8YhF-VUPPSMfg8GXpiwU1Ci_TVomp5CtJJETdHgndJmXdkx4mVasucdZzhC561IKo4eZy3mfM8G9KXkz2x3ZbuRFyNGCkf/s700/ASTRO%20GRANDSTAND.png" group-title="LIVE NOW 22 AGUSTUS 2026",18:50 WIB • VNL Women's: Final: TUR vs BRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="LIVE NOW 22 AGUSTUS 2026",18:50 WIB • VNL Women's: Final: TUR vs BRA
+https://a1xs.vip/1100032
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iFIwy0Ozg7rTbpF7uSYrGpX5JEvtTHyfGG2o8074p0EKtqgiJQvPWZoiq2jbM91LVOakh8Xl74FybJ9NEx7NloKTFi2N4uiLWNLnFfrlxp9AOrSi-bazXL5YcL_tI11C5X7toaBfTpQGpZsK9pSqsXoIOB3lD3RDBZBKN7g-G1Hdy5_FkD1pyNifxmWR/s700/SPORT%201.png" group-title="NEXT LIVE",22 AGUSTUS 2026 • 18:55 WIB • Corinthians (BRA) – Rosario Central (ARG) – CONMEBOL Libertadores (Achtelfinale, Rückspiel): Corinth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
